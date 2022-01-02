@@ -1,0 +1,5372 @@
+Sorting...
+Full Text Search...
+9wm/stable 1.4.1-1 amd64
+  X11 window manager inspired by Plan 9's rio
+
+accerciser/stable,stable,stable,stable 3.38.0-1 all
+  interactive Python accessibility explorer for the GNOME desktop
+
+adapta-gtk-theme/stable,stable,stable,stable 3.95.0.11-2 all
+  Adaptive Gtk+ theme
+
+adapta-kde/stable,stable,stable,stable 20180828-2 all
+  Port of the popular Gtk theme Adapta for Plasma 5 desktop
+
+adwaita-icon-theme/stable,stable,stable,stable,now 3.38.0-1 all [installed,automatic]
+  default icon theme of GNOME
+
+aewm++/stable 1.1.2-5.1 amd64
+  minimal window manager written in C++
+
+aewm++-goodies/stable 1.0-10+b1 amd64
+  utilities to complement a minimal window manager
+
+affiche.app/stable,now 0.6.0-11+b1 amd64 [residual-config]
+  Application to "stick" little notes on the desktop
+
+akonadi-backend-mysql/stable,stable,stable,stable 4:20.08.3-3 all
+  MySQL storage backend for Akonadi
+
+akonadi-backend-postgresql/stable,stable,stable,stable 4:20.08.3-3 all
+  PostgreSQL storage backend for Akonadi
+
+akonadi-backend-sqlite/stable 4:20.08.3-3 amd64
+  SQLite storage backend for Akonadi
+
+akonadi-server/stable 4:20.08.3-3 amd64
+  Akonadi PIM storage service
+
+akqml/stable 8.6.1+dfsg-2.1 amd64
+  full featured webcam capture application - qml module
+
+alacarte/stable,stable,stable,stable 3.36.0-1 all
+  easy GNOME menu editing tool
+
+alice/stable,stable,stable,stable 0.19-2 all
+  Web browser (WebKit or Gecko) based IRC client
+
+amtterm/stable 1.4-3 amd64
+  Serial-over-lan (sol) client for Intel AMT, console version
+
+antimicro/stable 3.1.4-1 amd64
+  GUI for mapping keyboard keys and mouse controls to a gamepad
+
+anydesk/now 6.1.1 amd64 [installed,local]
+  The fastest remote desktop software on the market.
+
+anyremote/stable 6.7.3-3 amd64
+  Remote control daemon for applications using Bluetooth, IrDA or Wi-Fi
+
+anyremote-data/stable,stable,stable,stable 6.7.3-3 all
+  architecture independent files for anyremote
+
+anyremote-doc/stable,stable,stable,stable 6.7.3-3 all
+  Documentation for anyremote
+
+apparmor-notify/stable,stable,stable,stable 2.13.6-10 all
+  AppArmor notification system
+
+apper/stable 1.0.0-3 amd64
+  KDE package management tool using PackageKit
+
+appmenu-registrar/stable 0.7.6-2 amd64
+  Appmenu DBusMenu registrar
+
+arc-theme/stable,stable,stable,stable 20201013-2 all
+  Flat theme with transparent elements
+
+arctica-greeter-remote-logon/stable,stable,stable,stable 0.99.1.5-2 all
+  LightDM Arctica Greeter - Remote Login Support
+
+artha/stable 1.0.5-2 amd64
+  Handy off-line thesaurus based on WordNet
+
+asunder/stable 2.9.7-1 amd64
+  graphical audio CD ripper and encoder
+
+autokey-common/stable,stable,stable,stable 0.95.10-2 all
+  desktop automation utility - common data
+
+autokey-gtk/stable,stable,stable,stable 0.95.10-2 all
+  desktop automation utility - GTK+ version
+
+autokey-qt/stable,stable,stable,stable 0.95.10-2 all
+  desktop automation utility - Qt version
+
+autosuspend/stable,stable,stable,stable 3.0-1 all
+  daemon to suspend a system in case of inactivity
+
+awesome/stable 4.3-5+b1 amd64
+  highly configurable X window manager
+
+awesome-doc/stable,stable,stable,stable 4.3-5 all
+  highly configurable X window manager - documentation
+
+awesome-extra/stable,stable,stable,stable 2020122801 all
+  additional modules for awesome
+
+ayatana-indicator-bluetooth/stable 0.8.2-1 amd64
+  Ayatana Indicator for managing Bluetooth devices
+
+ayatana-indicator-common/stable,stable,stable,stable 0.8.4-1+deb11u2 all
+  libayatana-indicator shared files
+
+ayatana-indicator-datetime/stable 0.8.2-1 amd64
+  Ayatana Indicator providing clock and calendar
+
+ayatana-indicator-messages/stable 0.8.2-1 amd64
+  Ayatana Indicator that collects messages that need a response
+
+ayatana-indicator-notifications/stable 0.8.90-1 amd64
+  Ayatana Indicator for viewing recent notifications
+
+ayatana-indicator-power/stable 2.1.2-1 amd64
+  Ayatana Indicator showing power state
+
+ayatana-indicator-printers/stable 0.8.2-1 amd64
+  Ayatana Indicator showing active print jobs
+
+ayatana-indicator-session/stable 0.8.2-1 amd64
+  Ayatana Indicator showing session management, status and user switching
+
+ayatana-indicator-sound/stable 0.8.2-1 amd64
+  Ayatana Indicator for managing system sound
+
+ayatana-settings/stable,stable,stable,stable 21.1.28-1 all
+  Ayatana Indicators Settings
+
+ayatana-webmail/stable,stable,stable,stable 21.2.6+dfsg1-1 all
+  Webmail notifications and actions for any desktop
+
+baloo-kf5/stable 5.78.0-3 amd64
+  framework for searching and managing metadata
+
+baloo-kf5-dev/stable 5.78.0-3 amd64
+  framework for searching and managing metadata devel files
+
+balsa/stable 2.6.1-1 amd64
+  e-mail client for GNOME
+
+bamfdaemon/stable 0.5.4-2 amd64
+  Window matching library - daemon
+
+basilisk2/stable 0.9.20180101-1+b2 amd64
+  68k Macintosh emulator
+
+bbpager/stable 0.4.7-10 amd64
+  Pager for the blackbox and fluxbox window managers
+
+bbrun/stable 1.6-8 amd64
+  tool for the blackbox/fluxbox window managers that runs commands
+
+bgoffice-dict-downloader/stable,stable,stable,stable 0.10 all
+  download dictionaries for gbgoffice
+
+bilibop-lockfs/stable 0.6.3 amd64
+  lock filesystems and write changes into RAM
+
+bilibop-rules/stable 0.6.3 amd64
+  device management rules for OS running from external media
+
+bless/stable,stable,stable,stable 0.6.0-7 all
+  A full featured hexadecimal editor
+
+boinc/stable,stable,stable,stable 7.16.16+dfsg-1 all
+  metapackage for the BOINC client and the manager
+
+boinc-client/stable 7.16.16+dfsg-1 amd64
+  core client for the BOINC distributed computing infrastructure
+
+boinc-client-nvidia-cuda/stable 7.16.16+dfsg-1 amd64
+  metapackage for CUDA-savvy BOINC client and manager
+
+boinc-client-opencl/stable 7.16.16+dfsg-1 amd64
+  metapackage for AMD/ATI OpenCL-savvy BOINC client and manager
+
+boinc-screensaver/stable 7.16.16+dfsg-1 amd64
+  screen saver auto-controlling volunteer computing
+
+boinc-virtualbox/stable 7.16.16+dfsg-1 amd64
+  metapackage for virtualbox-savvy projects
+
+breeze/stable 4:5.20.5-4 amd64
+  Default Plasma theme (Metapackage)
+
+breeze-cursor-theme/stable,stable,stable,stable 4:5.20.5-4 all
+  Default Plasma cursor theme
+
+breeze-dev/stable 4:5.20.5-4 amd64
+  Default Plasma theme (development files)
+
+breeze-icon-theme/stable,stable,stable,stable 4:5.78.0-2 all
+  Default Plasma icon theme
+
+breeze-icon-theme-rcc/stable,stable,stable,stable 4:5.78.0-2 all
+  RCC resources for the breeze icon theme
+
+budgie-app-launcher-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to provide an alternative means to launch applications
+
+budgie-applications-menu-applet/stable 1.1.0-1 amd64
+  Stylish Applications Menu for Budgie-Desktop
+
+budgie-brightness-controller-applet/stable 1.1.0-1 amd64
+  Applet to control the brightness of the screen
+
+budgie-clockworks-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to display clock across multiple time zones
+
+budgie-core/stable 10.5.2-4 amd64
+  Core package for Budgie-Desktop
+
+budgie-core-dev/stable 10.5.2-4 amd64
+  Development package for budgie-desktop
+
+budgie-countdown-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet providing a countdown capability on the Budgie Desktop
+
+budgie-desktop/stable,stable,stable,stable 10.5.2-4 all
+  Desktop package for budgie-desktop
+
+budgie-desktop-doc/stable,stable,stable,stable 10.5.2-4 all
+  documentation files for the budgie-desktop
+
+budgie-desktop-view/stable 1.1.1-1 amd64
+  Desktop Icons for the Budgie-Desktop
+
+budgie-dropby-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to popup when a USB device is connected
+
+budgie-extras-common/stable 1.1.0-1 amd64
+  Shared component of budgie-extras applets
+
+budgie-extras-daemon/stable 1.1.0-1 amd64
+  Extras daemon for budgie-extras capabilities
+
+budgie-fuzzyclock-applet/stable 1.1.0-1 amd64
+  Show the time in a fuzzy way
+
+budgie-hotcorners-applet/stable 1.1.0-1 amd64
+  Applet providing hotcorners capabilities for the Budgie Desktop
+
+budgie-indicator-applet/stable 0.6.2-1 amd64
+  Application Indicator for the budgie-desktop
+
+budgie-kangaroo-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to allow quick file-browsing
+
+budgie-keyboard-autoswitch-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet adding the ability to set a different keyboard layout per application
+
+budgie-network-manager-applet/stable 1.1.0-1 amd64
+  Network Manager Applet for the budgie-desktop
+
+budgie-previews/stable 1.1.0-1 amd64
+  Provides window previews capabilities for the Budgie Desktop
+
+budgie-quickchar/stable,stable,stable,stable 1.1.0-1 all
+  GUI to find and choose locale characters
+
+budgie-quicknote-applet/stable 1.1.0-1 amd64
+  Applet providing simple notes capability for the Budgie Desktop
+
+budgie-recentlyused-applet/stable 1.1.0-1 amd64
+  Applet displays files recently accessed for the Budgie Desktop
+
+budgie-rotation-lock-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to lock or unlock the screen rotation
+
+budgie-showtime-applet/stable 1.1.0-1 amd64
+  Applet displaying date and time on the Budgie Desktop
+
+budgie-takeabreak-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet to prompt when to take-a-break for a set period of time
+
+budgie-trash-applet/stable 1.1.0-1 amd64
+  Applet allows access to trash capabilities for the Budgie Desktop
+
+budgie-visualspace-applet/stable 1.1.0-1 amd64
+  Show and manage windows in workspaces for the Budgie Desktop
+
+budgie-wallstreet/stable 1.1.0-1 amd64
+  Change wallpaper from a folder on a schedule
+
+budgie-weathershow-applet/stable 1.1.0-1 amd64
+  Applet to display the weather and forecast
+
+budgie-window-mover-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet allows moving windows between workspaces for the Budgie Desktop
+
+budgie-window-shuffler/stable 1.1.0-1 amd64
+  Keyboard and GUI friendly window-tiling capability
+
+budgie-workspace-overview-applet/stable,stable,stable,stable 1.1.0-1 all
+  Applet providing quick access to workspaces for the Budgie Desktop
+
+budgie-workspace-stopwatch-applet/stable,stable,stable,stable 1.1.0-1 all
+  Workspace usage tracker for the budgie desktop
+
+budgie-workspace-wallpaper-applet/stable 1.1.0-1 amd64
+  Applet providing per workspace wallpaper
+
+buici-clock/stable 0.4.9.4+nmu1 amd64
+  attractive desktop clock
+
+busybox/stable,now 1:1.30.1-6+b3 amd64 [installed]
+  Tiny utilities for small and embedded systems
+
+busybox-static/stable 1:1.30.1-6+b3 amd64
+  Standalone rescue shell with tons of builtin utilities
+
+byzanz/stable 0.3.0+git20160312-4 amd64
+  small screencast creator
+
+caffeine/stable,stable,stable,stable 2.9.8-1 all
+  prevent the desktop becoming idle in full-screen mode
+
+cairo-dock-core/stable 3.4.1+git20201103.0836f5d1-1 amd64
+  Light eye-candy fully themable animated dock for Linux desktop
+
+cairo-dock-desklet-rendering-plug-in/stable 3.4.1+git20201022.a0d3415c-1 amd64
+  Desklet rendering plug-in for Cairo-dock
+
+cairo-dock-showdesktop-plug-in/stable 3.4.1+git20201022.a0d3415c-1 amd64
+  Show desktop plug-in for Cairo-dock
+
+caja/stable 1.24.0-1 amd64
+  file manager for the MATE desktop
+
+caja-common/stable,stable,stable,stable 1.24.0-1 all
+  file manager for the MATE desktop (common files)
+
+caja-dropbox/stable 1.24.0-1 amd64
+  Dropbox integration for Caja
+
+caja-eiciel/stable 1.20.1-2 amd64
+  Graphical editor for ACLs and xattr for MATE Desktop
+
+caja-extensions-common/stable,stable,stable,stable 1.24.1-1 all
+  Caja extensions (common files)
+
+caja-image-converter/stable 1.24.1-1 amd64
+  Caja extension to mass resize or rotate images
+
+caja-mediainfo/stable,stable,stable,stable 1.0.3+repack1-1 all
+  View media information from the Caja file properties tab
+
+caja-nextcloud/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud integration for Caja
+
+caja-open-terminal/stable 1.24.1-1 amd64
+  Caja plugin for opening terminals in arbitrary local paths
+
+caja-sendto/stable 1.24.1-1 amd64
+  integrates email clients and Pidgin into the Caja file manager
+
+caja-share/stable 1.24.1-1 amd64
+  Allows one to quickly share a folder from the Caja file manager
+
+caja-wallpaper/stable 1.24.1-1 amd64
+  Allows one to quickly set a wallpaper from folders
+
+caja-xattr-tags/stable 1.24.1-1 amd64
+  Allows one to view extended attributes
+
+calligra-gemini/stable 1:3.2.1+dfsg-2+b5 amd64
+  unified interface for stage and words
+
+calligra-gemini-data/stable,stable,stable,stable 1:3.2.1+dfsg-2 all
+  Calligra Gemini - data files
+
+calligrawords/stable 1:3.2.1+dfsg-2+b5 amd64
+  word processor for the Calligra Suite
+
+cenon.app/stable 4.0.6+ds1-2+b2 amd64
+  Vector graphics tool for GNUstep
+
+cenon.app-common/stable,stable,stable,stable 4.0.6+ds1-2 all
+  Vector graphics tool for GNUstep (common files)
+
+centrifuge/stable 1.0.3-8 amd64
+  rapid and memory-efficient system for classification of DNA sequences
+
+charmap.app/stable 0.3~rc1-4+b1 amd64
+  Character map for GNUstep
+
+chatty/stable 0.2.0-1+b1 amd64
+  XMPP and SMS messaging
+
+chemical-mime-data/stable,stable,stable,stable 0.1.94-7.1 all
+  chemical MIME and file type support for desktops
+
+chiark-tcl-applet/stable,stable,stable,stable 1.0-2 all
+  Tray widget for battery monitor and other X11 programs
+
+cinnamon/stable 4.8.6-2 amd64
+  Innovative and comfortable desktop
+
+cinnamon-common/stable,stable,stable,stable 4.8.6-2 all
+  Innovative and comfortable desktop (Common data files)
+
+cinnamon-control-center/stable 4.8.2-1 amd64
+  configuration applets for the Cinnamon desktop
+
+cinnamon-control-center-goa/stable 4.8.2-1 amd64
+  configuration applets for the Cinnamon desktop - Gnome Online Account
+
+cinnamon-core/stable,stable,stable,stable 4.8.3 all
+  Cinnamon desktop environment - essential components
+
+cinnamon-desktop-data/stable,stable,stable,stable 4.8.1-2 all
+  Common files for Cinnamon desktop apps
+
+cinnamon-desktop-environment/stable,stable,stable,stable 4.8.3 all
+  Cinnamon desktop environment - full desktop with extra components
+
+cinnamon-doc/stable,stable,stable,stable 4.8.6-2 all
+  Innovative and comfortable desktop (Documentation)
+
+cinnamon-l10n/stable,stable,stable,stable 4.8.3-1 all
+  Translation files for the Cinnamon desktop
+
+cinnamon-screensaver/stable 4.8.1-3 amd64
+  Cinnamon screen saver and locker
+
+cinnamon-session/stable 4.8.0-3 amd64
+  Cinnamon Session Manager - Minimal runtime
+
+cinnamon-session-common/stable,stable,stable,stable 4.8.0-3 all
+  Cinnamon Session Manager - common files
+
+cinnamon-settings-daemon/stable 4.8.5-1 amd64
+  daemon handling the Cinnamon session settings
+
+cjs/stable 4.8.2-1 amd64
+  Mozilla-based javascript bindings for the GNOME platform
+
+ckeditor/stable,stable,stable,stable 4.16.0+dfsg-2 all
+  text editor which can be embedded into web pages
+
+ckeditor3/stable,stable,stable,stable 3.6.6.1+dfsg-7 all
+  text editor for internet
+
+clamtk/stable,stable,stable,stable 6.03-3 all
+  graphical front-end for ClamAV
+
+clblast-tests/stable 1.5.2-2 amd64
+  Tests for CLBlast
+
+clblast-utils/stable 1.5.2-2 amd64
+  Utilities for CLBlast
+
+clementine/stable 1.4.0~rc1+git347-gfc4cb6fc7+dfsg-1+b1 amd64
+  modern music player and library organizer
+
+clevis-udisks2/stable 16-2 amd64
+  UDisks2/Storaged integration for clevis
+
+clisp/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP, a Common Lisp implementation
+
+clisp-doc/stable,stable,stable,stable 1:2.49.20180218+really2.49.92-3 all
+  GNU CLISP, a Common Lisp implementation (documentation)
+
+clisp-module-berkeley-db/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds an interface to Berkeley DB
+
+clisp-module-clx/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds X11 bindings
+
+clisp-module-dbus/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds an interface to D-Bus
+
+clisp-module-gdbm/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds an interface to GNU DBM
+
+clisp-module-pcre/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds libpcre support
+
+clisp-module-postgresql/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds a PostgreSQL interface
+
+clisp-module-zlib/stable 1:2.49.20180218+really2.49.92-3+b4 amd64
+  GNU CLISP module that adds zlib support for vectors
+
+clonalframeml/stable 1.12-1 amd64
+  Efficient Inference of Recombination in Whole Bacterial Genomes
+
+coccinella/stable,stable,stable,stable 0.96.20-9 all
+  Communication tool (XMPP/Jabber) with a built-in whiteboard
+
+collectd-core/stable,now 5.12.0-7 amd64 [installed,automatic]
+  statistics collection and monitoring daemon (core system)
+
+compiz/stable,stable,stable,stable 2:0.8.18-2 all
+  OpenGL window and compositing manager
+
+compiz-boxmenu/stable 1.1.12-5 amd64
+  Compiz Reloaded - daemon and clients providing pop-up menus
+
+compiz-core/stable 2:0.8.18-2 amd64
+  OpenGL window and compositing manager
+
+compiz-dev/stable 2:0.8.18-2 amd64
+  OpenGL window and compositing manager - development files
+
+compiz-gnome/stable 2:0.8.18-2 amd64
+  OpenGL window and compositing manager - Gtk window decorator
+
+compiz-mate/stable 2:0.8.18-2 amd64
+  OpenGL window and compositing manager - MATE window decorator
+
+compiz-plugins/stable 2:0.8.18-2 amd64
+  OpenGL window and compositing manager - plugins
+
+conky/stable,stable,stable,stable 1.11.6-2 all
+  highly configurable system monitor (transitional package)
+
+conky-all/stable 1.11.6-2 amd64
+  highly configurable system monitor (all features enabled)
+
+conky-cli/stable 1.11.6-2 amd64
+  highly configurable system monitor (basic version)
+
+conky-std/stable 1.11.6-2 amd64
+  highly configurable system monitor (default version)
+
+connman-gtk/stable 1.1.1+git20180626.b72c6ab-2 amd64
+  fully-featured GUI for ConnMan with systray support
+
+connman-ui/stable 0~20150623-1+b1 amd64
+  full-featured GTK-based tray icon UI for ConnMan
+
+cudo-miner-desktop/stable 1.4.9 amd64
+  Cudo Miner Desktop
+
+curtain/stable 0.3-1.1 amd64
+  handy curtain for the desktop
+
+cwm/stable 6.6-2 amd64
+  lightweight and efficient window manager for X11
+
+cynthiune.app/stable 1.0.0-2+b3 amd64
+  Music player for GNUstep
+
+danmaq/stable 0.2.3.2-1 amd64
+  Small client side Qt program to play danmaku on any screen
+
+darcula/stable,stable,stable,stable 2018.2-2 all
+  Dark Look and Feel for Java desktop applications
+
+dconf-cli/stable,now 0.38.0-2 amd64 [installed,automatic]
+  simple configuration storage system - utilities
+
+dconf-editor/stable 3.38.2-1 amd64
+  simple configuration storage system - graphical editor
+
+dconf-gsettings-backend/stable,now 0.38.0-2 amd64 [installed,automatic]
+  simple configuration storage system - GSettings back-end
+
+dconf-service/stable,now 0.38.0-2 amd64 [installed,automatic]
+  simple configuration storage system - D-Bus service
+
+ddcci-dkms/stable,stable,stable,stable 0.3.3-1 all
+  DDC/CI driver
+
+dde-calendar/stable 5.7.0.4-1 amd64
+  Deepin Calendar
+
+dde-qt5integration/stable 5.1.0.5-1 amd64
+  Qt5 theme integration for Deepin application
+
+debian-installer-launcher/stable,stable,stable,stable 38 all
+  Debian Installer desktop launcher
+
+debian-mate-default-settings/stable,stable,stable,stable 1.24.1-2 all
+  Default settings for MATE on Debian
+
+debug-me/stable 1.20200820-1 amd64
+  secure remote debugging
+
+deepin-calculator/stable 5.6.0.10-2 amd64
+  Calculator for DDE (Deepin Desktop Environment)
+
+deepin-deb-installer/stable 5.6.0.19-1 amd64
+  Deepin Package Manager
+
+deepin-gettext-tools/stable,stable,stable,stable 1.0.8-5 all
+  Deepin Internationalization utilities
+
+deepin-icon-theme/stable,stable,stable,stable 2020.09.25-1 all
+  Icon Theme for Deepin software and Deepin Desktop Environment
+
+deepin-image-viewer/stable 5.0.0-2 amd64
+  Image Viewer for Deepin Desktop Environment
+
+deepin-menu/stable 5.0.1-1 amd64
+  Deepin menu service
+
+deepin-movie/stable 5.7.6.147-1 amd64
+  Deepin movie player
+
+deepin-music/stable 6.0.1.54+ds.1-2 amd64
+  music player with brilliant and tweakful UI
+
+deepin-notifications/stable 3.3.4-1+b2 amd64
+  System notifications for Deepin Desktop Environment
+
+deepin-picker/stable 5.0.1-2+b1 amd64
+  Color picker tool for deepin
+
+deepin-screen-recorder/stable 5.8.0.46-2 amd64
+  Simple recorder tools for deepin
+
+deepin-screenshot/stable 5.0.0-1.1+b1 amd64
+  Advanced screen shoting tool
+
+deepin-shortcut-viewer/stable 5.0.1-1 amd64
+  Pop-up shortcut viewer for Deepin applications
+
+deepin-sound-theme/stable,stable,stable,stable 15.10.5-1 all
+  Deepin sound theme for DDE
+
+deepin-terminal/stable 5.0.0+ds1-3 amd64
+  Deepin terminal emulator application
+
+deepin-voice-recorder/stable 5.0.0-2 amd64
+  Deepin's Voice recorder
+
+deja-dup/stable 42.7-1 amd64
+  Backup utility
+
+design-desktop/stable,stable,stable,stable 3.0.22 all
+  Debian Design desktop for visual designers - common parts
+
+design-desktop-animation/stable,stable,stable,stable 3.0.22 all
+  Debian Design desktop for animation designers
+
+design-desktop-graphics/stable,stable,stable,stable 3.0.22 all
+  Debian Design desktop for graphics designers
+
+design-desktop-strict/stable,stable,stable,stable 3.0.22 all
+  Debian Design desktop for visual designers - strict
+
+design-desktop-web/stable,stable,stable,stable 3.0.22 all
+  Debian Design desktop for web designers
+
+desklaunch/stable 1.1.8+b2 amd64
+  A small utility for creating desktop icons
+
+desktop-autoloader/stable,stable,stable,stable 0.0.4-1 all
+  Accelerate Diskless Workstation systems by pre-loading a dummy Desktop Session
+
+desktop-base/stable,stable,stable,stable,now 11.0.3 all [installed,automatic]
+  common files for the Debian Desktop
+
+desktop-file-utils/stable,now 0.26-1 amd64 [installed,automatic]
+  Utilities for .desktop files
+
+desktopfolder/stable 1.1.3-1 amd64
+  Organize your desktop with panels, notes and photos
+
+devscripts/stable 2.21.3+deb11u1 amd64
+  scripts to make the life of a Debian Package maintainer easier
+
+dex/stable,stable,stable,stable 0.9.0-1 all
+  generate and execute Application type .desktop files
+
+dianara/stable 1.4.2-1+b2 amd64
+  client for the pump.io federated social network
+
+diffoscope/stable,stable,stable,stable 177 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable,stable,stable,stable 177 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+diodon/stable 1.11.0-1 amd64
+  GTK+ Clipboard manager
+
+diodon-dev/stable 1.11.0-1 amd64
+  GTK+ Clipboard manager (development files)
+
+djvulibre-desktop/stable,stable,stable,stable 3.5.28-2 all
+  Desktop support for the DjVu image format
+
+dmz-cursor-theme/stable,stable,stable,stable 0.4.5 all
+  Style neutral, scalable cursor theme
+
+dolphin-dev/stable 4:20.12.2-1 amd64
+  file manager - development files
+
+dolphin-nextcloud/stable 3.1.1-2+deb11u1 amd64
+  Nextcloud integration for Dolphin
+
+doodle/stable 0.7.0-10 amd64
+  Desktop Search Engine (client)
+
+doodle-dbg/stable 0.7.0-10 amd64
+  Desktop Search Engine (debug)
+
+doodled/stable 0.7.0-10 amd64
+  Desktop Search Engine (daemon)
+
+dotmcp/stable 0.2.2.1-3+b1 amd64
+  mcp for s3d
+
+drawing/stable 0.6.4-1 amd64
+  simple drawing application for the GNOME desktop
+
+dunst/stable 1.5.0-1 amd64
+  dmenu-ish notification-daemon
+
+dwm/stable,now 6.1-5+b1 amd64 [installed]
+  dynamic window manager
+
+education-desktop-cinnamon/stable 2.11.37 amd64
+  Debian Edu Cinnamon desktop applications
+
+education-desktop-gnome/stable 2.11.37 amd64
+  Debian Edu GNOME desktop applications
+
+education-desktop-kde/stable 2.11.37 amd64
+  Debian Edu KDE desktop applications
+
+education-desktop-lxde/stable 2.11.37 amd64
+  Debian Edu LXDE desktop applications
+
+education-desktop-lxqt/stable 2.11.37 amd64
+  Debian Edu LXQt desktop applications
+
+education-desktop-mate/stable 2.11.37 amd64
+  Debian Edu MATE desktop applications
+
+education-desktop-other/stable 2.11.37 amd64
+  Debian Edu common desktop applications
+
+education-desktop-xfce/stable 2.11.37 amd64
+  Debian Edu Xfce desktop applications
+
+efp/stable,stable,stable,stable 1.6-2 all
+  Escape from Pong NES game
+
+eiskaltdcpp-gtk/stable 2.4.2-1 amd64
+  EiskaltDC++ GUI based on GTK+
+
+elementary-xfce-icon-theme/stable,stable,stable,stable 0.15.2-1 all
+  elementary icon theme modified for Xfce
+
+elisa/stable 20.12.3-1+b1 amd64
+  Simple music player with a focus on Plasma desktop integration and privacy
+
+elpa-perspective/stable,stable,stable,stable 2.2-3 all
+  tagged workspaces in Emacs
+
+eog/stable 3.38.2-1 amd64
+  Eye of GNOME graphics viewer program
+
+eog-dev/stable 3.38.2-1 amd64
+  Development files for the Eye of GNOME
+
+eom/stable 1.24.1-1 amd64
+  Eye of MATE graphics viewer program
+
+eom-common/stable,stable,stable,stable 1.24.1-1 all
+  Eye of MATE graphics viewer program (common files)
+
+eom-dev/stable 1.24.1-1 amd64
+  Eye of MATE graphics viewer program (development files)
+
+epiphany-browser/stable 3.38.2-1 amd64
+  Intuitive GNOME web browser
+
+etoys/stable,stable,stable,stable 5.0.2408-1 all
+  media-rich model, simulation construction kit and authoring tool
+
+etoys-doc/stable,stable,stable,stable 5.0.2408-1 all
+  documentation for Etoys
+
+evilwm/stable 1.1.1-1+b1 amd64
+  minimalist window manager for X11
+
+exo-utils/stable,now 4.16.0-1 amd64 [installed,automatic]
+  Utility files for libexo
+
+expeyes-doc-common/stable,stable,stable,stable 4.3-3 all
+  Common files related to the User manual for expeyes library
+
+extra-xdg-menus/stable,stable,stable,stable 1.0-5 all
+  Extra menu categories for applications under GNOME and KDE
+
+fbpanel/stable 7.0-4.2 amd64
+  lightweight X11 desktop panel
+
+fcitx/stable,stable,stable,stable 1:4.2.9.8-3 all
+  Flexible Input Method Framework
+
+fcitx-frontend-gtk2/stable 1:4.2.9.8-3 amd64
+  Flexible Input Method Framework - GTK+ 2 IM Module frontend
+
+fcitx-frontend-gtk3/stable 1:4.2.9.8-3 amd64
+  Flexible Input Method Framework - GTK+ 3 IM Module frontend
+
+fcitx-module-x11/stable 1:4.2.9.8-3 amd64
+  Flexible Input Method Framework - X11 module and XIM frontend
+
+fcitx-ui-classic/stable 1:4.2.9.8-3 amd64
+  Flexible Input Method Framework - Classic user interface
+
+fcitx5/stable 5.0.5-1 amd64
+  Next generation of Fcitx Input Method Framework
+
+fcitx5-data/stable,stable,stable,stable 5.0.5-1 all
+  Fcitx Input Method Framework v5 (common data files)
+
+fcitx5-frontend-gtk2/stable 5.0.3-1 amd64
+  GTK2 IM Module for fcitx5
+
+fcitx5-frontend-gtk3/stable 5.0.3-1 amd64
+  GTK3 IM Module for fcitx5
+
+fcitx5-frontend-qt5/stable 5.0.3-1 amd64
+  IM module for fcitx5
+
+fcitx5-module-chttrans/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (chttrans module)
+
+fcitx5-module-cloudpinyin/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (cloudpinyin module)
+
+fcitx5-module-cloudpinyin-dev/stable 5.0.4-1 amd64
+  Development files for fcitx5 cloudpinyin module
+
+fcitx5-module-emoji/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (emoji module)
+
+fcitx5-module-fullwidth/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (fullwidth module)
+
+fcitx5-module-lua/stable 5.0.3-1 amd64
+  Lua support for fcitx5
+
+fcitx5-module-lua-common/stable,stable,stable,stable 5.0.3-1 all
+  Lua support for fcitx5 (common files)
+
+fcitx5-module-lua-dev/stable 5.0.3-1 amd64
+  Lua support for fcitx5 (development files)
+
+fcitx5-module-pinyinhelper/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (pinyinhelper module)
+
+fcitx5-module-pinyinhelper-dev/stable 5.0.4-1 amd64
+  Development files for fcitx5 pinyinhelper module
+
+fcitx5-module-punctuation/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (punctuation module)
+
+fcitx5-module-punctuation-dev/stable 5.0.4-1 amd64
+  Development files for fcitx5 punctuation module
+
+fcitx5-module-quickphrase/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (quickphrase module)
+
+fcitx5-module-wayland/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (wayland modules)
+
+fcitx5-module-xorg/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (xorg modules)
+
+fcitx5-modules/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (core modules)
+
+fcitx5-modules-dev/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (input modules dev files)
+
+fcitx5-pinyin/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (builtin pinyin support)
+
+fcitx5-table/stable 5.0.4-1 amd64
+  Fcitx Input Method Framework v5 (builtin table support)
+
+fdpowermon/stable,stable,stable,stable 1.19 all
+  simple battery power monitor for laptops with ACPI
+
+fdpowermon-icons/stable,stable,stable,stable 1.19 all
+  icons for fdpowermon
+
+fdroidcl/stable 0.5.0-3+b3 amd64
+  F-Droid desktop client
+
+feathernotes/stable 0.8.0-1 amd64
+  Hierarchical notes-manager (binaries)
+
+feathernotes-l10n/stable,stable,stable,stable 0.8.0-1 all
+  Hierarchical notes-manager (localization)
+
+featherpad/stable 0.17.1-1 amd64
+  Lightweight Qt5 plain-text editor
+
+featherpad-l10n/stable,stable,stable,stable 0.17.1-1 all
+  Language package for featherpad
+
+feedreader/stable 2.10.0-1.1 amd64
+  simple client for online RSS services like tt-rss and others
+
+flatpak/stable 1.10.5-0+deb11u1 amd64
+  Application deployment framework for desktop apps
+
+flatpak-builder/stable 1.0.12-1 amd64
+  Flatpak application building helper
+
+flatpak-builder-tests/stable 1.0.12-1 amd64
+  Application deployment framework for desktop apps (tests)
+
+flatpak-tests/stable 1.10.5-0+deb11u1 amd64
+  Application deployment framework for desktop apps (tests)
+
+flatpak-xdg-utils/stable 1.0.4-1 amd64
+  xdg-open and xdg-email reimplementation for containerized apps
+
+flatpak-xdg-utils-tests/stable 1.0.4-1 amd64
+  as-installed tests for flatpak-xdg-utils
+
+flwm/stable 1.02+git2015.10.03+7dbb30-7 amd64
+  Fast Light Window Manager
+
+flwrap/stable 1.3.5-1 amd64
+  amateur radio file encapsulation/compression utility
+
+font-manager/stable 0.8.4-1 amd64
+  font management application for the GNOME desktop
+
+font-manager-common/stable 0.8.4-1 amd64
+  Common files for font-viewer and font-manager
+
+font-viewer/stable 0.8.4-1 amd64
+  Full-featured font preview application for GTK Environments
+
+fonts-arphic-ukai/stable,stable,stable,stable 0.2.20080216.2-5 all
+  "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+
+fonts-arphic-uming/stable,stable,stable,stable 0.2.20080216.2-11 all
+  "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+
+fonts-cantarell/stable,stable,stable,stable 0.111-3 all
+  sans serif font family designed for on-screen readability
+
+fonts-hack/stable,stable,stable,stable,now 3.003-3 all [installed,automatic]
+  Typeface designed for source code
+
+fonts-oxygen/stable,stable,stable,stable 4:5.4.3-4 all
+  Oxygen font family
+
+fonts-thai-tlwg/stable,stable,stable,stable 1:0.7.2-1 all
+  Thai fonts maintained by TLWG (metapackage)
+
+fonts-thai-tlwg-otf/stable,stable,stable,stable 1:0.7.2-1 all
+  Thai OpenType fonts maintained by TLWG (metapackage)
+
+fonts-thai-tlwg-ttf/stable,stable,stable,stable 1:0.7.2-1 all
+  Thai TrueType fonts maintained by TLWG (metapackage)
+
+fonts-wqy-microhei/stable,stable,stable,stable 0.2.0-beta-3.1 all
+  Sans-serif style CJK font derived from Droid
+
+forensics-full/stable,stable,stable,stable 2.29 all
+  Full forensics station (metapackage)
+
+freerdp2-dev/stable 2.3.0+dfsg1-2 amd64
+  Free Remote Desktop Protocol library (development files)
+
+freerdp2-shadow-x11/stable 2.3.0+dfsg1-2 amd64
+  FreeRDP x11 shadowing server
+
+freerdp2-wayland/stable 2.3.0+dfsg1-2 amd64
+  RDP client for Windows Terminal Services (wayland client)
+
+freerdp2-x11/stable 2.3.0+dfsg1-2 amd64
+  RDP client for Windows Terminal Services (X11 client)
+
+frogr/stable 1.6-2 amd64
+  Flickr Remote Organizer for GNOME
+
+frogr-data/stable,stable,stable,stable 1.6-2 all
+  Flickr Remote Organizer for GNOME - data files
+
+fusion-icon/stable,stable,stable,stable 0.2.4-5 all
+  tray icon to launch and manage Compiz
+
+fusiondirectory-plugin-applications/stable,stable,stable,stable 1.3-4 all
+  Applications management plugin for FusionDirectory
+
+fvwm/stable 1:2.6.8-1+b1 amd64
+  F(?) Virtual Window Manager
+
+fvwm-crystal/stable,stable,stable,stable 3.4.1+dfsg-3 all
+  Pretty Desktop Environment based on FVWM
+
+fvwm-icons/stable,stable,stable,stable 20070101-6 all
+  icon *.xpm files from fvwm development site
+
+fvwm1/stable 1.24r-57+b1 amd64
+  Old version of the F(?) Virtual Window Manager
+
+gajim-appindicatorintegration/stable,stable,stable,stable 1.3.3-2 all
+  integrates Gajim with the appindicator
+
+gambas3-gb-desktop/stable 3.15.2-1 amd64
+  Gambas Portland project compatibility component
+
+gambas3-gb-desktop-x11/stable 3.15.2-1 amd64
+  Gambas Portland project compatibility component for X11
+
+gambas3-gb-gui/stable 3.15.2-1 amd64
+  Gambas graphical toolkit selector
+
+games-toys/stable,stable,stable,stable 4 all
+  Debian's toy games
+
+gamin/stable 0.1.10-6 amd64
+  File and directory monitoring system
+
+gatb-core/stable 1.4.2+dfsg-6 amd64
+  Genome Analysis Toolbox with de-Bruijn graph
+
+gatb-core-testdata/stable,stable,stable,stable 1.4.2+dfsg-6 all
+  Genome Analysis Toolbox with de-Bruijn graph (test data)
+
+gbgoffice/stable 1.4-11 amd64
+  bgoffice dictionary frontend (GTK2)
+
+gbonds/stable 2.0.3-16 amd64
+  U.S. Savings Bond inventory program for GNOME
+
+gchempaint/stable 0.14.17-6 amd64
+  2D chemical structures editor for the GNOME2 desktop
+
+gconf-defaults-service/stable 3.2.6-7 amd64
+  GNOME configuration database system (system defaults service)
+
+gconf-service/stable 3.2.6-7 amd64
+  GNOME configuration database system (D-Bus service)
+
+gconf2/stable 3.2.6-7 amd64
+  GNOME configuration database system (support tools)
+
+gconf2-common/stable,stable,stable,stable 3.2.6-7 all
+  GNOME configuration database system (common files)
+
+geary/stable 3.38.1-1 amd64
+  lightweight email client designed for the GNOME desktop
+
+gedit/stable 3.38.1-1 amd64
+  official text editor of the GNOME desktop environment
+
+gedit-common/stable,stable,stable,stable 3.38.1-1 all
+  official text editor of the GNOME desktop environment (support files)
+
+gedit-dev/stable 3.38.1-1 amd64
+  official text editor of the GNOME desktop environment (development files)
+
+gip/stable 1.7.0-1-5 amd64
+  IP calculator for GNOME desktop environment
+
+gir1.2-bamf-3/stable 0.5.4-2 amd64
+  GObject introspection data for the Bamf library
+
+gir1.2-budgie-1.0/stable 10.5.2-4 amd64
+  GNOME introspection library for budgie-desktop
+
+gir1.2-caja-2.0/stable 1.24.0-1 amd64
+  GObject introspection data for Caja
+
+gir1.2-cinnamondesktop-3.0/stable 4.8.1-2 amd64
+  Introspection data for CinnamonDesktop
+
+gir1.2-cloudproviders-0.3.0/stable 0.3.0-3 amd64
+  cloud provider library - introspection data
+
+gir1.2-cmenu-3.0/stable 4.8.3-1 amd64
+  GObject introspection data for the Cinnamon menu library
+
+gir1.2-diodon-1.0/stable 1.11.0-1 amd64
+  GTK+ Clipboard manager (GObject introspection data)
+
+gir1.2-endless-0/stable 0~git20180727+ds-1.1 amd64
+  GObject introspection data for the Endless SDK
+
+gir1.2-eom-1.0/stable 1.24.1-1 amd64
+  GObject introspection data for the eom library
+
+gir1.2-fcitxg-1.0/stable 5.0.3-1 amd64
+  GObject introspection data for fcitx5
+
+gir1.2-flatpak-1.0/stable 1.10.5-0+deb11u1 amd64
+  Application deployment framework for desktop apps (introspection)
+
+gir1.2-freedesktop/stable,now 1.66.1-1+b1 amd64 [installed,automatic]
+  Introspection data for some FreeDesktop components
+
+gir1.2-garcon-1.0/stable 4.16.1-1 amd64
+  Typelib file for garcon
+
+gir1.2-garcongtk-1.0/stable 4.16.1-1 amd64
+  Typelib file for garcon GTK
+
+gir1.2-gconf-2.0/stable 3.2.6-7 amd64
+  GNOME configuration database system (GObject-Introspection)
+
+gir1.2-gdesktopenums-3.0/stable,now 3.38.0-2 amd64 [installed,automatic]
+  GObject introspection for GSettings desktop-wide schemas
+
+gir1.2-gmenu-3.0/stable 3.36.0-1 amd64
+  GObject introspection data for the GNOME menu library
+
+gir1.2-gnomebluetooth-1.0/stable,now 3.34.3-2 amd64 [installed,automatic]
+  Introspection data for GnomeBluetooth
+
+gir1.2-gnomedesktop-3.0/stable,now 3.38.5-3 amd64 [installed,automatic]
+  Introspection data for GnomeDesktop
+
+gir1.2-goa-1.0/stable 3.38.0-3 amd64
+  Introspection data for GNOME Online Accounts
+
+gir1.2-gtd-1.0/stable 3.28.1-6 amd64
+  GObject introspection data for GNOME To Do
+
+gir1.2-gtklayershell-0.1/stable 0.5.2-2 amd64
+  Wayland Layer Shell protocol desktop component library -- gir bindings
+
+gir1.2-gtop-2.0/stable 2.40.0-2 amd64
+  gtop system monitoring library (gir bindings)
+
+gir1.2-mate-desktop/stable 1.24.1-2 amd64
+  GObject introspection data for libmate-desktop (transitional package)
+
+gir1.2-matedesktop-2.0/stable 1.24.1-2 amd64
+  GObject introspection data for the libmate-desktop library
+
+gir1.2-matemenu-2.0/stable 1.24.1-1 amd64
+  GObject introspection data for the MATE menu specification
+
+gir1.2-matepanelapplet-4.0/stable 1.24.1-1 amd64
+  GObject introspection data for MATE panel
+
+gir1.2-messagingmenu-1.0/stable 0.8.2-1 amd64
+  Ayatana Messaging Menu - gir bindings
+
+gir1.2-meta-muffin-0.0/stable 4.8.1-1 amd64
+  GObject introspection data for Muffin
+
+gir1.2-nautilus-3.0/stable 3.38.2-1+deb11u1 amd64
+  libraries for nautilus components - gir bindings
+
+gir1.2-nemo-3.0/stable 4.8.6-2 amd64
+  libraries for nemo components - gir bindings
+
+gir1.2-notify-0.7/stable,now 0.7.9-3 amd64 [installed,automatic]
+  sends desktop notifications to a notification daemon (Introspection files)
+
+gir1.2-rda-1.0/stable 0.0.5-1.1 amd64
+  GObject introspection data for librda
+
+gir1.2-snapd-1/stable 1.58-4 amd64
+  Typelib file for libsnapd-glib1
+
+gir1.2-sugarext-1.0/stable 0.118-3 amd64
+  Sugar Learning Platform - toolkit GObject introspection
+
+gir1.2-ukuimenu-2.0/stable 1.1.4-1+b2 amd64
+  GObject introspection data for the UKUI menu specification
+
+gir1.2-upowerglib-1.0/stable,now 0.99.11-2 amd64 [installed,automatic]
+  GObject introspection data for upower
+
+gir1.2-xapp-1.0/stable 2.0.7-1 amd64
+  Introspection data for Xapp
+
+glabels/stable 3.4.1-3 amd64
+  label, business card and media cover creation program for GNOME
+
+glabels-data/stable,stable,stable,stable 3.4.1-3 all
+  data files for gLabels
+
+glabels-dev/stable 3.4.1-3 amd64
+  development documentation and library files for gLabels
+
+gnome/stable 1:3.38+3 amd64
+  Full GNOME Desktop Environment, with extra components
+
+gnome-applets/stable 3.38.0-1 amd64
+  Various applets for the GNOME panel - binary files
+
+gnome-audio/stable,stable,stable,stable 2.22.2-1.2 all
+  Audio files for GNOME
+
+gnome-authenticator/stable,stable,stable,stable 3.32.2+dfsg1-2 all
+  TOTP authentication app for the GNOME Desktop
+
+gnome-backgrounds/stable,stable,stable,stable,now 3.38.0-1 all [installed,automatic]
+  Set of backgrounds packaged with the GNOME desktop
+
+gnome-bluetooth/stable 3.34.3-2 amd64
+  GNOME Bluetooth tools
+
+gnome-boxes/stable 3.38.2-1 amd64
+  Simple GNOME app to access remote or virtual systems
+
+gnome-brave-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  blue variation of the GNOME-Colors icon theme
+
+gnome-calculator/stable 3.38.2-1 amd64
+  GNOME desktop calculator
+
+gnome-calendar/stable 3.38.2-1 amd64
+  Calendar application for GNOME
+
+gnome-calls/stable 0.2.0-2 amd64
+  Make and receive PSTN phone calls
+
+gnome-calls-doc/stable,stable,stable,stable 0.2.0-2 all
+  Make and receive PSTN phone calls - development documentation
+
+gnome-chess/stable 1:3.38.0-1 amd64
+  simple chess game
+
+gnome-color-manager/stable 3.36.0-1 amd64
+  Color management integration for the GNOME desktop environment
+
+gnome-colors/stable,stable,stable,stable 5.5.1-2.1 all
+  set of GNOME icon themes
+
+gnome-colors-common/stable,stable,stable,stable 5.5.1-2.1 all
+  common icons for all GNOME-Colors icon themes
+
+gnome-control-center/stable,now 1:3.38.4-1 amd64 [installed,automatic]
+  utilities to configure the GNOME desktop
+
+gnome-control-center-dev/stable,stable,stable,stable 1:3.38.4-1 all
+  utilities to configure the GNOME desktop
+
+gnome-core/stable 1:3.38+3 amd64
+  GNOME Desktop Environment -- essential components
+
+gnome-desktop-testing/stable 2018.1-3 amd64
+  runner for GNOME installed tests
+
+gnome-desktop3-data/stable,stable,stable,stable,now 3.38.5-3 all [installed,automatic]
+  Common files for GNOME desktop apps
+
+gnome-devel/stable,stable,stable,stable 1:3.38+3 all
+  GNOME Desktop Environment -- development tools
+
+gnome-devel-docs/stable,stable,stable,stable 3.38.1-1 all
+  GNOME developer documentation
+
+gnome-dust-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  chocolate variation of the GNOME-Colors icon theme
+
+gnome-extra-icons/stable,stable,stable,stable 1.1-3.1 all
+  Optional GNOME icons
+
+gnome-flashback/stable 3.38.0-2 amd64
+  helper application for the GNOME Flashback session
+
+gnome-flashback-common/stable,stable,stable,stable 3.38.0-2 all
+  GNOME Flashback helper application - common data files
+
+gnome-games/stable,stable,stable,stable 1:3.38+3 all
+  games for the GNOME desktop
+
+gnome-human-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  orange variation of the GNOME-Colors icon theme
+
+gnome-hwp-support/stable 0.1.6-2 amd64
+  HWP document integration for GNOME desktop
+
+gnome-icon-theme/stable,stable,stable,stable 3.12.0-3 all
+  GNOME Desktop icon theme
+
+gnome-icon-theme-yasis/stable,stable,stable,stable 0.4.2-1.1 all
+  YASIS (Yet Another Scalable Icon Set)
+
+gnome-illustrious-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  pink variation of the GNOME-Colors icon theme
+
+gnome-initial-setup/stable 3.38.4-1 amd64
+  Initial GNOME system setup helper
+
+gnome-logs/stable 3.36.0-2 amd64
+  viewer for the systemd journal
+
+gnome-menus/stable,now 3.36.0-1 amd64 [installed,automatic]
+  GNOME implementation of the freedesktop menu specification
+
+gnome-metronome/stable 0.1.1-1+b1 amd64
+  Simple Metronome application for the GNOME desktop
+
+gnome-mousetrap/stable,stable,stable,stable 3.17.3-8 all
+  Head tracked mouse control
+
+gnome-noble-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  purple variation of the GNOME-Colors icon theme
+
+gnome-online-accounts/stable,now 3.38.0-3 amd64 [installed,automatic]
+  service to manage online accounts for the GNOME desktop
+
+gnome-orca/stable,stable,stable,stable 3.38.2-1 all
+  Scriptable screen reader - transitional package
+
+gnome-paint/stable 0.4.0-7 amd64
+  simple, easy to use paint program for GNOME
+
+gnome-panel/stable 3.38.0-1+b1 amd64
+  traditional panel, used in GNOME Flashback
+
+gnome-panel-data/stable,stable,stable,stable 3.38.0-1 all
+  common files for GNOME Panel
+
+gnome-passwordsafe/stable,stable,stable,stable 5.0-2 all
+  Password manager for GNOME
+
+gnome-phone-manager/stable 0.69-2.1+b2 amd64
+  control aspects of your mobile phone from your GNOME 2 desktop
+
+gnome-platform-devel/stable,stable,stable,stable 1:3.38+3 all
+  GNOME development platform
+
+gnome-power-manager/stable 3.32.0-2 amd64
+  power management tool for the GNOME desktop
+
+gnome-remote-desktop/stable 0.1.9-5 amd64
+  Remote desktop daemon for GNOME using PipeWire
+
+gnome-screensaver/stable 3.6.1-13 amd64
+  Screensaver and screen lock formerly used in GNOME
+
+gnome-screenshot/stable 3.38.0-1 amd64
+  screenshot application for GNOME
+
+gnome-session/stable,stable,stable,stable 3.38.0-4 all
+  GNOME Session Manager - GNOME 3 session
+
+gnome-session-bin/stable 3.38.0-4 amd64
+  GNOME Session Manager - Minimal runtime
+
+gnome-session-common/stable,stable,stable,stable,now 3.38.0-4 all [residual-config]
+  GNOME Session Manager - common files
+
+gnome-session-flashback/stable,stable,stable,stable 3.38.0-2 all
+  traditional desktop session based on GNOME technologies
+
+gnome-settings-daemon/stable,now 3.38.2-1 amd64 [installed,automatic]
+  daemon handling the GNOME session settings
+
+gnome-shell/stable,now 3.38.6-1~deb11u1 amd64 [installed,automatic]
+  graphical shell for the GNOME desktop
+
+gnome-shell-extension-dashtodock/stable,stable,stable,stable 69-1 all
+  dash-to-dock extension for GNOME shell
+
+gnome-shell-extension-desktop-icons/stable,stable,stable,stable 20.04.0+git20200908-5 all
+  desktop icon support for GNOME Shell
+
+gnome-shell-extension-draw-on-your-screen/stable,stable,stable,stable 10-1 all
+  start drawing on your screen and save your beatiful work in a screenshot
+
+gnome-shell-extension-easyscreencast/stable,stable,stable,stable 1.1.0+git20210116.3252312-1 all
+  GNOME Shell extension to simplify video recording
+
+gnome-shell-extension-hamster/stable,stable,stable,stable 0.10.0+git20200509-2 all
+  GNOME Shell extension for the Hamster Time Tracker
+
+gnome-shell-extension-move-clock/stable,stable,stable,stable 1.01-2 all
+  move clock extension for GNOME shell
+
+gnome-shell-extension-remove-dropdown-arrows/stable,stable,stable,stable 13-1 all
+  removes drop down arrows from panel on GNOME shell
+
+gnome-shell-extension-shortcuts/stable,stable,stable,stable 1.1.2-2 all
+  Creates a shortcuts help pop-up in GNOME Shell
+
+gnome-shell-extension-top-icons-plus/stable,stable,stable,stable 27-2 all
+  GNOME Shell extension to move system tray icons to top bar
+
+gnome-shell-extension-xrdesktop/stable,stable,stable,stable 0.14.0-3 all
+  GNOME Shell extension to control XR desktop.
+
+gnome-shell-extensions/stable,stable,stable,stable 3.38.2-1 all
+  Extensions to extend functionality of GNOME Shell
+
+gnome-sound-recorder/stable,stable,stable,stable 3.38.1-1 all
+  simple and modern sound recorder for GNOME
+
+gnome-split/stable,stable,stable,stable 1.2-4 all
+  GNOME Split - File splitter for GNOME desktop
+
+gnome-subtitles/stable 1.6-2.1 amd64
+  Subtitle editor for the GNOME Desktop environment
+
+gnome-sushi/stable,now 3.38.0-1 amd64 [installed,automatic]
+  sushi is a quick previewer for nautilus
+
+gnome-todo/stable 3.28.1-6 amd64
+  minimalistic personal task manager designed to fit GNOME desktop
+
+gnome-todo-common/stable,stable,stable,stable 3.28.1-6 all
+  common files for GNOME To Do
+
+gnome-tweaks/stable,stable,stable,stable 3.34.0-4 all
+  tool to adjust advanced configuration settings for GNOME
+
+gnome-user-docs/stable,stable,stable,stable,now 3.38.2-1 all [installed,automatic]
+  GNOME user docs
+
+gnome-user-guide/stable,stable,stable,stable 3.38.2-1 all
+  GNOME user's guide (transitional package)
+
+gnome-video-arcade/stable 0.8.8-5 amd64
+  Simple MAME frontend
+
+gnome-wine-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  red variation of the GNOME-Colors icon theme
+
+gnome-wise-icon-theme/stable,stable,stable,stable 5.5.1-2.1 all
+  green variation of the GNOME-Colors icon theme
+
+gnomekiss/stable 2.0-6.1 amd64
+  KiSS paper doll viewer for GNOME
+
+gnote/stable 3.38.0-1 amd64
+  desktop note taking program using Wiki style links
+
+gnubiff/stable 2.2.17-3 amd64
+  mail notification program for GNOME (and others)
+
+gnumeric/stable,now 1.12.48-1+b2 amd64 [installed]
+  spreadsheet application for GNOME - main program
+
+golang-dlib-dev/stable,stable,stable,stable 5.6.0.9+dfsg-2 all
+  Go bindings for Deepin Desktop Environment (development files)
+
+golang-gir-gio-2.0-dev/stable,stable,stable,stable 2.0.2-1 all
+  Go bindings
+
+golang-gir-glib-2.0-dev/stable,stable,stable,stable 2.0.2-1 all
+  Go bindings
+
+golang-gir-gobject-2.0-dev/stable,stable,stable,stable 2.0.2-1 all
+  Go bindings
+
+golang-gir-gudev-1.0-dev/stable,stable,stable,stable 2.0.2-1 all
+  Go bindings
+
+golang-github-mattn-go-ieproxy-dev/stable,stable,stable,stable 0.0~git20191113.7c0f686-2 all
+  Go package to detect the proxy settings on Windows platform (library)
+
+golang-github-mvdan-fdroidcl-dev/stable,stable,stable,stable 0.5.0-3 all
+  fdroidcl develpoment files
+
+golang-github-protonmail-go-autostart-dev/stable,stable,stable,stable 0.0~git20181114.c527205-2.1 all
+  Go library to run a command after login
+
+gosa-desktop/stable,stable,stable,stable 2.7.4+reloaded3-16 all
+  Desktop integration for GOsa²
+
+gosa-plugin-goto/stable,stable,stable,stable 2.7.4+reloaded3-16 all
+  goto plugin for GOsa²
+
+gpaste/stable 3.38.5-1 amd64
+  Clipboard management system for GNOME
+
+gpicview/stable 0.2.5-3+b1 amd64
+  lightweight image viewer
+
+gpredict/stable 2.3-72-gc596101-3 amd64
+  Satellite tracking program
+
+grads/stable 3:2.2.1-4 amd64
+  Grid Analysis and Display System for earth science data
+
+grdesktop/stable 0.23+d040330-7 amd64
+  GNOME frontend for the rdesktop client
+
+grim/stable 1.3.1+ds-1 amd64
+  command-line utility to make screenshots of Wayland desktops
+
+grun/stable 0.9.3-2+b2 amd64
+  GTK+ based Run dialog
+
+gsettings-desktop-schemas/stable,stable,stable,stable,now 3.38.0-2 all [installed,automatic]
+  GSettings desktop-wide schemas
+
+gsettings-desktop-schemas-dev/stable 3.38.0-2 amd64
+  Development files for GSettings desktop-wide schemas
+
+gstreamer1.0-libav/stable,now 1.18.4-3 amd64 [installed,automatic]
+  ffmpeg plugin for GStreamer
+
+gthumb/stable 3:3.11.2-0.1 amd64
+  image viewer and browser
+
+gthumb-data/stable,stable,stable,stable 3:3.11.2-0.1 all
+  image viewer and browser - arch-independent files
+
+gthumb-dev/stable 3:3.11.2-0.1 amd64
+  image viewer and browser - development files
+
+gtimer/stable 2.0.0-1.2+b1 amd64
+  GTK-based X11 task timer
+
+gtk-layer-shell-doc/stable,stable,stable,stable 0.5.2-2 all
+  documentation for the Wayland Layer Shell protocol desktop component library
+
+gtk-layer-shell-examples/stable 0.5.2-2 amd64
+  example files for the Wayland Layer Shell protocol desktop component library
+
+gtk2-engines-sugar/stable 0.118-1 amd64
+  Sugar Learning Platform - GTK+ 2.x theme engine
+
+gtk3-nocsd/stable,stable,stable,stable,now 3-1 all [installed]
+  Disable Gtk+ 3 client side decorations (CSD)
+
+gtklp/stable 1.3.1-1 amd64
+  printing tool for CUPS on the GNOME Desktop
+
+gtranslator/stable 3.38.0-1 amd64
+  PO-file editor for the GNOME Desktop
+
+guacd/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (proxy daemon)
+
+guake/stable,stable,stable,stable 3.6.3-2 all
+  Drop-down terminal for GNOME Desktop Environment
+
+gxmessage/stable 3.4.3-1+b1 amd64
+  xmessage clone based on GTK+
+
+gxmms2/stable 0.7.1-3+b1 amd64
+  XMMS2 client for the GNOME desktop
+
+haskell-status-notifier-item-utils/stable 0.3.0.5-1+b3 amd64
+  StatusNotifierItem/libappindicator dbus implementation
+
+hd-idle/stable 1.05+ds-2 amd64
+  Spin down idle [USB] hard disks
+
+hdate-applet/stable 0.15.11-4 amd64
+  Hebrew calendar applet
+
+herbstluftwm/stable 0.9.2-1 amd64
+  manual tiling window manager for X11
+
+hibiscus/stable,stable,stable,stable 2.10.0+dfsg-1 all
+  Java online banking client using the HBCI standard
+
+hibiscus-doc/stable,stable,stable,stable 2.10.0+dfsg-1 all
+  Java online banking client using the HBCI standard - documentation package
+
+hicolor-icon-theme/stable,stable,stable,stable,now 0.17-2 all [installed,automatic]
+  default fallback theme for FreeDesktop.org icon themes
+
+human-icon-theme/stable,stable,stable,stable 0.28.debian-6.1 all
+  Human Icon theme
+
+hydrapaper/stable,stable,stable,stable 2.0.2-1 all
+  Utility that sets background independently for each monitor
+
+i3lock-fancy/stable 0.0~git20160228.0.0fcb933-3 amd64
+  i3lock custom wrapper script
+
+ibus-braille/stable,stable,stable,stable 0.3-6 all
+  Braille input engine for IBus
+
+ibus-keyman/stable 11.0.103-4 amd64
+  Keyman engine for IBus
+
+icewm-lite/stable 2.1.2-1 amd64
+  transitional package for icewm
+
+icoextract-thumbnailer/stable,stable,stable,stable 0.1.2-2 all
+  thumbnailer for Windows PE files (.exe/.dll)
+
+icon-naming-utils/stable,stable,stable,stable 0.8.90-5 all
+  script for maintaining backwards compatibility of Tango Project
+
+idesk/stable 0.7.5-6+b1 amd64
+  program to show icons on the desktop
+
+igv/stable,stable,stable,stable 2.6.3+dfsg-3 all
+  Integrative Genomics Viewer
+
+indicator-sensors/stable 1.2-1 amd64
+  Hardware sensors indicator
+
+irssi-scripts/stable,stable,stable,stable 20201016 all
+  collection of scripts for irssi
+
+islamic-menus/stable,stable,stable,stable 1.0.5-3 all
+  Islamic menu categories for applications under GNOME and KDE
+
+jami/stable 20210112.2.b757bac~ds1-1 amd64
+  Secure and distributed voice, video, and chat platform - desktop client
+
+jami-daemon/stable 20210112.2.b757bac~ds1-1 amd64
+  Secure and distributed voice, video and chat platform - daemon
+
+jmeter/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (main application)
+
+jmeter-apidoc/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (API doc)
+
+jmeter-ftp/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (ftp module)
+
+jmeter-help/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (user manual)
+
+jmeter-http/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (http module)
+
+jmeter-java/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (java module)
+
+jmeter-jms/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (jms module)
+
+jmeter-junit/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (junit module)
+
+jmeter-ldap/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (ldap module)
+
+jmeter-mail/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (mail module)
+
+jmeter-mongodb/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (mongodb module)
+
+jmeter-tcp/stable,stable,stable,stable 2.13-4 all
+  Load testing and performance measurement application (tcp module)
+
+junior-toys/stable,stable,stable,stable 1.29 all
+  Debian Jr. desktop toys
+
+kaccounts-integration/stable 4:20.12.1-1 amd64
+  System to administer web accounts
+
+kallisto/stable 0.46.2+dfsg-2 amd64
+  near-optimal RNA-Seq quantification
+
+kallisto-examples/stable,stable,stable,stable 0.46.2+dfsg-2 all
+  near-optimal RNA-Seq quantification (example data)
+
+kawari8/stable 8.2.8-10+b1 amd64
+  Pseudo AI Shiori module used to create ghosts for Ukagaka
+
+kazam/stable,stable,stable,stable 1.4.5-4 all
+  screencast and screenshot application created with design in mind
+
+kbdd/stable 0.6-4+b1 amd64
+  Per-window keyboard layout switching daemon for X
+
+kde-baseapps/stable 4:20.12.0+5.111 amd64
+  base applications from the official KDE release (metapackage)
+
+kde-config-telepathy-accounts/stable 20.08.0-1 amd64
+  KDE Control Module for managing Telepathy Accounts
+
+kde-full/stable 5:111 amd64
+  complete KDE Software Compilation for end users
+
+kde-plasma-desktop/stable 5:111 amd64
+  KDE Plasma Desktop and minimal set of applications
+
+kde-standard/stable 5:111 amd64
+  KDE Plasma Desktop and standard set of applications
+
+kde-style-breeze/stable 4:5.20.5-4 amd64
+  Widget style for Qt and KDE Software
+
+kde-style-oxygen-qt5/stable 4:5.20.5-1 amd64
+  Qt decoration for the Oxygen desktop theme
+
+kde-telepathy-approver/stable 20.08.0-1 amd64
+  KDED module for approving incoming conversations
+
+kde-telepathy-contact-list/stable 20.08.0-1 amd64
+  Telepathy contact list for the KDE Plasma Desktop
+
+kde-telepathy-desktop-applets/stable 20.08.0-1 amd64
+  KDE Telepathy contact plasmoid
+
+kde-telepathy-text-ui/stable 20.08.0-1 amd64
+  Telepathy text chat UI for the KDE Plasma Desktop
+
+kdeaccessibility/stable 4:20.12.0+5.111 amd64
+  accessibility packages from the official KDE release
+
+kdeadmin/stable 4:20.12.0+5.111 amd64
+  system administration tools from the official KDE release
+
+kdeconnect/stable 20.12.3-2 amd64
+  connect smartphones to your desktop devices
+
+kdeedu/stable 4:20.12.0+5.111 amd64
+  educational applications from the official KDE release
+
+kdegames/stable 4:20.12.0+5.111 amd64
+  games from the official KDE release
+
+kdegraphics/stable 4:20.12.0+5.111 amd64
+  graphics applications from the official KDE release
+
+kdemultimedia/stable 4:20.12.0+5.111 amd64
+  multimedia applications from the official KDE release
+
+kdenetwork/stable 4:20.12.0+5.111 amd64
+  networking applications from the official KDE release
+
+kdepim/stable 4:20.08.3+5.111 amd64
+  Personal Information Management apps from the official KDE release
+
+kdepim-addons/stable 20.08.3-1 amd64
+  Addons for KDE PIM applications
+
+kdeplasma-applets-xrdesktop/stable,stable,stable,stable 0.15.0-1 all
+  xrdesktop applet for KDE Plasma
+
+kdesdk/stable 4:20.12.0+5.111 amd64
+  Software Development Kit from the official KDE release
+
+kdetoys/stable 4:20.12.0+5.111 amd64
+  desktop toys from the official KDE release
+
+kdeutils/stable 4:20.12.0+5.111 amd64
+  general-purpose utilities from the official KDE release
+
+kgx/stable 0.2.1-2+b1 amd64
+  Simple user-friendly terminal emulator for the GNOME desktop
+
+khotkeys/stable 4:5.20.5-1 amd64
+  configure input actions settings
+
+khotkeys-data/stable,stable,stable,stable 4:5.20.5-1 all
+  configure input actions settings
+
+khotkeys-dev/stable 4:5.20.5-1 amd64
+  configure input actions settings
+
+kinfocenter/stable 4:5.20.5-1 amd64
+  system information viewer
+
+kirigami-gallery/stable 20.12.0-1 amd64
+  set of QtQuick components targeted for mobile use
+
+kirigami2-dev/stable 5.78.0-3 amd64
+  set of QtQuick components targeted for mobile use
+
+kism3d/stable 0.2.2.1-3+b1 amd64
+  802.11 visualizer for s3d
+
+kmail/stable 4:20.08.3-1 amd64
+  full featured graphical email client
+
+kookbook/stable 0.2.1-2 amd64
+  simple recipe manager taking structured markdown for recipes
+
+krdc/stable 4:20.12.3-1 amd64
+  Remote Desktop Connection client
+
+krfb/stable 4:20.12.2-1 amd64
+  Desktop Sharing utility
+
+krusader/stable 2:2.7.2-2 amd64
+  twin-panel (commander-style) file manager
+
+kstars/stable 5:3.4.3-1+b2 amd64
+  desktop planetarium, observation planning and telescope control
+
+kstars-data/stable,stable,stable,stable 5:3.4.3-1 all
+  data files for KStars desktop planetarium
+
+kstars-data-extra-tycho2/stable,stable,stable,stable 1.1r1-9.1 all
+  Tycho-2 star catalog for KStars
+
+kup-backup/stable 0.8.0-1+b2 amd64
+  backup tool for KDE's Plasma desktop
+
+kupfer/stable,stable,stable,stable 0+v320-1 all
+  fast and lightweight desktop summoner/launcher
+
+kwave/stable 20.12.2-1 amd64
+  sound editor for KDE
+
+kwin-addons/stable 4:5.20.5-1 amd64
+  additional desktop and window switchers for KWin
+
+kwin-common/stable 4:5.20.5-1 amd64
+  KDE window manager, common files
+
+kwin-data/stable,stable,stable,stable 4:5.20.5-1 all
+  KDE window manager data files
+
+kwin-decoration-oxygen/stable 4:5.20.5-1 amd64
+  KWin decoration for the Oxygen desktop theme
+
+kwin-dev/stable 4:5.20.5-1 amd64
+  KDE window manager - devel files
+
+kwin-effect-xrdesktop/stable 0.15.1-1+b1 amd64
+  xrdesktop effect for KWin
+
+kwin-style-breeze/stable 4:5.20.5-4 amd64
+  KWin Breeze Style
+
+kwin-wayland/stable 4:5.20.5-1 amd64
+  KDE window manager, wayland version, PREVIEW release
+
+kwin-wayland-backend-drm/stable 4:5.20.5-1 amd64
+  KDE window manager drm plugin
+
+kwin-wayland-backend-fbdev/stable 4:5.20.5-1 amd64
+  KDE window manager fbdev plugin
+
+kwin-wayland-backend-virtual/stable 4:5.20.5-1 amd64
+  KDE window manager virtual plugin
+
+kwin-wayland-backend-wayland/stable 4:5.20.5-1 amd64
+  KDE window manager nested wayland plugin
+
+kwin-wayland-backend-x11/stable 4:5.20.5-1 amd64
+  KDE window manager x11 plugin
+
+kwin-x11/stable 4:5.20.5-1 amd64
+  KDE window manager, X11 version
+
+laptop-mode-tools/stable,stable,stable,stable 1.74-1.1 all
+  Tools for Power Savings based on battery/AC status
+
+latexila/stable 3.22.0-1.1 amd64
+  LaTeX editor designed for the GNOME desktop
+
+libapache2-mod-mime-xattr/stable 0.4-6+b2 amd64
+  Apache2 module to get MIME info from filesystem extended attributes
+
+libavkys-dev/stable 8.6.1+dfsg-2.1 amd64
+  full featured webcam capture application - dev
+
+libavkys8/stable 8.6.1+dfsg-2.1 amd64
+  full featured webcam capture application - library
+
+libayatana-indicator-dev/stable 0.8.4-1+deb11u2 amd64
+  panel indicator applet - library development files (GTK-2+)
+
+libayatana-indicator3-7/stable 0.8.4-1+deb11u2 amd64 [upgradable from: 0.8.4-1]
+  panel indicator applet - shared library (GTK-3+ variant)
+
+libayatana-indicator3-dev/stable 0.8.4-1+deb11u2 amd64
+  panel indicator applet - library development files (GTK-3+)
+
+libayatana-indicator3-tools/stable 0.8.4-1+deb11u2 amd64
+  Tools for libayatana-indicator
+
+libayatana-indicator7/stable 0.8.4-1+deb11u2 amd64
+  panel indicator applet - shared library (GTK-2+ variant)
+
+libbamf-doc/stable,stable,stable,stable 0.5.4-2 all
+  Window matching library - documentation
+
+libbamf3-2/stable 0.5.4-2 amd64
+  Window matching library - shared library
+
+libbamf3-dev/stable 0.5.4-2 amd64
+  Window matching library - development files
+
+libbudgie-plugin0/stable 10.5.2-4 amd64
+  Plugin library for budgie-desktop
+
+libbudgie-private0/stable 10.5.2-4 amd64
+  Budgie Private library for budgie-desktop
+
+libbudgietheme0/stable 10.5.2-4 amd64
+  Theme library for budgie-desktop
+
+libcaja-extension-dev/stable 1.24.0-1 amd64
+  libraries for Caja components (development files)
+
+libcaja-extension-doc/stable,stable,stable,stable 1.24.0-1 all
+  libraries for Caja components (API documentation files)
+
+libcaja-extension1/stable 1.24.0-1 amd64
+  libraries for Caja components
+
+libcinnamon-desktop-dev/stable 4.8.1-2 amd64
+  Cinnamon library for loading .desktop files - development files
+
+libcinnamon-desktop4/stable 4.8.1-2 amd64
+  Cinnamon library for loading .desktop files
+
+libcinnamon-menu-3-0/stable 4.8.3-1 amd64
+  Cinnamon implementation of the freedesktop menu specification
+
+libcinnamon-menu-3-dev/stable 4.8.3-1 amd64
+  Cinnamon implementation of the freedesktop menu specification
+
+libcjs-dev/stable 4.8.2-1 amd64
+  Mozilla-based javascript bindings for the Cinnamon platform
+
+libcjs0/stable 4.8.2-1 amd64
+  Mozilla-based javascript bindings for the GNOME platform
+
+libclblast-dev/stable 1.5.2-2 amd64
+  Tuned OpenCL BLAS library (development files)
+
+libclblast1/stable 1.5.2-2 amd64
+  Tuned OpenCL BLAS library
+
+libcloudproviders-dev/stable 0.3.0-3 amd64
+  cloud provider library - development files
+
+libcloudproviders-doc/stable,stable,stable,stable 0.3.0-3 all
+  cloud provider library - documentation
+
+libcloudproviders0/stable 0.3.0-3 amd64
+  cloud provider library
+
+libcscreensaver0/stable 4.8.1-3 amd64
+  library and introspection data used by cinnamon-screensaver
+
+libdbusada0.6.0/stable 0.6.0-3 amd64
+  Ada bindings to the D-Bus message bus system (runtime)
+
+libdbusada6-dev/stable 0.6.0-3 amd64
+  Ada bindings to the D-Bus message bus system
+
+libdconf-dev/stable 0.38.0-2 amd64
+  simple configuration storage system - development files
+
+libdconf-doc/stable,stable,stable,stable 0.38.0-2 all
+  simple configuration storage system - documentation
+
+libdconf1/stable,now 0.38.0-2 amd64 [installed,automatic]
+  simple configuration storage system - runtime library
+
+libdesktop-notify-perl/stable,stable,stable,stable 0.05-2 all
+  Perl module which communicates with the Desktop Notifications framework
+
+libdframeworkdbus-dev/stable 5.2.0.29-1 amd64
+  Qt DBus interface library for Deepin software (development files)
+
+libdframeworkdbus2/stable 5.2.0.29-1 amd64
+  Qt DBus interface library for Deepin software (shared library)
+
+libdiodon0/stable 1.11.0-1 amd64
+  GTK+ Clipboard manager (main library)
+
+libdmr-dev/stable 5.7.6.147-1 amd64
+  Deepin movie player - widget library (development files)
+
+libdmr0.1/stable 5.7.6.147-1 amd64
+  Deepin movie player - widget library
+
+libdmx-dev/stable 1:1.1.4-2 amd64
+  X11 Distributed Multihead extension library (development headers)
+
+libdmx1/stable 1:1.1.4-2 amd64
+  X11 Distributed Multihead extension library
+
+libdoodle-dev/stable 0.7.0-10 amd64
+  Desktop Search Engine (development)
+
+libdoodle1/stable 0.7.0-10 amd64
+  Desktop Search Engine (library)
+
+libdtkcore-dev/stable 5.2.2.5-3 amd64
+  Deepin Tool Kit Core library (development files)
+
+libdtkcore5/stable 5.2.2.5-3 amd64
+  Deepin Tool Kit Core library
+
+libdtkcore5-bin/stable 5.2.2.5-3 amd64
+  Deepin Tool Kit Core library (utilities)
+
+libdtkgui-dev/stable 5.2.2.4-2 amd64
+  Deepin Tool Kit Gui library (development files)
+
+libdtkgui5/stable 5.2.2.4-2 amd64
+  Deepin Tool Kit Gui library
+
+libdtkgui5-bin/stable 5.2.2.4-2 amd64
+  Deepin Tool Kit Gui utilities
+
+libdtkwidget-dev/stable 5.2.2.10-1 amd64
+  Deepin Tool Kit Widget library (development files)
+
+libdtkwidget5/stable 5.2.2.10-1 amd64
+  Deepin Tool Kit Widget library
+
+libdtkwidget5-bin/stable 5.2.2.10-1 amd64
+  Deepin Tool Kit Widget library utilities
+
+libdtkwm-dev/stable 2.0.12-3 amd64
+  Deepin graphical user interface library (development files)
+
+libdtkwm5/stable 2.0.12-3 amd64
+  Deepin graphical user interface library
+
+libefreet-bin/stable 1.25.1-1 amd64
+  EFL helper program to create efreet data caches
+
+libefreet1a/stable 1.25.1-1 amd64
+  EFL freedesktop.org spec implementations
+
+libendless-0-0/stable 0~git20180727+ds-1.1 amd64
+  Endless SDK runtime libraries
+
+libendless-0-common/stable,stable,stable,stable 0~git20180727+ds-1.1 all
+  common files for the Endless SDK runtime libraries
+
+libendless-bin/stable 0~git20180727+ds-1.1 amd64
+  development tools for the Endless SDK
+
+libendless-dev/stable 0~git20180727+ds-1.1 amd64
+  development files for the Endless SDK
+
+libendless-doc/stable,stable,stable,stable 0~git20180727+ds-1.1 all
+  documentation files for the Endless SDK
+
+libenki2/stable 1:1.6.99-2+b2 amd64
+  Enki is a fast 2D physics-based robot simulator written in C++.
+
+libethumb-client-bin/stable 1.25.1-1 amd64
+  EFL ethumb helper binary
+
+libethumb-client1/stable 1.25.1-1 amd64
+  EFL client for ethumb
+
+libethumb1/stable 1.25.1-1 amd64
+  EFL for thumbnail image creation
+
+libexo-2-0/stable,now 4.16.0-1 amd64 [installed,automatic]
+  Library with extensions for Xfce (GTK-3 version)
+
+libexo-common/stable,stable,stable,stable,now 4.16.0-1 all [installed,automatic]
+  libexo common files
+
+libfcitx5-qt-data/stable,stable,stable,stable 5.0.3-1 all
+  Qt library and IM module for fcitx5 (data files)
+
+libfcitx5-qt-dev/stable 5.0.3-1 amd64
+  Qt library and IM module for fcitx5 (development files)
+
+libfcitx5-qt1/stable 5.0.3-1 amd64
+  Qt library and IM module for fcitx5
+
+libfcitx5config-dev/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (config library dev files)
+
+libfcitx5config6/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (config library)
+
+libfcitx5core-dev/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (core library dev files)
+
+libfcitx5core7/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (core library)
+
+libfcitx5gclient-dev/stable 5.0.3-1 amd64
+  GLib-based D-Bus client library for fcitx5 (development files)
+
+libfcitx5gclient1/stable 5.0.3-1 amd64
+  GLib-based D-Bus client library for fcitx5 (library)
+
+libfcitx5utils-dev/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (utils library dev files)
+
+libfcitx5utils2/stable 5.0.5-1 amd64
+  Fcitx Input Method Framework v5 (utils library)
+
+libfile-basedir-perl/stable,stable,stable,stable,now 0.08-1 all [installed,automatic]
+  Perl module to use the freedesktop basedir specification
+
+libfile-desktopentry-perl/stable,stable,stable,stable,now 0.22-2 all [installed,automatic]
+  Perl module to handle freedesktop .desktop files
+
+libfile-mimeinfo-perl/stable,stable,stable,stable,now 0.30-1 all [installed,automatic]
+  Perl module to determine file types
+
+libflamingo-java/stable,stable,stable,stable 7.3+dfsg3-5 all
+  Provides a swing ribbon container for Java applications
+
+libflamingo-java-doc/stable,stable,stable,stable 7.3+dfsg3-5 all
+  Provides a swing ribbon container for Java applications (documentation)
+
+libflatpak-dev/stable 1.10.5-0+deb11u1 amd64
+  Application deployment framework for desktop apps (development)
+
+libflatpak-doc/stable,stable,stable,stable 1.10.5-0+deb11u1 all
+  Application deployment framework for desktop apps (documentation)
+
+libflatpak0/stable 1.10.5-0+deb11u1 amd64 [upgradable from: 1.10.3-0+deb11u1]
+  Application deployment framework for desktop apps (library)
+
+libflexdock-java/stable,stable,stable,stable 1.2.4-1.1 all
+  Swing Java docking framework
+
+libflexdock-java-demo/stable,stable,stable,stable 1.2.4-1.1 all
+  Swing Java docking framework - demos and examples
+
+libflexdock-java-doc/stable,stable,stable,stable 1.2.4-1.1 all
+  Swing Java docking framework - demos and examples
+
+libfm-qt-dev/stable 0.16.0-3 amd64
+  file management support library for pcmanfm-qt (development files)
+
+libfm-qt-l10n/stable,stable,stable,stable 0.16.0-3 all
+  Language package for libfm-qt
+
+libfm-qt8/stable 0.16.0-3 amd64
+  file management support for pcmanfm-qt
+
+libfm4/stable 1.3.2-1 amd64
+  file management support (core library)
+
+libfontenc-dev/stable,now 1:1.1.4-1 amd64 [installed,automatic]
+  X11 font encoding library (development headers)
+
+libfontenc1/stable,now 1:1.1.4-1 amd64 [installed,automatic]
+  X11 font encoding library
+
+libfreerdp-client2-2/stable 2.3.0+dfsg1-2 amd64
+  Free Remote Desktop Protocol library (client library)
+
+libfreerdp-server2-2/stable 2.3.0+dfsg1-2 amd64
+  Free Remote Desktop Protocol library (server library)
+
+libfreerdp-shadow-subsystem2-2/stable 2.3.0+dfsg1-2 amd64
+  FreeRDP Remote Desktop Protocol shadow subsystem libraries
+
+libfreerdp-shadow2-2/stable 2.3.0+dfsg1-2 amd64
+  FreeRDP Remote Desktop Protocol shadow libraries
+
+libfreerdp2-2/stable 2.3.0+dfsg1-2 amd64
+  Free Remote Desktop Protocol library (core library)
+
+libfs-dev/stable 2:1.0.8-1 amd64
+  X11 Font Services library (development headers)
+
+libfs6/stable 2:1.0.8-1 amd64
+  X11 Font Services library
+
+libgarcon-1-0/stable,now 4.16.1-1 amd64 [installed,automatic]
+  freedesktop.org compliant menu implementation for Xfce
+
+libgarcon-common/stable,stable,stable,stable,now 4.16.1-1 all [installed,automatic]
+  common files for libgarcon menu implementation
+
+libgarcon-gtk3-1-0/stable,now 4.16.1-1 amd64 [installed,automatic]
+  menu library for Xfce (GTK3 library)
+
+libgatbcore-dev/stable 1.4.2+dfsg-6 amd64
+  development library of the Genome Analysis Toolbox
+
+libgatbcore3/stable 1.4.2+dfsg-6 amd64
+  dynamic library of the Genome Analysis Toolbox
+
+libgcab-tests/stable 1.4-3 amd64
+  Microsoft Cabinet file manipulation library - as-installed tests
+
+libgconf-2-4/stable 3.2.6-7 amd64
+  GNOME configuration database system (shared libraries)
+
+libgconf2-dev/stable 3.2.6-7 amd64
+  GNOME configuration database system (development)
+
+libgconf2-doc/stable,stable,stable,stable 3.2.6-7 all
+  GNOME configuration database system (API reference)
+
+libghc-fdo-notify-dev/stable 0.3.1-11+b3 amd64
+  Haskell desktop notifications
+
+libghc-fdo-notify-doc/stable,stable,stable,stable 0.3.1-11 all
+  Haskell desktop notifications; documentation
+
+libghc-fdo-notify-prof/stable 0.3.1-11+b3 amd64
+  Haskell desktop notifications; profiling libraries
+
+libghc-status-notifier-item-dev/stable 0.3.0.5-1+b3 amd64
+  StatusNotifierItem/libappindicator dbus implementation
+
+libghc-status-notifier-item-doc/stable,stable,stable,stable 0.3.0.5-1 all
+  StatusNotifierItem/libappindicator dbus implementation; documentation
+
+libghc-status-notifier-item-prof/stable 0.3.0.5-1+b3 amd64
+  StatusNotifierItem/libappindicator dbus implementation; profiling libraries
+
+libghc-taffybar-dev/stable 3.2.2-2 amd64
+  desktop bar extensible in Haskell
+
+libghc-taffybar-doc/stable,stable,stable,stable 3.2.2-2 all
+  desktop bar extensible in Haskell; documentation
+
+libghc-taffybar-prof/stable 3.2.2-2 amd64
+  desktop bar extensible in Haskell; profiling libraries
+
+libghc-xcb-types-dev/stable 0.10.0-2+b1 amd64
+  parses XML files used by the XCB project
+
+libghc-xcb-types-doc/stable,stable,stable,stable 0.10.0-2 all
+  parses XML files used by the XCB project; documentation
+
+libghc-xcb-types-prof/stable 0.10.0-2+b1 amd64
+  parses XML files used by the XCB project; profiling libraries
+
+libghc-xdg-desktop-entry-dev/stable 0.1.1.1-1+b2 amd64
+  parse files conforming to the XDG desktop entry spec
+
+libghc-xdg-desktop-entry-doc/stable,stable,stable,stable 0.1.1.1-1 all
+  parse files conforming to the XDG desktop entry spec; documentation
+
+libghc-xdg-desktop-entry-prof/stable 0.1.1.1-1+b2 amd64
+  parse files conforming to the XDG desktop entry spec; profiling libraries
+
+libgio-qt-dev/stable 0.0.9-1 amd64
+  Gio wrapper for Qt5 (development files)
+
+libgio-qt-doc/stable,stable,stable,stable 0.0.9-1 all
+  Gio wrapper for Qt5 (documentation files)
+
+libgio-qt0/stable 0.0.9-1 amd64
+  Gio wrapper for Qt5
+
+libgnome-bluetooth-dev/stable 3.34.3-2 amd64
+  GNOME Bluetooth tools - support library development files
+
+libgnome-bluetooth13/stable,now 3.34.3-2 amd64 [installed,automatic]
+  GNOME Bluetooth tools - support library
+
+libgnome-desktop-3-19/stable,now 3.38.5-3 amd64 [installed,automatic]
+  Utility library for loading .desktop files - runtime files
+
+libgnome-desktop-3-dev/stable 3.38.5-3 amd64
+  Utility library for loading .desktop files - development files
+
+libgnome-menu-3-0/stable 3.36.0-1 amd64
+  GNOME implementation of the freedesktop menu specification
+
+libgnome-menu-3-dev/stable 3.36.0-1 amd64
+  GNOME implementation of the freedesktop menu specification
+
+libgnome-panel-dev/stable 3.38.0-1+b1 amd64
+  library for GNOME Panel modules - development files
+
+libgnome-panel-doc/stable,stable,stable,stable 3.38.0-1 all
+  library for GNOME Panel modules - documentation files
+
+libgnome-panel0/stable 3.38.0-1+b1 amd64
+  library for GNOME Panel modules
+
+libgnome-todo/stable 3.28.1-6 amd64
+  library data for GNOME To Do
+
+libgnome-todo-dev/stable 3.28.1-6 amd64
+  development library data for GNOME To Do
+
+libgoa-1.0-0b/stable,now 3.38.0-3 amd64 [installed,automatic]
+  library for GNOME Online Accounts
+
+libgoa-1.0-common/stable,stable,stable,stable,now 3.38.0-3 all [installed,automatic]
+  library for GNOME Online Accounts - common files
+
+libgoa-1.0-dev/stable 3.38.0-3 amd64
+  library for GNOME Online Accounts - development files
+
+libgoa-1.0-doc/stable,stable,stable,stable 3.38.0-3 all
+  library for GNOME Online Accounts - documentation files
+
+libgoa-backend-1.0-1/stable,now 3.38.0-3 amd64 [installed,automatic]
+  backend library for GNOME Online Accounts
+
+libgoa-backend-1.0-dev/stable 3.38.0-3 amd64
+  backend library for GNOME Online Accounts - development files
+
+libgtk-layer-shell-dev/stable 0.5.2-2 amd64
+  Wayland Layer Shell protocol desktop component library -- development files
+
+libgtk-layer-shell0/stable 0.5.2-2 amd64
+  Wayland Layer Shell protocol desktop component library
+
+libgtk3-nocsd0/stable,now 3-1+b1 amd64 [installed,automatic]
+  Library to disable Gtk+ 3 client side decorations (CSD)
+
+libgtkhotkey-dev/stable 0.2.1-6+b1 amd64
+  Gtk hotkey static libraries and headers
+
+libgtkhotkey1/stable 0.2.1-6+b1 amd64
+  Gtk hotkey shared library
+
+libgtksourceview-3.0-common/stable,stable,stable,stable,now 3.24.11-2 all [installed,automatic]
+  common files for the GTK+ syntax highlighting widget
+
+libgtksourceview-4-common/stable,stable,stable,stable 4.8.0-1 all
+  common files for the GTK+ syntax highlighting widget
+
+libgtop-2.0-11/stable,now 2.40.0-2 amd64 [installed,automatic]
+  gtop system monitoring library (shared)
+
+libgtop2-common/stable,stable,stable,stable,now 2.40.0-2 all [installed,automatic]
+  gtop system monitoring library (common)
+
+libgtop2-dev/stable 2.40.0-2 amd64
+  gtop system monitoring library (devel)
+
+libgtop2-doc/stable,stable,stable,stable 2.40.0-2 all
+  gtop system monitoring library (documentation)
+
+libguac-client-rdp0/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (RDP support)
+
+libguac-client-ssh0/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (SSH support)
+
+libguac-client-telnet0/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (Telnet support)
+
+libguac-client-vnc0/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (VNC support)
+
+libguac-dev/stable 1.3.0-1+b1 amd64
+  Guacamole proxy daemon (core library headers)
+
+libguac19/stable 1.3.0-1+b1 amd64
+  HTML5 web application for accessing remote desktops (library)
+
+libice-dev/stable,now 2:1.0.10-1 amd64 [installed,automatic]
+  X11 Inter-Client Exchange library (development headers)
+
+libice6/stable,now 2:1.0.10-1 amd64 [installed,automatic]
+  X11 Inter-Client Exchange library
+
+libjam-java/stable,stable,stable,stable 0.1.git20180106.740247a+dfsg-1 all
+  Java applications look and behave like native applications
+
+libjam-java-doc/stable,stable,stable,stable 0.1.git20180106.740247a+dfsg-1 all
+  Java applications look and behave like native applications (documentation)
+
+libjava-gnome-java/stable,stable,stable,stable 4.1.3-10 all
+  Java-gnome language bindings project
+
+libjava-gnome-jni/stable 4.1.3-10 amd64
+  Java-gnome language bindings project JNI layer
+
+libjide-oss-java/stable,stable,stable,stable 3.7.6+dfsg-1 all
+  extensible Swing component library for Java
+
+libjide-oss-java-doc/stable,stable,stable,stable 3.7.6+dfsg-1 all
+  extensible Swing component library for Java -- documentation
+
+libjs-headjs/stable,stable,stable,stable 1.0.3+dfsg.1-1.1 all
+  javascript libraryt for resource loading
+
+libjs-iscroll/stable,stable,stable,stable 5.2.0+dfsg1-2 all
+  High performance, small footprint JavaScript scroller
+
+libjs-jstorage/stable,stable,stable,stable 0.3.1-1.1 all
+  store data locally with JavaScript
+
+libjs-leaflet/stable,stable,stable,stable 1.7.1~dfsg-2 all
+  mobile-friendly interactive maps - browser library
+
+libjs-slick/stable,stable,stable,stable 1.8.0-1.1 all
+  responsive carousel jQuery plugin
+
+libkaccounts-dev/stable 4:20.12.1-1 amd64
+  System to administer web accounts - development files
+
+libkaccounts2/stable 4:20.12.1-1 amd64
+  System to administer web accounts - shared library
+
+libkf5akonadi-data/stable,stable,stable,stable 4:20.08.3-3 all
+  Akonadi arch independent data
+
+libkf5akonadiprivate5abi2/stable 4:20.08.3-3 amd64
+  libraries for the Akonadi PIM storage service
+
+libkf5akonadiserver-dev/stable 4:20.08.3-3 amd64
+  development files for the Akonadi PIM storage service
+
+libkf5baloo-doc/stable,stable,stable,stable 5.78.0-3 all
+  framework for searching and managing metadata core lib (documentation)
+
+libkf5baloo5/stable 5.78.0-3 amd64
+  framework for searching and managing metadata core lib.
+
+libkf5balooengine5/stable 5.78.0-3 amd64
+  framework for searching and managing metadata plugins
+
+libkf5filemetadata-doc/stable,stable,stable,stable 5.78.0-2 all
+  library for extracting file metadata (documentation)
+
+libkf5kirigami2-5/stable 5.78.0-3 amd64
+  set of QtQuick components targeted for mobile use
+
+libkf5kirigami2-doc/stable,stable,stable,stable 5.78.0-3 all
+  set of QtQuick components targeted for mobile use (documentation)
+
+libkf5notifications-data/stable,stable,stable,stable,now 5.78.0-2 all [installed,automatic]
+  Framework for desktop notifications
+
+libkf5notifications-dev/stable 5.78.0-2 amd64
+  Framework for desktop notifications
+
+libkf5notifications-doc/stable,stable,stable,stable 5.78.0-2 all
+  Framework for desktop notifications
+
+libkf5notifications5/stable,now 5.78.0-2 amd64 [installed,automatic]
+  Framework for desktop notifications
+
+libkf5qqc2desktopstyle-dev/stable 5.78.0-2 amd64
+  Qt Quick Controls 2: Desktop Style
+
+libkf5runner-doc/stable,stable,stable,stable 5.78.0-3 all
+  Used to write plugins loaded at runtime called "Runners" (documentation)
+
+libkf5runner5/stable 5.78.0-3 amd64
+  Used to write plugins loaded at runtime called "Runners".
+
+libkf5wallet-bin/stable,now 5.78.0-2 amd64 [installed,automatic]
+  Secure and unified container for user passwords.
+
+libkf5wallet-data/stable,stable,stable,stable,now 5.78.0-2 all [installed,automatic]
+  Secure and unified container for user passwords.
+
+libkf5wallet-dev/stable 5.78.0-2 amd64
+  development files for kwallet-framework
+
+libkf5wallet-doc/stable,stable,stable,stable 5.78.0-2 all
+  Secure and unified container for user passwords.
+
+libkf5wallet5/stable,now 5.78.0-2 amd64 [installed,automatic]
+  Secure and unified container for user passwords.
+
+libkfontinst5/stable 4:5.20.5-6 amd64
+  Tools and widgets for the desktop library
+
+libkfontinstui5/stable 4:5.20.5-6 amd64
+  Tools and widgets for the desktop library
+
+libkmnkbp-dev/stable 11.0.101-3 amd64
+  Development files for Keyman keyboard processing library
+
+libkmnkbp0-0/stable 11.0.101-3 amd64
+  Keyman keyboard processing library
+
+libkwalletbackend5-5/stable,now 5.78.0-2 amd64 [installed,automatic]
+  Secure and unified container for user passwords.
+
+libkwin4-effect-builtins1/stable 4:5.20.5-1 amd64
+  KDE window manager effect builtins library
+
+libkwineffects12a/stable 4:5.20.5-1 amd64
+  KDE window manager effects library
+
+libkwinglutils12/stable 4:5.20.5-1 amd64
+  KDE window manager gl utils library
+
+libkwinxrenderutils12/stable 4:5.20.5-1 amd64
+  KDE window manager render utils library
+
+liblaf-widget-java/stable,stable,stable,stable 7.3+dfsg3-5 all
+  Java widget toolbox for other look-and-feel libraries
+
+liblaf-widget-java-doc/stable,stable,stable,stable 7.3+dfsg3-5 all
+  Java widget toolbox for look-and-feel libraries - documentation
+
+liblomiri-api-dev/stable 0.1.1-4 amd64
+  API for Lomiri shell integration (development headers)
+
+liblomiri-api-doc/stable,stable,stable,stable 0.1.1-4 all
+  API for Lomiri shell integration (documentation)
+
+liblomiri-api0/stable 0.1.1-4 amd64
+  API for Lomiri shell integration (shared library)
+
+liblxqt0/stable 0.16.0-1 amd64
+  Shared libraries for LXQt desktop environment (libs)
+
+liblxqt0-dev/stable 0.16.0-1 amd64
+  Shared libraries for LXQt desktop environment (dev)
+
+libmarco-dev/stable 1.24.1-3 amd64
+  library for Marco window manager (development files)
+
+libmarco-private2/stable 1.24.1-3 amd64
+  library for Marco window manager
+
+libmatchbox-dev/stable 1.12+git20170224-2 amd64
+  shared library for Matchbox Project applications [development]
+
+libmatchbox-doc/stable,stable,stable,stable 1.12+git20170224-2 all
+  shared library for Matchbox Project applications [documentation]
+
+libmatchbox1/stable 1.12+git20170224-2 amd64
+  shared library for Matchbox Project applications [runtime]
+
+libmate-desktop-2-17/stable 1.24.1-2 amd64
+  Library with common API for various MATE modules (library)
+
+libmate-desktop-dev/stable 1.24.1-2 amd64
+  Library with common API for various MATE modules (development files)
+
+libmate-desktop-doc/stable,stable,stable,stable 1.24.1-2 all
+  Library with common API for various MATE modules (documentation files)
+
+libmate-menu-dev/stable 1.24.1-1 amd64
+  implementation of the freedesktop menu specs for MATE (development files)
+
+libmate-menu2/stable 1.24.1-1 amd64
+  implementation of the freedesktop menu specification for MATE (library)
+
+libmate-panel-applet-4-1/stable 1.24.1-1 amd64
+  library for MATE Panel applets
+
+libmate-panel-applet-dev/stable 1.24.1-1 amd64
+  library for MATE Panel applets (development files)
+
+libmate-panel-applet-doc/stable,stable,stable,stable 1.24.1-1 all
+  library for MATE Panel applets (documentation files)
+
+libmate-window-settings-dev/stable 1.24.1-1 amd64
+  utilities to configure the MATE desktop (window settings headers)
+
+libmate-window-settings1/stable 1.24.1-1 amd64
+  utilities to configure the MATE desktop (window settings library)
+
+libmatedict-dev/stable 1.24.0-1 amd64
+  MATE desktop utilities (matedict development files)
+
+libmatedict6/stable 1.24.0-1 amd64
+  MATE desktop utilities (matedict library)
+
+libmatemixer-common/stable,stable,stable,stable 1.24.1-1 all
+  Mixer library for MATE Desktop (common files)
+
+libmatemixer-dev/stable 1.24.1-1 amd64
+  Mixer library for MATE Desktop (development files)
+
+libmatemixer-doc/stable,stable,stable,stable 1.24.1-1 all
+  Mixer library for MATE Desktop (documentation files)
+
+libmatemixer0/stable 1.24.1-1 amd64
+  Mixer library for MATE Desktop
+
+libmenu-cache-bin/stable 1.1.0-1.1 amd64
+  LXDE implementation of the freedesktop Menu's cache (libexec)
+
+libmenu-cache-dev/stable 1.1.0-1.1 amd64
+  LXDE implementation of the freedesktop Menu's cache (devel)
+
+libmenu-cache-doc/stable,stable,stable,stable 1.1.0-1.1 all
+  LXDE implementation of the freedesktop Menu's cache (docs)
+
+libmenu-cache3/stable 1.1.0-1.1 amd64
+  LXDE implementation of the freedesktop Menu's cache
+
+libmessaging-menu-dev/stable 0.8.2-1 amd64
+  Ayatana Messaging Menu - library development files
+
+libmessaging-menu0/stable 0.8.2-1 amd64
+  Ayatana Messaging Menu - shared library
+
+libmuffin-dev/stable 4.8.1-1 amd64
+  lightweight window and compositing manager (development files)
+
+libmuffin0/stable 4.8.1-1 amd64
+  lightweight window and compositing manager (shared library)
+
+libnautilus-extension-dev/stable 3.38.2-1+deb11u1 amd64
+  libraries for nautilus components - development version
+
+libnautilus-extension1a/stable,now 3.38.2-1+deb11u1 amd64 [installed,automatic]
+  libraries for nautilus components - runtime version
+
+libnb-platform-devel-java/stable,stable,stable,stable 12.1-2 all
+  Build harness for NetBeans Platform
+
+libnb-platform18-java/stable,stable,stable,stable,now 12.1-2 all [installed,automatic]
+  NetBeans Platform for building rich desktop applications in Java
+
+libnemo-extension-dev/stable 4.8.6-2 amd64
+  Nemo component system facilities (development files)
+
+libnemo-extension1/stable 4.8.6-2 amd64
+  Nemo component system facilities
+
+libnet-oauth-perl/stable,stable,stable,stable 0.28-3 all
+  implementation of the OAuth 1.0 protocol
+
+libnet-vnc-perl/stable,stable,stable,stable 0.40-2.1 all
+  Perl module implementing a simple VNC client
+
+libnextcloudsync-dev/stable 3.1.1-2+deb11u1 amd64
+  Nextcloud folder synchronization - development files
+
+libnextcloudsync0/stable 3.1.1-2+deb11u1 amd64
+  Nextcloud folder synchronization - libraries
+
+libnotify-bin/stable,now 0.7.9-3 amd64 [installed,automatic]
+  sends desktop notifications to a notification daemon (Utilities)
+
+libnotify-cil-dev/stable,stable,stable,stable 0.4.0~r3032-7.1 all
+  CLI library for desktop notifications
+
+libnotify-dev/stable 0.7.9-3 amd64
+  sends desktop notifications to a notification daemon (Development files)
+
+libnotify-doc/stable,stable,stable,stable 0.7.9-3 all
+  sends desktop notifications to a notification daemon (Documentation)
+
+libnotify0.4-cil/stable,stable,stable,stable 0.4.0~r3032-7.1 all
+  CLI library for desktop notifications
+
+libnotify3.0-cil/stable,stable,stable,stable 3.0.3-3 all
+  CLI library for desktop notifications
+
+libnotify3.0-cil-dev/stable,stable,stable,stable 3.0.3-3 all
+  CLI library for desktop notifications
+
+libnotify4/stable,now 0.7.9-3 amd64 [installed,automatic]
+  sends desktop notifications to a notification daemon
+
+libobrender32v5/stable 3.6.1-9+deb11u1 amd64
+  rendering library for openbox themes
+
+libobt2v5/stable 3.6.1-9+deb11u1 amd64
+  parsing library for openbox
+
+libopenal-data/stable,stable,stable,stable,now 1:1.19.1-2 all [installed,automatic]
+  Software implementation of the OpenAL audio API (data files)
+
+libopenal-dev/stable 1:1.19.1-2 amd64
+  Software implementation of the OpenAL audio API (development files)
+
+libopenal1/stable,now 1:1.19.1-2 amd64 [installed,automatic]
+  Software implementation of the OpenAL audio API (shared library)
+
+liboxygenstyle5-5/stable 4:5.20.5-1 amd64
+  style library for the Oxygen desktop theme
+
+liboxygenstyleconfig5-5/stable 4:5.20.5-1 amd64
+  style library configuration for the Oxygen desktop theme
+
+libpam-biometric/stable 1.2.1-1 amd64
+  Insertable authentication module for PAM
+
+libpappl-dev/stable 1.0.1-2 amd64
+  C-based framework/library for developing CUPS Printer Applications - Headers
+
+libpappl1/stable 1.0.1-2 amd64
+  C-based framework/library for developing CUPS Printer Applications
+
+libpeony-dev/stable 3.0.6-1+b1 amd64
+  libraries for Peony components (development files)
+
+libpeony3/stable 3.0.6-1+b1 amd64
+  libraries for Peony components
+
+libpolkit-qt5-1-1/stable,now 0.113.0-1 amd64 [installed,automatic]
+  PolicyKit-qt5-1 library
+
+libpolkit-qt5-1-dev/stable 0.113.0-1 amd64
+  PolicyKit-qt5-1 development files
+
+libqalculate-dev/stable 2.8.2-1.1 amd64
+  Powerful and easy to use desktop calculator - development
+
+libqalculate-doc/stable,stable,stable,stable 2.8.2-1.1 all
+  Powerful and easy to use desktop calculator - documentation
+
+libqalculate20/stable 2.8.2-1.1 amd64
+  Powerful and easy to use desktop calculator - library
+
+libqalculate20-data/stable,stable,stable,stable 2.8.2-1.1 all
+  Powerful and easy to use desktop calculator - data
+
+libqt5-ukui-style-dev/stable 1.0.6-1 amd64
+  Development files of libqt5-ukui-style1
+
+libqt5-ukui-style1/stable 1.0.6-1 amd64
+  UKUI platform theme and styles' shared library
+
+libqt5hunspellinputmethod5/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard - helper library for Hunspell input method
+
+libqt5virtualkeyboard5/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard - public shared library
+
+libqt5virtualkeyboard5-dev/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard - development files
+
+libraven0/stable 10.5.2-4 amd64
+  Raven library for budgie-desktop
+
+librda-bin/stable 0.0.5-1.1 amd64
+  Remote Desktop Awareness (utility)
+
+librda-common/stable,stable,stable,stable 0.0.5-1.1 all
+  Remote Desktop Awareness (common files)
+
+librda-dev/stable 0.0.5-1.1 amd64
+  Remote Desktop Awareness (development headers)
+
+librda0/stable 0.0.5-1.1 amd64
+  Remote Desktop Awareness (shared library)
+
+libs3d-dev/stable 0.2.2.1-3+b1 amd64
+  3d network display server library - development files
+
+libs3d2/stable 0.2.2.1-3+b1 amd64
+  3d network display server library
+
+libs3dw-dev/stable 0.2.2.1-3+b1 amd64
+  3d network display server widget library - development files
+
+libs3dw2/stable 0.2.2.1-3+b1 amd64
+  3d network display server widget library
+
+libsecret-tools/stable 0.20.4-2 amd64
+  tool for storing and retrieving GObject passwords
+
+libskinlf-java/stable,stable,stable,stable 6.7-10 all
+  Skin Look and Feel - Skinning Engine for the Swing toolkit
+
+libskinlf-java-demo/stable,stable,stable,stable 6.7-10 all
+  Swing Java docking framework - demos and examples
+
+libsm-dev/stable,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Session Management library (development headers)
+
+libsm6/stable,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Session Management library
+
+libsnapd-glib-dev/stable 1.58-4 amd64
+  GLib snapd library (development files)
+
+libsnapd-glib1/stable 1.58-4 amd64
+  GLib snapd library
+
+libsnapd-qt-dev/stable 1.58-4 amd64
+  Qt snapd library (development files)
+
+libsnapd-qt1/stable 1.58-4 amd64
+  Qt snapd library
+
+libsndio-dev/stable,now 1.5.0-3 amd64 [installed,automatic]
+  Small audio and MIDI framework from OpenBSD, development files
+
+libsndio7.0/stable,now 1.5.0-3 amd64 [installed,automatic]
+  Small audio and MIDI framework from OpenBSD, runtime libraries
+
+libsonic-java/stable,stable,stable,stable 0.2.0-10 all
+  Simple library to speed up or slow down speech - Java bindings
+
+libsonic0/stable 0.2.0-10 amd64
+  Simple library to speed up or slow down speech
+
+libsoup2.4-tests/stable 2.72.0-2 amd64
+  HTTP library implementation in C -- installed tests
+
+libsox-fmt-pulse/stable 14.4.2+git20190427-2 amd64
+  SoX PulseAudio format I/O library
+
+libspice-protocol-dev/stable,stable,stable,stable 0.14.3-1 all
+  SPICE protocol headers
+
+libspice-server-dev/stable 0.14.3-2.1 amd64
+  Header files and development documentation for spice-server
+
+libspice-server1/stable,now 0.14.3-2.1 amd64 [installed,automatic]
+  Implements the server side of the SPICE protocol
+
+libspin-java/stable,stable,stable,stable 1.5+dfsg-8.1 all
+  transparent threading solution for non-freezing Swing applications
+
+libspin-java-doc/stable,stable,stable,stable 1.5+dfsg-8.1 all
+  transparent threading solution for non-freezing Swing applications (docs)
+
+libstartup-notification0/stable,now 0.12-6+b1 amd64 [installed,automatic]
+  library for program launch feedback (shared library)
+
+libstartup-notification0-dev/stable 0.12-6+b1 amd64
+  library for program launch feedback (development headers)
+
+libsugarext-data/stable,stable,stable,stable 0.118-3 all
+  Sugar Learning Platform - toolkit common files
+
+libsugarext-dev/stable 0.118-3 amd64
+  Sugar Learning Platform - toolkit development files
+
+libsugarext0/stable 0.118-3 amd64
+  Sugar Learning Platform - toolkit runtime library
+
+libtaoframework-openal-cil-dev/stable,stable,stable,stable 2.1.svn20090801-14.1 all
+  Tao CLI binding for OpenAL - development files
+
+libtaoframework-openal1.1-cil/stable,stable,stable,stable 2.1.svn20090801-14.1 all
+  Tao CLI binding for OpenAL
+
+libtgowt-dev/stable 0~git20210124.be23804+ds-3 amd64
+  telegram related WebRTC fork
+
+libudisks2-qt5-0/stable 5.0.5-1 amd64
+  UDisks2 library with Qt5
+
+libudisks2-qt5-dev/stable 5.0.5-1 amd64
+  UDisks2 library with Qt5 (development files)
+
+libukui-desktopclient-dev/stable 1.0.0-1+b1 amd64
+  desktop settings interfaces
+
+libukui-desktopclient0/stable 1.0.0-1+b1 amd64
+  desktop settings module
+
+libukui-menu-dev/stable 1.1.4-1+b2 amd64
+  implementation of the freedesktop menu specification for UKUI (dev)
+
+libukui-menu2/stable 1.1.4-1+b2 amd64
+  implementation of the freedesktop menu specification for UKUI (library)
+
+libunity-scopes-json-def-desktop/stable,stable,stable,stable 7.1.4+19.04.20190319-5 all
+  binding to get places into the launcher - desktop def file
+
+libunshield-dev/stable 1.4.2-1 amd64
+  development files for libunshield
+
+libunshield0/stable 1.4.2-1 amd64
+  library to extract CAB files from InstallShield installers
+
+libupower-glib-dev/stable 0.99.11-2 amd64
+  abstraction for power management - development files
+
+libupower-glib3/stable,now 0.99.11-2 amd64 [installed,automatic]
+  abstraction for power management - shared library
+
+libvalapanel-dev/stable 0.5.0-1 amd64
+  library for Vala Panel - development files
+
+libvalapanel0/stable 0.5.0-1 amd64
+  library for Vala Panel
+
+libvldocking-java/stable,stable,stable,stable 3.0.5-3 all
+  Java components for building applications with Docking capabilities
+
+libwinpr-tools2-2/stable 2.3.0+dfsg1-2 amd64
+  Windows Portable Runtime Tools library
+
+libwpebackend-fdo-1.0-1/stable,now 1.8.0-1 amd64 [installed,automatic]
+  WPE backend for FreeDesktop.org
+
+libwpebackend-fdo-1.0-dev/stable 1.8.0-1 amd64
+  WPE backend for FreeDesktop.org - Development files
+
+libx11-6/stable,now 2:1.7.2-1 amd64 [installed,automatic]
+  X11 client-side library
+
+libx11-data/stable,stable,stable,stable,now 2:1.7.2-1 all [installed,automatic]
+  X11 client-side library
+
+libx11-dev/stable,now 2:1.7.2-1 amd64 [installed]
+  X11 client-side library (development headers)
+
+libx11-doc/stable,stable,stable,stable 2:1.7.2-1 all
+  X11 client-side library (development documentation)
+
+libx11-freedesktop-desktopentry-perl/stable,stable,stable,stable 0.04-4.1 all
+  perl interface to Freedesktop.org .desktop files
+
+libx11-xcb-dev/stable,now 2:1.7.2-1 amd64 [installed]
+  Xlib/XCB interface library (development headers)
+
+libx11-xcb1/stable,now 2:1.7.2-1 amd64 [installed,automatic]
+  Xlib/XCB interface library
+
+libxapp-dev/stable 2.0.7-1 amd64
+  XApp library - development files
+
+libxapp1/stable 2.0.7-1 amd64
+  XApp library
+
+libxau-dev/stable,now 1:1.0.9-1 amd64 [installed,automatic]
+  X11 authorisation library (development headers)
+
+libxau6/stable,now 1:1.0.9-1 amd64 [installed,automatic]
+  X11 authorisation library
+
+libxaw7/stable,now 2:1.0.13-1.1 amd64 [installed,automatic]
+  X11 Athena Widget library
+
+libxaw7-dbg/stable 2:1.0.13-1.1 amd64
+  X11 Athena Widget library (debug package)
+
+libxaw7-dev/stable,now 2:1.0.13-1.1 amd64 [installed]
+  X11 Athena Widget library (development headers)
+
+libxcomposite-dev/stable,now 1:0.4.5-1 amd64 [installed]
+  X11 Composite extension library (development headers)
+
+libxcomposite1/stable,now 1:0.4.5-1 amd64 [installed,automatic]
+  X11 Composite extension library
+
+libxdamage-dev/stable,now 1:1.1.5-2 amd64 [installed,automatic]
+  X11 damaged region extension library (development headers)
+
+libxdamage1/stable,now 1:1.1.5-2 amd64 [installed,automatic]
+  X11 damaged region extension library
+
+libxdmcp-dev/stable,now 1:1.1.2-3 amd64 [installed,automatic]
+  X11 authorisation library (development headers)
+
+libxdmcp6/stable,now 1:1.1.2-3 amd64 [installed,automatic]
+  X11 Display Manager Control Protocol library
+
+libxdmcp6-dbg/stable 1:1.1.2-3 amd64
+  X11 authorisation library (debug package)
+
+libxext-dev/stable,now 2:1.3.3-1.1 amd64 [installed,automatic]
+  X11 miscellaneous extensions library (development headers)
+
+libxext-doc/stable,stable,stable,stable 2:1.3.3-1.1 all
+  X11 miscellaneous extensions library (documentation)
+
+libxext6/stable,now 2:1.3.3-1.1 amd64 [installed,automatic]
+  X11 miscellaneous extension library
+
+libxext6-dbg/stable 2:1.3.3-1.1 amd64
+  X11 miscellaneous extensions library (debug package)
+
+libxfce4util-dev/stable 4.16.0-1 amd64
+  Development files for libxfce4util7
+
+libxfixes-dev/stable,now 1:5.0.3-2 amd64 [installed,automatic]
+  X11 miscellaneous 'fixes' extension library (development headers)
+
+libxfixes3/stable,now 1:5.0.3-2 amd64 [installed,automatic]
+  X11 miscellaneous 'fixes' extension library
+
+libxfont-dev/stable,now 1:2.0.4-1 amd64 [installed]
+  X11 font rasterisation library (development headers)
+
+libxfont2/stable,now 1:2.0.4-1 amd64 [installed,automatic]
+  X11 font rasterisation library
+
+libxi-dev/stable,now 2:1.7.10-1 amd64 [installed,automatic]
+  X11 Input extension library (development headers)
+
+libxi6/stable,now 2:1.7.10-1 amd64 [installed,automatic]
+  X11 Input extension library
+
+libxine2-gnome/stable 1.2.10-4+b1 amd64
+  GNOME-related plugins for libxine2
+
+libxine2-x/stable 1.2.10-4+b1 amd64
+  X desktop video output plugins for libxine2
+
+libxinerama-dev/stable,now 2:1.1.4-2 amd64 [installed]
+  X11 Xinerama extension library (development headers)
+
+libxinerama1/stable,now 2:1.1.4-2 amd64 [installed,automatic]
+  X11 Xinerama extension library
+
+libxkbfile-dev/stable,now 1:1.1.0-1 amd64 [installed]
+  X11 keyboard file manipulation library (development headers)
+
+libxkbfile1/stable,now 1:1.1.0-1 amd64 [installed,automatic]
+  X11 keyboard file manipulation library
+
+libxmu-dev/stable,now 2:1.1.2-2+b3 amd64 [installed,automatic]
+  X11 miscellaneous utility library (development headers)
+
+libxmu-headers/stable,stable,stable,stable,now 2:1.1.2-2 all [installed,automatic]
+  X11 miscellaneous utility library headers
+
+libxmu6/stable,now 2:1.1.2-2+b3 amd64 [installed,automatic]
+  X11 miscellaneous utility library
+
+libxmu6-dbg/stable 2:1.1.2-2+b3 amd64
+  X11 miscellaneous utility library (debug package)
+
+libxmuu-dev/stable 2:1.1.2-2+b3 amd64
+  X11 miscellaneous micro-utility library (development headers)
+
+libxmuu1/stable,now 2:1.1.2-2+b3 amd64 [installed,automatic]
+  X11 miscellaneous micro-utility library
+
+libxmuu1-dbg/stable 2:1.1.2-2+b3 amd64
+  X11 miscellaneous micro-utility library (debug package)
+
+libxrandr-dev/stable,now 2:1.5.1-1 amd64 [installed]
+  X11 RandR extension library (development headers)
+
+libxrandr2/stable,now 2:1.5.1-1 amd64 [installed,automatic]
+  X11 RandR extension library
+
+libxrdesktop-0.15-0/stable 0.15.1-5 amd64
+  XR desktop interaction library
+
+libxrdesktop-dev/stable 0.15.1-5 amd64
+  XR desktop interaction library -- development files
+
+libxrender-dev/stable,now 1:0.9.10-1 amd64 [installed,automatic]
+  X Rendering Extension client library (development files)
+
+libxrender1/stable,now 1:0.9.10-1 amd64 [installed,automatic]
+  X Rendering Extension client library
+
+libxres-dev/stable 2:1.2.0-4 amd64
+  X11 Resource extension library (development headers)
+
+libxres1/stable,now 2:1.2.0-4 amd64 [installed,automatic]
+  X11 Resource extension library
+
+libxsettings-client-dev/stable 0.17-10 amd64
+  utility functions for the Xsettings protocol (Development files)
+
+libxsettings-client-doc/stable,stable,stable,stable 0.17-10 all
+  utility functions for the Xsettings protocol (Documentation)
+
+libxsettings-client0/stable 0.17-10 amd64
+  utility functions for the Xsettings protocol (GPE)
+
+libxsettings-dev/stable 0.11-5 amd64
+  Xsettings protocol (development files)
+
+libxsettings0/stable 0.11-5 amd64
+  Xsettings protocol library for GPE
+
+libxss-dev/stable,now 1:1.2.3-1 amd64 [installed]
+  X11 Screen Saver extension library (development headers)
+
+libxss1/stable,now 1:1.2.3-1 amd64 [installed,automatic]
+  X11 Screen Saver extension library
+
+libxt-dev/stable,now 1:1.2.0-1 amd64 [installed,automatic]
+  X11 toolkit intrinsics library (development headers)
+
+libxt6/stable,now 1:1.2.0-1 amd64 [installed,automatic]
+  X11 toolkit intrinsics library
+
+libxtst-dev/stable,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Record extension library (development headers)
+
+libxtst-doc/stable,stable,stable,stable 2:1.2.3-1 all
+  X11 Record extension library (documentation)
+
+libxtst6/stable,now 2:1.2.3-1 amd64 [installed,automatic]
+  X11 Testing -- Record extension library
+
+libxv-dev/stable,now 2:1.0.11-1 amd64 [installed,automatic]
+  X11 Video extension library (development headers)
+
+libxv1/stable,now 2:1.0.11-1 amd64 [installed,automatic]
+  X11 Video extension library
+
+libxvmc-dev/stable 2:1.0.12-2 amd64
+  X11 Video extension library (development headers)
+
+libxvmc1/stable,now 2:1.0.12-2 amd64 [installed,automatic]
+  X11 Video extension library
+
+libxxf86dga-dev/stable 2:1.1.4-1+b3 amd64
+  X11 Direct Graphics Access extension library (development headers)
+
+libxxf86dga1/stable,now 2:1.1.4-1+b3 amd64 [installed,automatic]
+  X11 Direct Graphics Access extension library
+
+libxxf86dga1-dbg/stable 2:1.1.4-1+b3 amd64
+  X11 Direct Graphics Access extension library (debug package)
+
+libxxf86vm-dev/stable,now 1:1.1.4-1+b2 amd64 [installed,automatic]
+  X11 XFree86 video mode extension library (development headers)
+
+libxxf86vm1/stable,now 1:1.1.4-1+b2 amd64 [installed,automatic]
+  X11 XFree86 video mode extension library
+
+libxxf86vm1-dbg/stable 1:1.1.4-1+b2 amd64
+  X11 XFree86 video mode extension library (debug package)
+
+libyelp-dev/stable 3.38.3-1 amd64
+  Library for the GNOME help browser (development)
+
+libyelp0/stable,now 3.38.3-1 amd64 [installed,automatic]
+  Library for the GNOME help browser
+
+libzlcore-data/stable,stable,stable,stable 0.12.10dfsg2-4 all
+  ZLibrary cross-platform development library (support files)
+
+libzlcore-dev/stable 0.12.10dfsg2-4 amd64
+  ZLibrary cross-platform development library (development files)
+
+libzlcore0.13/stable 0.12.10dfsg2-4 amd64
+  ZLibrary cross-platform development library (shared library)
+
+libzltext-data/stable,stable,stable,stable 0.12.10dfsg2-4 all
+  ZLibrary text model/viewer part (support files)
+
+libzltext-dev/stable 0.12.10dfsg2-4 amd64
+  ZLibrary text model/viewer part (development files)
+
+libzltext0.13/stable 0.12.10dfsg2-4 amd64
+  ZLibrary text model/viewer part (shared library)
+
+libzlui-gtk/stable 0.12.10dfsg2-4 amd64
+  GTK+ interface module for ZLibrary
+
+light/stable 1.2.2-2 amd64
+  control display backlight controllers and LEDs
+
+light-locker/stable,now 1.8.0-3 amd64 [installed,automatic]
+  simple screen locker for lightDM display manager
+
+lightdm/stable,now 1.26.0-7 amd64 [installed,automatic]
+  simple display manager
+
+lightdm-gtk-greeter/stable,now 2.0.8-2 amd64 [installed,automatic]
+  simple display manager (GTK+ greeter)
+
+linphone-desktop/stable 4.2.5-3 amd64
+  SIP softphone - graphical client
+
+live-task-localisation-desktop/stable,stable,stable,stable 11.0.3 all
+  Live graphical desktop environment localisation support
+
+lptools/stable,stable,stable,stable 0.2.0-7 all
+  Tools for working with Launchpad
+
+ltrsift/stable 1.0.2-9 amd64
+  postprocessing and classification of LTR retrotransposons
+
+lxappearance/stable 0.6.3-1+b1 amd64
+  LXDE GTK+ theme switcher
+
+lxappearance-dbg/stable 0.6.3-1+b1 amd64
+  LXDE GTK+ theme switcher (debug)
+
+lxappearance-obconf/stable 0.2.3-1+b1 amd64
+  LXDE GTK+ theme switcher (plugin)
+
+lxappearance-obconf-dbg/stable 0.2.3-1+b1 amd64
+  LXDE GTK+ theme switcher (plugin - debug)
+
+lxde/stable,stable,stable,stable 11 all
+  metapackage for LXDE
+
+lxde-common/stable,stable,stable,stable 0.99.2-4 all
+  LXDE common configuration files
+
+lxde-core/stable,stable,stable,stable 11 all
+  metapackage for the LXDE core
+
+lxde-icon-theme/stable,stable,stable,stable 0.5.1-2.1 all
+  LXDE standard icon theme
+
+lxde-settings-daemon/stable 0.5.5-2 amd64
+  xsettings compliant configuration manager for LXDE
+
+lxdm/stable 0.5.3-4 amd64
+  LXDE display manager
+
+lxhotkey-core/stable 0.1.1-1 amd64
+  Lightweight global keyboard shortcuts configurator
+
+lxhotkey-data/stable,stable,stable,stable 0.1.1-1 all
+  LXHotkey keyboard shortcuts configurator (data files)
+
+lxhotkey-dev/stable 0.1.1-1 amd64
+  LXHotkey keyboard shortcuts configurator (development files)
+
+lxhotkey-gtk/stable 0.1.1-1 amd64
+  LXHotkey keyboard shortcuts configurator (GTK+ GUI plugin)
+
+lxhotkey-plugin-openbox/stable 0.1.1-1 amd64
+  LXHotkey keyboard shortcuts configurator (Openbox support plugin)
+
+lxinput/stable 0.3.5-1+b1 amd64
+  LXDE keyboard and mouse configuration
+
+lxinput-dbg/stable 0.3.5-1+b1 amd64
+  LXDE keyboard and mouse configuration (debug)
+
+lxlauncher/stable 0.2.5-1+b1 amd64
+  LXDE launcher for netbooks
+
+lxlauncher-dbg/stable 0.2.5-1+b1 amd64
+  LXDE launcher for netbooks (debug)
+
+lxlock/stable,stable,stable,stable 0.5.5-2 all
+  simple locking utility for LXDE
+
+lxmenu-data/stable,stable,stable,stable 0.1.5-2.1 all
+  LXDE freedesktop.org menu specification
+
+lxmusic/stable 0.4.7-1+b1 amd64
+  LXDE music player
+
+lxmusic-dbg/stable 0.4.7-1+b1 amd64
+  LXDE music player (debug)
+
+lxpanel/stable 0.10.1-2 amd64
+  LXDE panel
+
+lxpanel-data/stable,stable,stable,stable 0.10.1-2 all
+  LXDE panel (data files)
+
+lxpanel-dev/stable 0.10.1-2 amd64
+  LXDE panel (plugins development files)
+
+lxpolkit/stable 0.5.5-2 amd64
+  LXDE PolicyKit authentication agent
+
+lxqt/stable 30 amd64
+  Metapackage for LXQt
+
+lxqt-branding-debian/stable,stable,stable,stable 0.14.0.3 all
+  Debian branding for LXQt
+
+lxqt-build-tools/stable,stable,stable,stable 0.8.0-1 all
+  Build tools for the LXQt desktop environment
+
+lxqt-core/stable,stable,stable,stable 30 all
+  Metapackage for the LXQt core
+
+lxqt-openssh-askpass/stable 0.16.0-1 amd64
+  OpenSSH user/password GUI dialog for LXQt
+
+lxqt-panel/stable 0.16.1-1 amd64
+  LXQt desktop panel
+
+lxqt-runner/stable 0.16.0-1 amd64
+  LXQt program launcher
+
+lxqt-runner-l10n/stable,stable,stable,stable 0.16.0-1 all
+  Language package for lxqt-runner
+
+lxqt-session/stable 0.16.0-1 amd64
+  session manager component for LXQt
+
+lxqt-theme-debian/stable,stable,stable,stable 0.14.0.3 all
+  Debian theme for LXQt
+
+lxrandr/stable 0.3.2-1+b1 amd64
+  LXDE monitor configuration tool
+
+lxrandr-dbg/stable 0.3.2-1+b1 amd64
+  LXDE monitor configuration tool (debug)
+
+lxsession/stable 0.5.5-2 amd64
+  LXDE default session manager
+
+lxsession-data/stable,stable,stable,stable 0.5.5-2 all
+  Common files for lxsession
+
+lxsession-default-apps/stable 0.5.5-2 amd64
+  utility to configure lxsession and its default applications
+
+lxsession-edit/stable 0.5.5-2 amd64
+  configure what application start up automatically in LXDE
+
+lxsession-logout/stable 0.5.5-2 amd64
+  utility to logout from a LXDE or an Openbox session
+
+lxtask/stable 0.1.10-1 amd64
+  LXDE task manager
+
+lxterminal/stable 0.4.0-1 amd64
+  LXDE terminal emulator
+
+lybniz/stable,stable,stable,stable 3.0.4-5 all
+  mathematical function graph plotter
+
+macopix/stable 3.4.0+dfsg.1-3 amd64
+  Mascot Constructive Pilot for X
+
+magnus/stable,stable,stable,stable 1:1.0.3-3 all
+  Very simple screen magnifier
+
+mailcap/stable,stable,stable,stable,now 3.69 all [installed,automatic]
+  Debian's mailcap system, and support programs
+
+mailnag/stable,stable,stable,stable 2.0.0-0.2 all
+  extensible mail notification daemon
+
+maim/stable 5.6.3-1 amd64
+  takes screenshots of your desktop
+
+makexvpics/stable 1.0.1-3+b1 amd64
+  updates .xvpics thumbnails from the command line
+
+mapproxy/stable,stable,stable,stable 1.13.0-1 all
+  open source proxy for geospatial data
+
+mapproxy-doc/stable,stable,stable,stable 1.13.0-1 all
+  open source proxy for geospatial data - documentation
+
+marble-data/stable,stable,stable,stable 4:20.12.3-1 all
+  data files for Marble
+
+marble-plugins/stable 4:20.12.3-1 amd64
+  plugins for Marble
+
+marble-qt-data/stable,stable,stable,stable 4:20.12.3-1 all
+  Qt-only data files for Marble
+
+marco/stable 1.24.1-3 amd64
+  lightweight GTK+ window manager for MATE
+
+marco-common/stable,stable,stable,stable 1.24.1-3 all
+  lightweight GTK+ window manager for MATE (common files)
+
+massxpert/stable 6.0.2-1 amd64
+  polymer chemistry modelling and mass spectrometry data simulation (runtime)
+
+massxpert-data/stable,stable,stable,stable 6.0.2-1 all
+  polymer chemistry modelling and mass spectrometry data simulation (data)
+
+massxpert-doc/stable,stable,stable,stable 6.0.2-1 all
+  polymer chemistry modelling and mass spectrometry data simulation (doc)
+
+matchbox/stable,stable,stable,stable 1:7 all
+  base X environment for resource-limited systems
+
+matchbox-common/stable,stable,stable,stable 0.9.1+git20070606-1 all
+  common files for Matchbox Project applications
+
+matchbox-desktop/stable 2.2+git20200512-1 amd64
+  desktop application launcher for resource-limited systems
+
+matchbox-keyboard/stable 0.2+git20160713-1 amd64
+  on-screen keyboard
+
+matchbox-keyboard-im/stable 0.2+git20160713-1 amd64
+  GTK+ input module for on-screen keyboard
+
+matchbox-panel/stable 0.9.3+git20100816-1 amd64
+  desktop panel for resource-limited systems
+
+matchbox-panel-manager/stable 0.1+git20041202-1 amd64
+  panel manager for matchbox-panel
+
+matchbox-themes-extra/stable,stable,stable,stable 0.4+git20051003-1 all
+  extra themes for matchbox-window-manager
+
+matchbox-window-manager/stable 1.2.2+git20200512-1 amd64
+  window manager for resource-limited systems
+
+mate-applet-brisk-menu/stable 0.6.2-1 amd64
+  Solus Project's Brisk Menu MATE Panel Applet
+
+mate-backgrounds/stable,stable,stable,stable 1.24.2-1 all
+  Set of backgrounds packaged with the MATE Desktop Environment
+
+mate-calc/stable 1.24.1-1 amd64
+  MATE desktop calculator
+
+mate-calc-common/stable,stable,stable,stable 1.24.1-1 all
+  MATE desktop calculator (common files)
+
+mate-control-center/stable 1.24.1-1 amd64
+  utilities to configure the MATE desktop
+
+mate-control-center-common/stable,stable,stable,stable 1.24.1-1 all
+  utilities to configure the MATE desktop (common files)
+
+mate-core/stable,stable,stable,stable 1.24.0+4 all
+  MATE Desktop Environment (essential components, dummy package)
+
+mate-desktop/stable 1.24.1-2 amd64
+  Library with common API for various MATE modules
+
+mate-desktop-common/stable,stable,stable,stable 1.24.1-2 all
+  Library with common API for various MATE modules (common files)
+
+mate-desktop-environment/stable,stable,stable,stable 1.24.0+4 all
+  MATE Desktop Environment (metapackage)
+
+mate-desktop-environment-core/stable,stable,stable,stable 1.24.0+4 all
+  MATE Desktop Environment (essential components, metapackage)
+
+mate-desktop-environment-extra/stable,stable,stable,stable 1.24.0+4 all
+  MATE Desktop Environment (extra components, dummy package)
+
+mate-desktop-environment-extras/stable,stable,stable,stable 1.24.0+4 all
+  MATE Desktop Environment (extra components, metapackage)
+
+mate-dock-applet/stable 20.04.0-1 amd64
+  MATE Panel dock applet
+
+mate-icon-theme/stable,stable,stable,stable 1.24.0-1 all
+  MATE Desktop icon theme
+
+mate-indicator-applet/stable 1.24.0-2 amd64
+  MATE panel indicator applet
+
+mate-indicator-applet-common/stable,stable,stable,stable 1.24.0-2 all
+  MATE panel indicator applet (common files)
+
+mate-menu/stable,stable,stable,stable 20.04.3-1 all
+  Advanced MATE menu
+
+mate-menus/stable,stable,stable,stable 1.24.1-1 all
+  implementation of the freedesktop menu specification for MATE
+
+mate-notification-daemon/stable 1.24.1-1 amd64
+  daemon to display passive popup notifications
+
+mate-notification-daemon-common/stable,stable,stable,stable 1.24.1-1 all
+  daemon to display passive popup notifications (common files)
+
+mate-panel/stable 1.24.1-1 amd64
+  launcher and docking facility for MATE
+
+mate-panel-common/stable,stable,stable,stable 1.24.1-1 all
+  launcher and docking facility for MATE (common files)
+
+mate-polkit-bin/stable,stable,stable,stable 1.24.0-2 all
+  MATE authentication agent for PolicyKit-1 (executable wrapper script)
+
+mate-power-manager/stable 1.24.2-1 amd64
+  power management tool for the MATE desktop
+
+mate-power-manager-common/stable,stable,stable,stable 1.24.2-1 all
+  power management tool for the MATE desktop (common files)
+
+mate-screensaver/stable 1.24.1-1 amd64
+  MATE screen saver and locker
+
+mate-screensaver-common/stable,stable,stable,stable 1.24.1-1 all
+  MATE screen saver and locker (common files)
+
+mate-session-manager/stable 1.24.1-2 amd64
+  Session manager of the MATE desktop environment
+
+mate-settings-daemon/stable 1.24.1-1 amd64
+  daemon handling the MATE session settings
+
+mate-settings-daemon-common/stable,stable,stable,stable 1.24.1-1 all
+  daemon handling the MATE session settings (common files)
+
+mate-settings-daemon-dev/stable 1.24.1-1 amd64
+  daemon handling the MATE session settings (development files)
+
+mate-themes/stable,stable,stable,stable 3.22.21-1 all
+  Official themes for the MATE desktop
+
+mate-tweak/stable,stable,stable,stable 21.04.2-1 all
+  MATE desktop tweak tool
+
+mate-user-guide/stable,stable,stable,stable 1.24.0-1 all
+  User documentation for MATE Desktop Environment
+
+mate-utils/stable 1.24.0-1 amd64
+  MATE desktop utilities
+
+mate-utils-common/stable,stable,stable,stable 1.24.0-1 all
+  MATE desktop utilities (common files)
+
+materia-gtk-theme/stable,stable,stable,stable 20200916-0.2 all
+  Material Design theme for GNOME/GTK+ based desktop environments
+
+materia-kde/stable,stable,stable,stable 20210129-1 all
+  Port of the popular GTK theme Materia for Plasma 5
+
+matrix-mirage/stable 0.6.4~dfsg+~hsluv1.0.0-4 amd64
+  desktop IM client for the Matrix protocol
+
+medcon/stable 0.16.3+dfsg-1 amd64
+  Medical Image (DICOM, ECAT, ...) conversion tool
+
+media-types/stable,stable,stable,stable,now 4.0.0 all [installed,automatic]
+  List of standard media types and their usual file extension
+
+mediawiki-skin-greystuff/stable,stable,stable,stable 1.0.8~git20200711.479faf1-3 all
+  fixed-width grey skin for MediaWiki
+
+meld/stable,stable,stable,stable 3.20.2-2 all
+  graphical tool to diff and merge files
+
+menu-xdg/stable,stable,stable,stable 0.6+nmu1 all
+  freedesktop.org menu compliant window manager scripts
+
+menulibre/stable,stable,stable,stable 2.2.1-1 all
+  advanced FreeDesktop.org compliant menu editor
+
+meshs3d/stable 0.2.2.1-3+b1 amd64
+  OLSR/B.A.T.M.A.N. topology visualizer for s3d
+
+mess-desktop-entries/stable,stable,stable,stable 0.2-4.1 all
+  Desktop entries for MESS ROMs
+
+meteo-qt/stable 2.1-1 amd64
+  Application to display weather information
+
+meteo-qt-l10n/stable,stable,stable,stable 2.1-1 all
+  Application to display weather information (translations)
+
+minia/stable 3.2.1+git20200522.4960a99-1 amd64
+  short-read biological sequence assembler
+
+mir-graphics-drivers-desktop/stable 1.8.0+dfsg1-18 amd64
+  Mir Display Server - desktop driver metapackage
+
+moka-icon-theme/stable,stable,stable,stable 5.4.0.3-1 all
+  Tango-esque desktop icon set called Moka
+
+monajat-applet/stable,stable,stable,stable 4.1-2 all
+  Islamic supplications tray applet
+
+mousetweaks/stable 3.32.0-3 amd64
+  mouse accessibility enhancements for the GNOME desktop
+
+mozo/stable,stable,stable,stable 1.24.0-1 all
+  easy MATE menu editing tool
+
+msxpertsuite/stable 5.8.9-1 amd64
+  mass spectrometry software suite - metapackage
+
+muffin/stable 4.8.1-1 amd64
+  lightweight window and compositing manager
+
+muffin-common/stable,stable,stable,stable 4.8.1-1 all
+  lightweight window and compositing manager (data files)
+
+muffin-doc/stable,stable,stable,stable 4.8.1-1 all
+  lightweight window and compositing manager (Documentation)
+
+mummer/stable 3.23+dfsg-7 amd64
+  Efficient sequence alignment of full genomes
+
+mummer-doc/stable,stable,stable,stable 3.23+dfsg-7 all
+  Documentation for MUMmer
+
+muon/stable 4:5.8.0-2 amd64
+  graphical package manager
+
+musescore/stable 2.3.2+dfsg4-15 amd64
+  cross-platform multi-lingual music composition and notation, v2
+
+musescore3/stable 3.2.3+dfsg2-11 amd64
+  cross-platform multi-lingual music composition and notation, v3
+
+nagstamon/stable,stable,stable,stable 3.4.1-1 all
+  Nagios status monitor which takes place in systray or on desktop
+
+nautilus/stable,now 3.38.2-1+deb11u1 amd64 [installed]
+  file manager and graphical shell for GNOME
+
+nautilus-data/stable,stable,stable,stable,now 3.38.2-1+deb11u1 all [installed,automatic]
+  data files for nautilus
+
+nautilus-dropbox/stable 2019.02.14-1 amd64
+  Dropbox integration for Nautilus
+
+nautilus-font-manager/stable 0.8.4-1 amd64
+  Nautilus extension for Font Manager
+
+nautilus-nextcloud/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud integration for Nautilus
+
+nemiver/stable 0.9.6-1.2 amd64
+  Standalone graphical debugger for GNOME
+
+nemo/stable 4.8.6-2 amd64
+  File manager and graphical shell for Cinnamon
+
+nemo-data/stable,stable,stable,stable 4.8.6-2 all
+  File manager and graphical shell for Cinnamon (data files)
+
+nemo-font-manager/stable 0.8.4-1 amd64
+  Nemo extension for Font Manager
+
+nemo-nextcloud/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud integration for Nemo
+
+network-manager-gnome/stable,now 1.20.0-3 amd64 [installed]
+  network management framework (GNOME frontend)
+
+network-manager-strongswan/stable 1.5.2-1 amd64
+  network management framework (strongSwan plugin)
+
+neurodebian-desktop/stable,stable,stable,stable 0.41.0 all
+  neuroscience-oriented distribution - desktop integration
+
+nexgen-cloud-desktop/stable 1.4.5 amd64
+  NexGen Cloud Desktop
+
+nextcloud-desktop/stable 3.1.1-2+deb11u1 amd64
+  Nextcloud folder synchronization tool
+
+nextcloud-desktop-cmd/stable 3.1.1-2+deb11u1 amd64
+  folder synchronization with an Nextcloud server - cmd client
+
+nextcloud-desktop-common/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud folder synchronization - common data
+
+nextcloud-desktop-doc/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud folder synchronization - documentation
+
+nextcloud-desktop-l10n/stable,stable,stable,stable 3.1.1-2+deb11u1 all
+  Nextcloud folder synchronization - localization
+
+nheko/stable 0.8.0+really0.7.2-4 amd64
+  desktop IM client for the Matrix protocol
+
+ninix-aya/stable 5.0.9-1 amd64
+  Interactive fake-AI Ukagaka-compatible desktop mascot program
+
+nitrogen/stable 1.6.1-2+b1 amd64
+  wallpaper browser and changing utility for X
+
+node-iscroll/stable,stable,stable,stable 5.2.0+dfsg1-2 all
+  High performance, small footprint JavaScript scroller  NodeJS module
+
+node-jsbn/stable,stable,stable,stable,now 1.1.0-1.1 all [installed,automatic]
+  fast, portable implementation of large-number math in pure JS
+
+node-knockout/stable,stable,stable,stable 3.5.1-1 all
+  JavaScript MVVM framework
+
+node-leaflet/stable,stable,stable,stable 1.7.1~dfsg-2 all
+  mobile-friendly interactive maps - Node.js library
+
+node-opener/stable,stable,stable,stable,now 1.5.2-1 all [installed,automatic]
+  Opens stuff, like webpages and files and executables
+
+notification-daemon/stable,now 3.20.0-4 amd64 [installed,automatic]
+  daemon for displaying passive pop-up notifications
+
+notify-osd/stable 0.9.35+15.04.20150126-1+b1 amd64
+  daemon that displays passive pop-up notifications
+
+numix-gtk-theme/stable,stable,stable,stable 2.6.7-5 all
+  modern flat theme from the Numix project
+
+nvidia-driver/stable 460.91.03-1 amd64
+  NVIDIA metapackage
+
+nvidia-kernel-dkms/stable 460.91.03-1 arm64
+  NVIDIA binary kernel module DKMS source
+
+nvidia-kernel-source/stable 460.91.03-1 arm64
+  NVIDIA binary kernel module source
+
+nvidia-tesla-450-driver/stable 450.142.00-1 amd64
+  NVIDIA metapackage (Tesla 450 version)
+
+nvidia-tesla-450-kernel-dkms/stable 450.142.00-1 arm64
+  NVIDIA binary kernel module DKMS source (Tesla 450 version)
+
+nvidia-tesla-450-kernel-source/stable 450.142.00-1 amd64
+  NVIDIA binary kernel module source (Tesla 450 version)
+
+nvidia-tesla-460-driver/stable 460.91.03-1 amd64
+  NVIDIA metapackage (Tesla 460 version)
+
+nvidia-tesla-460-kernel-dkms/stable 460.91.03-1 amd64
+  NVIDIA binary kernel module DKMS source (Tesla 460 version)
+
+nvidia-tesla-460-kernel-source/stable 460.91.03-1 arm64
+  NVIDIA binary kernel module source (Tesla 460 version)
+
+obsession/stable 20140608-2+b1 amd64
+  Session management helpers for lightweight desktop environments
+
+open-font-design-toolkit/stable,stable,stable,stable 1.8 all
+  metapackage for open font design
+
+open-vm-tools-desktop/stable 2:11.2.5-2 amd64
+  Open VMware Tools for virtual machines hosted on VMware (GUI)
+
+openbox/stable 3.6.1-9+deb11u1 amd64
+  standards-compliant, fast, light-weight and extensible window manager
+
+openbox-dev/stable 3.6.1-9+deb11u1 amd64
+  development files for the openbox window manager
+
+openbox-lxde-session/stable,stable,stable,stable 0.99.2-4 all
+  LXDE session manager and configuration files
+
+openbox-menu/stable 0.8.0+hg20161009-3.1 amd64
+  openbox pipe-menu to display entries in *.desktop files
+
+openstereogram/stable,stable,stable,stable 0.1+20080921-3 all
+  Stereogram ("Magic Eye") generator with GUI
+
+orca/stable,stable,stable,stable 3.38.2-1 all
+  Scriptable screen reader
+
+orca-sops/stable,stable,stable,stable 1.0.2-2 all
+  simple orca plugin system
+
+osdlyrics/stable 0.5.5~rc2+dfsg1-2 amd64
+  Show synchronized lyrics with various media players
+
+oxygen-icon-theme/stable,stable,stable,stable 5:5.78.0-2 all
+  Oxygen icon theme
+
+oxygen-sounds/stable,stable,stable,stable 4:5.20.5-1 all
+  Sounds for the Oxygen desktop theme
+
+oxygencursors/stable,stable,stable,stable 0.0.2012-06-kde4.8-4 all
+  Oxygen mouse cursor theme
+
+package-update-indicator/stable 7-1 amd64
+  Notify about available software updates
+
+packagekit/stable 1.2.2-2 amd64
+  Provides a package management service
+
+paper-icon-theme/stable,stable,stable,stable 1.5.0+git20200312.aa3e8af-3 all
+  simple and modern icon and cursor theme
+
+parcimonie/stable,stable,stable,stable 0.12.0-2 all
+  privacy-friendly helper to refresh a GnuPG keyring
+
+parl-desktop/stable,stable,stable,stable 1.9.27 all
+  DebianParl desktop for parliamentary work
+
+parl-desktop-eu/stable,stable,stable,stable 1.9.27 all
+  DebianParl desktop for parliamentary work - EU
+
+parl-desktop-strict/stable,stable,stable,stable 1.9.27 all
+  DebianParl desktop for parliamentary work - strict
+
+parl-desktop-world/stable,stable,stable,stable 1.9.27 all
+  DebianParl desktop for parliamentary work - global
+
+parole/stable 4.16.0-1 amd64
+  media player based on GStreamer framework
+
+parole-dev/stable 4.16.0-1 amd64
+  development files for Parole media player
+
+pavucontrol-qt/stable 0.16.0-1 amd64
+  Qt port of volume control pavucontrol
+
+pcmanfm/stable 1.3.2-1 amd64
+  extremely fast and lightweight file manager
+
+pcmanfm-qt/stable 0.16.0-1 amd64
+  extremely fast and lightweight file and desktop icon manager
+
+pdftk/stable 2.02-5+b1 amd64
+  transitional package for pdftk, a tool for manipulating PDF documents
+
+pdftk-java/stable,stable,stable,stable 3.2.2-1 all
+  pdftk port to java - a tool for manipulating PDF documents
+
+peony/stable 3.0.6-1+b1 amd64
+  file Manager for the UKUI desktop
+
+peony-admin/stable 3.0.2-1 amd64
+  Peony plugin for open files or directories as admin
+
+peony-common/stable,stable,stable,stable 3.0.6-1 all
+  file manager for the UKUI desktop (common files)
+
+peony-extension-computer-view/stable 3.0.2-1 amd64
+  Peony plugin for displaying computer:/// with more information
+
+peony-extensions/stable 3.0.2-1 amd64
+  Peony qt extensions
+
+peony-open-terminal/stable 3.0.2-1 amd64
+  Peony plugin for opening terminals in arbitrary local paths
+
+peony-set-wallpaper/stable 3.0.2-1 amd64
+  Peony plugin for right click a picture to set as wallpaper
+
+peony-share/stable 3.0.2-1 amd64
+  Allows one to quickly share a folder from the Peony file manager
+
+phosh-core/stable 5 amd64
+  GNOME/Phosh mobile Environment -- essential components
+
+phosh-phone/stable 5 amd64
+  GNOME/Phosh mobile Environment -- phone components
+
+phosh-tablet/stable 5 amd64
+  GNOME/Phosh mobile Environment -- tablet components
+
+phototonic/stable 2.1-2+b3 amd64
+  image viewer and organizer
+
+php-horde-imp/stable,stable,stable,stable 6.2.27-2 all
+  Webmail application
+
+pinhole/stable 0.1.0+git20201123-1 amd64
+  Simple camera application for the GNOME desktop
+
+pithos/stable,stable,stable,stable 1.1.2-1.1 all
+  Pandora Radio client for the GNOME desktop
+
+pixmap/stable 2.6pl4-20+b1 amd64
+  A pixmap editor
+
+planner-dev/stable 0.14.6-9+b1 amd64
+  Planner development library
+
+plasma-calendar-addons/stable 4:5.20.5-1 amd64
+  additional calendar plugins for Plasma 5
+
+plasma-desktop/stable 4:5.20.5-4 amd64
+  Tools and widgets for the desktop
+
+plasma-desktop-data/stable,stable,stable,stable 4:5.20.5-4 all
+  Tools and widgets for the desktop data files
+
+plasma-desktop-dev/stable 4:5.20.5-4 amd64
+  Tools and widgets for the desktop
+
+plasma-kdevelop/stable 4:5.6.2-4 amd64
+  KDevelop plugins for Plasma
+
+plasma-systemmonitor/stable 5.20.0-4 amd64
+  System monitor for the Plasma desktop
+
+plasma-theme-oxygen/stable 4:5.20.5-1 amd64
+  Look-and-feel for the Oxygen desktop theme
+
+plasma-wallpapers-addons/stable 4:5.20.5-1 amd64
+  additional wallpaper plugins for Plasma 5
+
+plasma-widgets-addons/stable 4:5.20.5-1 amd64
+  additional widgets for Plasma 5
+
+pluma/stable 1.24.1-1 amd64
+  official text editor of the MATE desktop environment
+
+pluma-common/stable,stable,stable,stable 1.24.1-1 all
+  official text editor of the MATE desktop environment (common files)
+
+pluma-dev/stable 1.24.1-1 amd64
+  official text editor of the MATE desktop environment (development files)
+
+pluma-doc/stable,stable,stable,stable 1.24.1-1 all
+  official text editor of the MATE desktop environment (documentation files)
+
+pngphoon/stable 1.2-1+b2 amd64
+  Creates a png file with the current phase of the moon
+
+pnmixer/stable 0.7.2-1 amd64
+  Simple mixer application for system tray
+
+policykit-1/stable,now 0.105-31 amd64 [installed,automatic]
+  framework for managing administrative policies and privileges
+
+policykit-1-gnome/stable,now 0.105-7 amd64 [installed,automatic]
+  authentication agent for PolicyKit
+
+polkit-kde-agent-1/stable 4:5.20.5-1 amd64
+  KDE dialogs for PolicyKit
+
+polybar/stable 3.5.5-1 amd64
+  Fast and easy-to-use tool for creating status bars
+
+printer-driver-cups-pdf/stable 3.0.1-9 amd64
+  printer driver for PDF writing via CUPS
+
+profanity/stable 0.10.0-1 amd64
+  console based XMPP client
+
+progress-linux-desktop/stable 20210101-2 amd64
+  Progress Linux - Desktop Metapackage
+
+progress-linux-gnome-desktop/stable,stable,stable,stable 20210101-2 all
+  Progress Linux - GNOME Desktop
+
+proguard-gui/stable,stable,stable,stable 6.2.0-1 all
+  Java class file shrinker, optimizer, and obfuscator (GUI)
+
+propaganda-debian/stable,stable,stable,stable 13.5.10+nmu1 all
+  Propaganda background image volume for Debian
+
+psensor/stable 1.1.5-1.3 amd64
+  display graphs for monitoring hardware temperature
+
+pumpa/stable 0.9.3-1+b3 amd64
+  simple desktop client for pump.io, the distributed social network
+
+pychess/stable,stable,stable,stable 1.0.0-1.2 all
+  Fully featured, nice looking, easy to use Chess Client
+
+pyhoca-cli/stable,stable,stable,stable 0.6.1.2-2 all
+  Command line X2Go client written in Python
+
+pyhoca-gui/stable,stable,stable,stable 0.6.1.1-1 all
+  Graphical X2Go client written in (wx)Python
+
+python-caja-common/stable,stable,stable,stable 1.24.0-3 all
+  Python binding for Caja components (common files)
+
+python-dmidecode-data/stable,stable,stable,stable 3.12.2-11 all
+  Python extension module for dmidecode (debug) - Data
+
+python-escript-doc/stable,stable,stable,stable 5.6-3 all
+  Documentation for Escript/Finley
+
+python-tweepy-doc/stable,stable,stable,stable 3.6.0-2 all
+  Documentation for python-tweepy module
+
+python3-caja/stable 1.24.0-3 amd64
+  Python3 binding for Caja components
+
+python3-carquinyol/stable 0.118-2 amd64
+  Sugar Learning Platform - datastore
+
+python3-dbusmock/stable,stable,stable,stable 0.22.0-1 all
+  mock D-Bus objects for tests
+
+python3-dmidecode/stable 3.12.2-11+b2 amd64
+  Python extension module for dmidecode - Python 3
+
+python3-dmidecode-dbg/stable 3.12.2-11+b2 amd64
+  Python extension module for dmidecode (debug) - Python 3
+
+python3-dogtail/stable,stable,stable,stable 0.9.11-7 all
+  GUI test tool and automation framework
+
+python3-escript/stable 5.6-3 amd64
+  Escript/Finley finite elements Python3 system (with OpenMP)
+
+python3-escript-mpi/stable 5.6-3 amd64
+  Escript/Finley finite elements Python3 system (OpenMP + MPI)
+
+python3-jarabe/stable,stable,stable,stable 0.118-2 all
+  Sugar Learning Platform - graphical shell
+
+python3-mapproxy/stable,stable,stable,stable 1.13.0-1 all
+  open source proxy for geospatial data - Python 3 module
+
+python3-notify2/stable,stable,stable,stable 0.3-4 all
+  desktop notifications API for Python 3
+
+python3-oauth/stable,stable,stable,stable 1.0.1-6 all
+  Python 3 library implementing of the OAuth protocol
+
+python3-okasha/stable,stable,stable,stable 0.2.4-4 all
+  trivial WSGI web framework for Python
+
+python3-okasha-examples/stable,stable,stable,stable 0.2.4-4 all
+  trivial WSGI web framework for Python (examples)
+
+python3-poppler-qt5/stable 0.75.0-2+b2 amd64
+  Python binding to Poppler-Qt5 C++ library (Python 3)
+
+python3-pubsub/stable,stable,stable,stable 4.0.3-4 all
+  Python 3 publish-subcribe library
+
+python3-pygame-sdl2/stable 7.4.2-1 amd64
+  reimplementation of the Pygame API using SDL2
+
+python3-send2trash/stable,stable,stable,stable 1.6.0~b1+git20210122.2eb3242-1 all
+  Python module for sending file to trash natively
+
+python3-sugar3/stable,stable,stable,stable 0.118-3 all
+  Sugar Learning Platform - toolkit Python3 bindings
+
+python3-tweepy/stable,stable,stable,stable 3.6.0-2 all
+  Twitter library for Python 3
+
+python3-ukui-menu/stable 1.1.4-1+b2 amd64
+  implementation of the freedesktop menu specification for UKUI (Python bindings)
+
+python3-webview/stable,stable,stable,stable 3.3.5+dfsg-1 all
+  Build GUI for your Python program with JavaScript, HTML, and CSS
+
+python3-xdg/stable,stable,stable,stable 0.27-2 all
+  Python 3 library to access freedesktop.org standards
+
+pytrainer/stable,stable,stable,stable 2.0.2-1 all
+  desktop application for logging sport activities
+
+qasconfig/stable 0.23.0-1 amd64
+  ALSA configuration browser
+
+qashctl/stable 0.23.0-1 amd64
+  mixer for ALSA's High level Control Interface
+
+qasmixer/stable 0.23.0-1 amd64
+  ALSA mixer for the desktop
+
+qastools-common/stable,stable,stable,stable 0.23.0-1 all
+  QasTools common files
+
+qdacco/stable 1.1.2-1 amd64
+  Offline Catalan <-> English dictionary desktop application
+
+qdirstat/stable 1.7-2 amd64
+  Qt-based directory statistics
+
+qiv/stable 2.3.2-2 amd64
+  Quick image viewer for X
+
+qml-module-org-kde-kirigami2/stable 5.78.0-3 amd64
+  set of QtQuick components targeted for mobile use
+
+qml-module-org-kde-qqc2desktopstyle/stable 5.78.0-2 amd64
+  Qt Quick Controls 2: Desktop Style
+
+qml-module-org-kde-runnermodel/stable 5.78.0-3 amd64
+  Used to write plugins loaded at runtime called "Runners".
+
+qml-module-qtmir/stable 0.6.1-7 amd64
+  Qt/QML module for Lomiri specific Mir APIs
+
+qml-module-qtquick-virtualkeyboard/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard - QML module
+
+qml-module-snapd/stable 1.58-4 amd64
+  Snapd QML module
+
+qt5-styles-ukui/stable 1.0.6-1 amd64
+  QStyle plugins provided by ukui
+
+qt5-ukui-platformtheme/stable 1.0.6-1 amd64
+  Qt5 QPA platform theme of UKUI
+
+qt5-xdgdesktopportal-platformtheme/stable 5.15.2+dfsg-9 amd64
+  Qt 5 XDG Desktop Portal platform theme
+
+qt5dxcb-plugin/stable 5.0.17-1 amd64
+  Qt platform theme integration plugin for DDE
+
+qtmir-desktop/stable 0.6.1-7 amd64
+  Qt platform abstraction (QPA) plugin for a Mir server (desktop)
+
+qtractor/stable 0.9.20-1 amd64
+  MIDI/Audio multi-track sequencer application
+
+qtvirtualkeyboard-plugin/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard
+
+qtvirtualkeyboard5-examples/stable 5.15.2+dfsg-2 amd64
+  Qt virtual keyboard examples
+
+qtxdg-dev-tools/stable 3.6.0-1 amd64
+  Tools for QtXdg
+
+quaternion/stable 0.0.9.5~beta2-2 amd64
+  desktop IM client for the Matrix protocol
+
+rdesktop/stable 1.9.0-2+b1 amd64
+  RDP client for Windows NT/2000 Terminal Server and Windows Servers
+
+recan/stable,stable,stable,stable 0.1.2-2 all
+  genetic distance plotting for recombination events analysis
+
+recordmydesktop/stable 0.3.8.1+svn602-1.1 amd64
+  Captures audio-video data of a Linux desktop session
+
+rednotebook/stable,stable,stable,stable 2.21+ds-1 all
+  Modern desktop diary and personal journaling tool
+
+remmina/stable 1.4.11+dfsg-3 amd64
+  GTK+ Remote Desktop Client
+
+remmina-common/stable,stable,stable,stable 1.4.11+dfsg-3 all
+  Common files for Remmina
+
+remmina-dev/stable 1.4.11+dfsg-3 amd64
+  Headers for Remmina
+
+remmina-plugin-exec/stable 1.4.11+dfsg-3 amd64
+  EXEC plugin for Remmina
+
+remmina-plugin-kiosk/stable 1.4.11+dfsg-3 amd64
+  Kiosk plugin for Remmina
+
+remmina-plugin-kwallet/stable 1.4.11+dfsg-3 amd64
+  KWallet plugin for Remmina
+
+remmina-plugin-nx/stable 1.4.11+dfsg-3 amd64
+  NX plugin for Remmina
+
+remmina-plugin-rdp/stable 1.4.11+dfsg-3 amd64
+  RDP plugin for Remmina
+
+remmina-plugin-secret/stable 1.4.11+dfsg-3 amd64
+  Secret plugin for Remmina
+
+remmina-plugin-spice/stable 1.4.11+dfsg-3 amd64
+  Spice plugin for Remmina
+
+remmina-plugin-vnc/stable 1.4.11+dfsg-3 amd64
+  VNC plugin for Remmina
+
+remmina-plugin-www/stable 1.4.11+dfsg-3 amd64
+  WWW plugin for Remmina
+
+remmina-plugin-xdmcp/stable 1.4.11+dfsg-3 amd64
+  XDMCP plugin for Remmina
+
+remote-logon-config-agent/stable,stable,stable,stable 0.10-1 all
+  Retrieve host and session information from remote broker servers
+
+remote-logon-service/stable 1.0.2.90-3 amd64
+  DBus service for tracking available remote logon servers
+
+reportbug-gtk/stable,stable,stable,stable 7.10.3+deb11u1 all
+  reports bugs in the Debian distribution (GTK+ UI)
+
+rerun/stable,stable,stable,stable 0.13.1-1 all
+  tool to launch commands and restart them on filesystem changes
+
+revelation/stable 0.5.4-2 amd64
+  GNOME3 Password manager
+
+revolt/stable,stable,stable,stable 0.0+git20200723.0aca6c8-1 all
+  better desktop integration for Element
+
+rgbpaint/stable 0.8.7-6.1 amd64
+  simple pixel-based painting program
+
+rhinote/stable,stable,stable,stable 0.7.4-4 all
+  virtual sticky-notes for your desktop
+
+rhythmbox-plugin-alternative-toolbar/stable,stable,stable,stable 0.19.3-2 all
+  Enhanced play controls and interface for Rhythmbox
+
+ristretto/stable,now 0.10.0-1 amd64 [installed,automatic]
+  lightweight picture-viewer for the Xfce desktop environment
+
+roary/stable,stable,stable,stable 3.13.0+dfsg-1 all
+  high speed stand alone pan genome pipeline
+
+rofi/stable 1.5.4-1+b1 amd64
+  window switcher, run dialog and dmenu replacement
+
+ros-desktop/stable,stable,stable,stable 1.16 all
+  Robot OS desktop metapackage
+
+ros-desktop-dev/stable,stable,stable,stable 1.16 all
+  Robot OS desktop development metapackage
+
+ros-desktop-full/stable,stable,stable,stable 1.16 all
+  Robot OS desktop-full metapackage
+
+ros-desktop-full-dev/stable,stable,stable,stable 1.16 all
+  Robot OS desktop-full development metapackage
+
+ros-desktop-full-lisp-dev/stable,stable,stable,stable 1.16 all
+  LISP Robot OS desktop-full development metapackage
+
+ros-desktop-full-python-dev/stable,stable,stable,stable 1.16 all
+  Python Robot OS desktop-full development metapackage
+
+ros-desktop-lisp-dev/stable,stable,stable,stable 1.16 all
+  LISP Robot OS desktop development metapackage
+
+ros-desktop-python-dev/stable,stable,stable,stable 1.16 all
+  Python Robot OS desktop development metapackage
+
+rox-filer/stable 1:2.11-5 amd64
+  simple graphical file manager for X11
+
+ruby-device-detector/stable,stable,stable,stable 1.0.1-2 all
+  Precise and fast user agent parser and device detector
+
+ruby-flowdock/stable,stable,stable,stable 0.7.1-1 all
+  Ruby library for using Flowdock's API
+
+ruby-gio2/stable 3.4.3-1+b1 amd64
+  GIO bindings for the Ruby language
+
+ruby-mimemagic/stable,stable,stable,stable 0.3.5+dfsg-1 all
+  fast MIME detection by extension or content
+
+ruby-notify/stable,stable,stable,stable 0.5.2-2.1 all
+  Desktop notification command on cross platform
+
+ruby-rails-assets-blueimp-gallery/stable,stable,stable,stable 2.33.0-2 all
+  blueimp Gallery for rails
+
+ruby-xdg/stable,stable,stable,stable 2.2.3-1.1 all
+  Ruby interface for using XDG directory standard
+
+s3d/stable 0.2.2.1-3+b1 amd64
+  3d network display server
+
+s3d-data/stable,stable,stable,stable 0.2.2.1-3 all
+  3d network display server data files
+
+s3d-doc/stable,stable,stable,stable 0.2.2.1-3 all
+  Documentation for s3d
+
+s3dfm/stable 0.2.2.1-3+b1 amd64
+  s3d file manager
+
+s3dosm/stable 0.2.2.1-3+b1 amd64
+  gps card application for s3d
+
+s3dvt/stable 0.2.2.1-3+b1 amd64
+  3d terminal emulator for s3d
+
+s3dx11gate/stable 0.2.2.1-3+b1 amd64
+  3d gateway for x11 desktops
+
+sakura/stable 3.7.1-2 amd64
+  simple but powerful libvte-based terminal emulator
+
+scrcpy/stable 1.17-1 amd64
+  Display and control your Android device
+
+screengrab/stable 2.1.0-1 amd64
+  Crossplatform tool for getting screenshots
+
+scribus/stable 1.5.6.1+dfsg-2 amd64
+  Open Source Desktop Page Layout
+
+scribus-data/stable,stable,stable,stable 1.5.6.1+dfsg-2 all
+  Open Source Desktop Page Layout - data files
+
+scribus-doc/stable,stable,stable,stable 1.5.6.1+dfsg-1 all
+  Open Source Desktop Page Layout - documentation - 1.5.x branch
+
+scrot/stable 1.5-1 amd64
+  command line screen capture utility
+
+sddm-theme-debian-breeze/stable 4:5.20.5-6 amd64
+  Debian Breeze SDDM theme
+
+sddm-theme-debian-elarun/stable,stable,stable,stable 0.19.0-3 all
+  'Debian Elarun' Theme for SDDM X11 display manager
+
+sddm-theme-debian-maui/stable,stable,stable,stable 0.19.0-3 all
+  'Debian Maui' theme for SDDM X11 display manager
+
+seafile-gui/stable 7.0.10-3 amd64
+  Seafile Desktop Client
+
+seahorse/stable 3.38.0.1-2 amd64
+  GNOME front end for GnuPG
+
+seahorse-daemon/stable 3.12.2-6 amd64
+  Seahorse pass phrase caching agent
+
+shared-mime-info/stable,now 2.0-1 amd64 [installed,automatic]
+  FreeDesktop.org shared MIME database and spec
+
+shiki-colors-xfwm-theme/stable,stable,stable,stable 4.6-2.1 all
+  Xfwm/Xfce4 theme based on the Shiki-Colors Metacity theme
+
+shotwell/stable 0.30.11-1 amd64
+  digital photo organizer
+
+shotwell-common/stable,stable,stable,stable 0.30.11-1 all
+  digital photo organizer - common files
+
+simple-ccsm/stable,stable,stable,stable 2:0.8.18-1 all
+  Simple Compizconfig settings manager
+
+slim/stable 1.3.6-5.2 amd64
+  desktop-independent graphical login manager for X11
+
+sm/stable 0.26-1 amd64
+  Displays a short text fullscreen
+
+smuxi/stable,stable,stable,stable 1.1-1 all
+  graphical IRC client
+
+smuxi-engine/stable,stable,stable,stable 1.1-1 all
+  Engine libraries for Smuxi (IRC, Twitter, XMPP, Campfire, JabbR)
+
+smuxi-frontend-gnome/stable,stable,stable,stable 1.1-1 all
+  GNOME frontend for Smuxi
+
+snapd/stable,now 2.49-1+b5 amd64 [installed]
+  Daemon and tooling that enable snap packages
+
+snapd-glib-tests/stable 1.58-4 amd64
+  GLib snapd library (installed tests)
+
+sndio-tools/stable 1.5.0-3 amd64
+  Small audio and MIDI framework from OpenBSD, basic tools
+
+sndiod/stable 1.5.0-3 amd64
+  Small audio and MIDI framework from OpenBSD, sound server
+
+sooperlooper/stable 1.7.6~dfsg0-1 amd64
+  Looping Sampler
+
+sound-theme-freedesktop/stable,stable,stable,stable,now 0.8-2 all [installed,automatic]
+  freedesktop.org sound theme
+
+spacefm/stable 1.0.6-5 amd64
+  Multi-panel tabbed file manager - GTK2 version
+
+spacefm-common/stable,stable,stable,stable 1.0.6-5 all
+  Multi-panel tabbed file manager - common files
+
+spacefm-gtk3/stable 1.0.6-5 amd64
+  Multi-panel tabbed file manager - GTK3 version
+
+spectral/stable 0.0~git20210114.30028a2-2 amd64
+  Glossy desktop chat client for the Matrix protocol
+
+spice-html5/stable,stable,stable,stable 0.1.7-5 all
+  Spice Web client which runs entirely within a modern browser
+
+spotlighter/stable 0.3-1.1+b2 amd64
+  gtk interface to make annotations on the screen
+
+ssh-askpass/stable 1:1.2.4.1-10+b1 amd64
+  under X, asks user for a passphrase for ssh-add
+
+ssvnc/stable 1.0.29-5 amd64
+  Enhanced TightVNC viewer with SSL/SSH tunnel helper
+
+stalonetray/stable 0.8.1-1+b1 amd64
+  Standalone freedesktop.org and KDE systray implementation
+
+standardskriver/stable,stable,stable,stable 0.0.4-1 all
+  Tool for dynamically setting a user's default printer at desktop session logon
+
+sucrose/stable,stable,stable,stable 0.118-2 all
+  Sugar Learning Platform - Sucrose
+
+sugar-browse-activity/stable,stable,stable,stable 207-1 all
+  Sugar Learning Platform - web browsing activity
+
+sugar-calculate-activity/stable,stable,stable,stable 47-1 all
+  Sugar Learning Platform - calculation activity
+
+sugar-chat-activity/stable,stable,stable,stable 86-3 all
+  Sugar Learning Platform - text chatting activity
+
+sugar-etoys-activity/stable,stable,stable,stable 116-10 all
+  Etoys activity for Sugar Learning Platform
+
+sugar-icon-theme/stable,stable,stable,stable 0.118-1 all
+  Sugar Learning Platform - icon theme
+
+sugar-imageviewer-activity/stable,stable,stable,stable 65-2 all
+  Sugar Learning Platform - image viewing activity
+
+sugar-jukebox-activity/stable,stable,stable,stable 36-2 all
+  Sugar Learning Platform - music jukebox activity
+
+sugar-log-activity/stable,stable,stable,stable 42-2 all
+  Sugar Learning Platform - log viewing and reporting activity
+
+sugar-memorize-activity/stable,stable,stable,stable 58-2 all
+  Sugar Learning Platform - matching game creation/playing activity
+
+sugar-pippy-activity/stable,stable,stable,stable 75-2 all
+  Sugar Learning Platform - Python programming activity
+
+sugar-read-activity/stable,stable,stable,stable 123-2 all
+  Sugar Learning Platform - document viewer activity
+
+sugar-session/stable,stable,stable,stable 0.118-2 all
+  Sugar Learning Platform - window manager
+
+sugar-terminal-activity/stable,stable,stable,stable 47-2 all
+  Sugar Learning Platform - terminal emulation activity
+
+sugar-themes/stable,stable,stable,stable 0.118-1 all
+  Sugar Learning Platform - artwork
+
+sugar-write-activity/stable,stable,stable,stable 101-2 all
+  Sugar Learning Platform - writing activity
+
+suru-icon-theme/stable,stable,stable,stable 20.05.1-3 all
+  Suru icon theme for Lomiri Operating Environment
+
+sway-backgrounds/stable,stable,stable,stable 1.5-7 all
+  Set of backgrounds packaged with the sway window manager
+
+swisswatch/stable 0.6-18+b1 amd64
+  Swiss Railway Clock for the X Window System
+
+syncthing-gtk/stable,stable,stable,stable 0.9.4.4+ds+git20201209+c46fbd8-1 all
+  GTK3-based GUI and notification area icon for syncthing
+
+system-config-printer/stable,stable,stable,stable 1.5.14-1 all
+  graphical interface to configure the printing system
+
+system-config-printer-common/stable,stable,stable,stable,now 1.5.14-1 all [installed,automatic]
+  backend and the translation files for system-config-printer
+
+systemsettings/stable 4:5.20.5-2 amd64
+  System Settings interface
+
+systray-mdstat/stable,stable,stable,stable 1.2.0-2 all
+  Notifies about Linux Software RAID changes in system tray
+
+tabble/stable 0.43-3+b1 amd64
+  program launcher with tabs for X
+
+taffybar/stable 3.2.2-2 amd64
+  desktop bar extensible in Haskell
+
+tango-icon-theme/stable,stable,stable,stable,now 0.8.90-8 all [installed,automatic]
+  Tango icon library
+
+task-albanian-desktop/stable,stable,stable,stable 3.68 all
+  Albanian desktop
+
+task-amharic-desktop/stable,stable,stable,stable 3.68 all
+  Amharic desktop
+
+task-amharic-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Amharic GNOME desktop
+
+task-amharic-kde-desktop/stable,stable,stable,stable 3.68 all
+  Amharic KDE Plasma desktop
+
+task-arabic-desktop/stable,stable,stable,stable 3.68 all
+  Arabic desktop
+
+task-arabic-kde-desktop/stable,stable,stable,stable 3.68 all
+  Arabic KDE Plasma desktop
+
+task-asturian-desktop/stable,stable,stable,stable 3.68 all
+  Asturian desktop
+
+task-basque-desktop/stable,stable,stable,stable 3.68 all
+  Basque desktop
+
+task-basque-kde-desktop/stable,stable,stable,stable 3.68 all
+  Basque KDE Plasma desktop
+
+task-belarusian-desktop/stable,stable,stable,stable 3.68 all
+  Belarusian desktop
+
+task-belarusian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Belarusian KDE Plasma desktop
+
+task-bengali-desktop/stable,stable,stable,stable 3.68 all
+  Bengali desktop
+
+task-bengali-kde-desktop/stable,stable,stable,stable 3.68 all
+  Bengali KDE Plasma desktop
+
+task-bosnian-desktop/stable,stable,stable,stable 3.68 all
+  Bosnian desktop
+
+task-bosnian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Bosnian KDE Plasma desktop
+
+task-brazilian-portuguese-desktop/stable,stable,stable,stable 3.68 all
+  Brazilian Portuguese desktop
+
+task-brazilian-portuguese-kde-desktop/stable,stable,stable,stable 3.68 all
+  Brazilian Portuguese KDE Plasma desktop
+
+task-british-desktop/stable,stable,stable,stable 3.68 all
+  British English desktop
+
+task-british-kde-desktop/stable,stable,stable,stable 3.68 all
+  British KDE Plasma desktop
+
+task-bulgarian-desktop/stable,stable,stable,stable 3.68 all
+  Bulgarian desktop
+
+task-bulgarian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Bulgarian KDE Plasma desktop
+
+task-catalan-desktop/stable,stable,stable,stable 3.68 all
+  Catalan desktop
+
+task-catalan-kde-desktop/stable,stable,stable,stable 3.68 all
+  Catalan KDE Plasma desktop
+
+task-chinese-s-desktop/stable,stable,stable,stable 3.68 all
+  Simplified Chinese desktop
+
+task-chinese-s-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Simplified Chinese GNOME desktop
+
+task-chinese-s-kde-desktop/stable,stable,stable,stable 3.68 all
+  Simplified Chinese KDE Plasma desktop
+
+task-chinese-t-desktop/stable,stable,stable,stable 3.68 all
+  Traditional Chinese desktop
+
+task-chinese-t-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Traditional Chinese GNOME desktop
+
+task-chinese-t-kde-desktop/stable,stable,stable,stable 3.68 all
+  Traditional Chinese KDE Plasma desktop
+
+task-cinnamon-desktop/stable,stable,stable,stable 3.68 all
+  Cinnamon
+
+task-croatian-desktop/stable,stable,stable,stable 3.68 all
+  Croatian desktop
+
+task-croatian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Croatian KDE Plasma desktop
+
+task-cyrillic-desktop/stable,stable,stable,stable 3.68 all
+  Cyrillic desktop
+
+task-cyrillic-kde-desktop/stable,stable,stable,stable 3.68 all
+  Cyrillic KDE Plasma desktop
+
+task-czech-desktop/stable,stable,stable,stable 3.68 all
+  Czech desktop
+
+task-czech-kde-desktop/stable,stable,stable,stable 3.68 all
+  Czech KDE Plasma desktop
+
+task-danish-desktop/stable,stable,stable,stable 3.68 all
+  Danish desktop
+
+task-danish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Danish KDE Plasma desktop
+
+task-desktop/stable,stable,stable,stable 3.68 all
+  Debian desktop environment
+
+task-dutch-desktop/stable,stable,stable,stable 3.68 all
+  Dutch desktop
+
+task-dutch-kde-desktop/stable,stable,stable,stable 3.68 all
+  Dutch KDE Plasma desktop
+
+task-dzongkha-desktop/stable,stable,stable,stable 3.68 all
+  Dzongkha desktop
+
+task-dzongkha-kde-desktop/stable,stable,stable,stable 3.68 all
+  Dzongkha KDE Plasma desktop
+
+task-esperanto-desktop/stable,stable,stable,stable 3.68 all
+  Esperanto desktop
+
+task-esperanto-kde-desktop/stable,stable,stable,stable 3.68 all
+  Esperanto KDE Plasma desktop
+
+task-estonian-desktop/stable,stable,stable,stable 3.68 all
+  Estonian desktop
+
+task-estonian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Estonian KDE Plasma desktop
+
+task-finnish-desktop/stable,stable,stable,stable 3.68 all
+  Finnish desktop
+
+task-finnish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Finnish KDE Plasma desktop
+
+task-french-desktop/stable,stable,stable,stable 3.68 all
+  French desktop
+
+task-french-kde-desktop/stable,stable,stable,stable 3.68 all
+  French KDE Plasma desktop
+
+task-galician-desktop/stable,stable,stable,stable 3.68 all
+  Galician desktop
+
+task-galician-kde-desktop/stable,stable,stable,stable 3.68 all
+  Galician KDE Plasma desktop
+
+task-georgian-desktop/stable,stable,stable,stable 3.68 all
+  Georgian desktop
+
+task-german-desktop/stable,stable,stable,stable 3.68 all
+  German desktop
+
+task-german-kde-desktop/stable,stable,stable,stable 3.68 all
+  German KDE Plasma desktop
+
+task-gnome-desktop/stable,stable,stable,stable 3.68 all
+  GNOME
+
+task-gnome-flashback-desktop/stable,stable,stable,stable 3.68 all
+  GNOME Flashback
+
+task-greek-desktop/stable,stable,stable,stable 3.68 all
+  Greek desktop
+
+task-greek-kde-desktop/stable,stable,stable,stable 3.68 all
+  Greek KDE Plasma desktop
+
+task-gujarati-desktop/stable,stable,stable,stable 3.68 all
+  Gujarati desktop
+
+task-gujarati-kde-desktop/stable,stable,stable,stable 3.68 all
+  Gujarati KDE Plasma desktop
+
+task-hebrew-desktop/stable,stable,stable,stable 3.68 all
+  Hebrew desktop
+
+task-hebrew-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Hebrew GNOME desktop
+
+task-hebrew-kde-desktop/stable,stable,stable,stable 3.68 all
+  Hebrew KDE Plasma desktop
+
+task-hindi-desktop/stable,stable,stable,stable 3.68 all
+  Hindi desktop
+
+task-hindi-kde-desktop/stable,stable,stable,stable 3.68 all
+  Hindi KDE Plasma desktop
+
+task-hungarian-desktop/stable,stable,stable,stable 3.68 all
+  Hungarian desktop
+
+task-hungarian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Hungarian KDE Plasma desktop
+
+task-icelandic-desktop/stable,stable,stable,stable 3.68 all
+  Icelandic desktop
+
+task-icelandic-kde-desktop/stable,stable,stable,stable 3.68 all
+  Icelandic KDE Plasma desktop
+
+task-indonesian-desktop/stable,stable,stable,stable 3.68 all
+  Indonesian desktop
+
+task-indonesian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Indonesian KDE Plasma desktop
+
+task-irish-desktop/stable,stable,stable,stable 3.68 all
+  Irish desktop
+
+task-irish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Irish KDE Plasma desktop
+
+task-italian-desktop/stable,stable,stable,stable 3.68 all
+  Italian desktop
+
+task-italian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Italian KDE Plasma desktop
+
+task-japanese-desktop/stable,stable,stable,stable 3.68 all
+  Japanese desktop
+
+task-japanese-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Japanese GNOME desktop
+
+task-japanese-kde-desktop/stable,stable,stable,stable 3.68 all
+  Japanese KDE Plasma desktop
+
+task-kannada-desktop/stable,stable,stable,stable 3.68 all
+  Kannada desktop
+
+task-kannada-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Kannada GNOME desktop
+
+task-kannada-kde-desktop/stable,stable,stable,stable 3.68 all
+  Kannada KDE Plasma desktop
+
+task-kazakh-desktop/stable,stable,stable,stable 3.68 all
+  Kazakh desktop
+
+task-kazakh-kde-desktop/stable,stable,stable,stable 3.68 all
+  Kazakh KDE Plasma desktop
+
+task-kde-desktop/stable,stable,stable,stable 3.68 all
+  KDE Plasma
+
+task-khmer-desktop/stable,stable,stable,stable 3.68 all
+  Khmer desktop
+
+task-khmer-kde-desktop/stable,stable,stable,stable 3.68 all
+  Khmer KDE Plasma desktop
+
+task-korean-desktop/stable,stable,stable,stable 3.68 all
+  Korean desktop
+
+task-korean-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Korean GNOME desktop
+
+task-korean-kde-desktop/stable,stable,stable,stable 3.68 all
+  Korean KDE Plasma desktop
+
+task-kurdish-desktop/stable,stable,stable,stable 3.68 all
+  Kurdish desktop
+
+task-kurdish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Kurdish KDE Plasma desktop
+
+task-latvian-desktop/stable,stable,stable,stable 3.68 all
+  Latvian desktop
+
+task-latvian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Latvian KDE Plasma desktop
+
+task-lithuanian-desktop/stable,stable,stable,stable 3.68 all
+  Lithuanian desktop
+
+task-lithuanian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Lithuanian KDE Plasma desktop
+
+task-lxde-desktop/stable,stable,stable,stable 3.68 all
+  LXDE
+
+task-lxqt-desktop/stable,stable,stable,stable 3.68 all
+  LXQt
+
+task-macedonian-desktop/stable,stable,stable,stable 3.68 all
+  Macedonian desktop
+
+task-macedonian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Macedonian KDE Plasma desktop
+
+task-malayalam-desktop/stable,stable,stable,stable 3.68 all
+  Malayalam desktop
+
+task-malayalam-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Malayalam GNOME desktop
+
+task-malayalam-kde-desktop/stable,stable,stable,stable 3.68 all
+  Malayalam KDE Plasma desktop
+
+task-marathi-desktop/stable,stable,stable,stable 3.68 all
+  Marathi desktop
+
+task-mate-desktop/stable,stable,stable,stable 3.68 all
+  MATE
+
+task-nepali-desktop/stable,stable,stable,stable 3.68 all
+  Nepali desktop
+
+task-nepali-kde-desktop/stable,stable,stable,stable 3.68 all
+  Nepali KDE Plasma desktop
+
+task-northern-sami-desktop/stable,stable,stable,stable 3.68 all
+  Northern Sami desktop
+
+task-norwegian-desktop/stable,stable,stable,stable 3.68 all
+  Norwegian (Bokmaal and Nynorsk) desktop
+
+task-norwegian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Norwegian KDE Plasma desktop
+
+task-persian-desktop/stable,stable,stable,stable 3.68 all
+  Persian desktop
+
+task-persian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Persian KDE Plasma desktop
+
+task-polish-desktop/stable,stable,stable,stable 3.68 all
+  Polish desktop
+
+task-polish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Polish KDE Plasma desktop
+
+task-portuguese-desktop/stable,stable,stable,stable 3.68 all
+  Portuguese desktop
+
+task-portuguese-kde-desktop/stable,stable,stable,stable 3.68 all
+  Portuguese KDE Plasma desktop
+
+task-punjabi-desktop/stable,stable,stable,stable 3.68 all
+  Punjabi desktop
+
+task-punjabi-kde-desktop/stable,stable,stable,stable 3.68 all
+  Punjabi KDE Plasma desktop
+
+task-romanian-desktop/stable,stable,stable,stable 3.68 all
+  Romanian desktop
+
+task-romanian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Romanian KDE Plasma desktop
+
+task-russian-desktop/stable,stable,stable,stable 3.68 all
+  Russian desktop
+
+task-russian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Russian KDE Plasma desktop
+
+task-serbian-desktop/stable,stable,stable,stable 3.68 all
+  Serbian desktop
+
+task-serbian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Serbian KDE Plasma desktop
+
+task-sinhala-desktop/stable,stable,stable,stable 3.68 all
+  Sinhala desktop
+
+task-sinhala-kde-desktop/stable,stable,stable,stable 3.68 all
+  Sinhala KDE Plasma desktop
+
+task-slovak-desktop/stable,stable,stable,stable 3.68 all
+  Slovak desktop
+
+task-slovak-kde-desktop/stable,stable,stable,stable 3.68 all
+  Slovak KDE Plasma desktop
+
+task-slovenian-desktop/stable,stable,stable,stable 3.68 all
+  Slovenian desktop
+
+task-slovenian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Slovenian KDE Plasma desktop
+
+task-south-african-english-desktop/stable,stable,stable,stable 3.68 all
+  South African English desktop
+
+task-spanish-desktop/stable,stable,stable,stable 3.68 all
+  Spanish desktop
+
+task-spanish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Spanish KDE Plasma desktop
+
+task-swedish-desktop/stable,stable,stable,stable 3.68 all
+  Swedish desktop
+
+task-swedish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Swedish KDE Plasma desktop
+
+task-tamil-desktop/stable,stable,stable,stable 3.68 all
+  Tamil desktop
+
+task-tamil-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Tamil GNOME desktop
+
+task-telugu-desktop/stable,stable,stable,stable 3.68 all
+  Telugu desktop
+
+task-telugu-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Telugu GNOME desktop environment
+
+task-telugu-kde-desktop/stable,stable,stable,stable 3.68 all
+  Telugu KDE Plasma desktop environment
+
+task-thai-desktop/stable,stable,stable,stable 3.68 all
+  Thai desktop
+
+task-thai-gnome-desktop/stable,stable,stable,stable 3.68 all
+  Thai GNOME desktop
+
+task-thai-kde-desktop/stable,stable,stable,stable 3.68 all
+  Thai KDE Plasma desktop
+
+task-turkish-desktop/stable,stable,stable,stable 3.68 all
+  Turkish desktop
+
+task-turkish-kde-desktop/stable,stable,stable,stable 3.68 all
+  Turkish KDE Plasma desktop
+
+task-ukrainian-desktop/stable,stable,stable,stable 3.68 all
+  Ukrainian desktop
+
+task-ukrainian-kde-desktop/stable,stable,stable,stable 3.68 all
+  Ukrainian KDE Plasma desktop
+
+task-uyghur-desktop/stable,stable,stable,stable 3.68 all
+  Uyghur desktop
+
+task-uyghur-kde-desktop/stable,stable,stable,stable 3.68 all
+  Uyghur KDE Plasma desktop
+
+task-vietnamese-desktop/stable,stable,stable,stable 3.68 all
+  Vietnamese desktop
+
+task-vietnamese-kde-desktop/stable,stable,stable,stable 3.68 all
+  Vietnamese KDE Plasma desktop
+
+task-welsh-desktop/stable,stable,stable,stable 3.68 all
+  Welsh desktop
+
+task-xfce-desktop/stable,stable,stable,stable 3.68 all
+  Xfce
+
+task-xhosa-desktop/stable,stable,stable,stable 3.68 all
+  Xhosa desktop
+
+task-xhosa-kde-desktop/stable,stable,stable,stable 3.68 all
+  Xhosa KDE Plasma desktop
+
+tasque/stable,stable,stable,stable 0.1.12-4.1 all
+  simple task management application
+
+telegram-desktop/stable 2.6.1+ds-1+deb11u1 amd64
+  fast and secure messaging application
+
+telepathy-rakia/stable 0.8.0-4 amd64
+  SIP connection manager for the Telepathy framework
+
+termshark/stable 2.2.0-1+deb11u1 amd64
+  Terminal UI for tshark, inspired by Wireshark
+
+thunar/stable,now 4.16.8-1 amd64 [installed,automatic]
+  File Manager for Xfce
+
+thunar-data/stable,stable,stable,stable,now 4.16.8-1 all [installed,automatic]
+  Provides thunar documentation, icons and translations
+
+thunar-font-manager/stable 0.8.4-1 amd64
+  Thunar extension for Font Manager
+
+tickr/stable 0.7.0-3 amd64
+  GTK-based highly graphically-customizable Feed Ticker
+
+tigervnc-common/stable,now 1.11.0+dfsg-2 amd64 [installed,automatic]
+  Virtual network computing; Common software needed by servers
+
+tigervnc-scraping-server/stable,now 1.11.0+dfsg-2 amd64 [installed]
+  Virtual network computing server performing X screen scraping
+
+tigervnc-standalone-server/stable 1.11.0+dfsg-2 amd64
+  Standalone virtual network computing server
+
+tigervnc-viewer/stable,now 1.11.0+dfsg-2 amd64 [installed]
+  Virtual network computing client for X
+
+tigervnc-xorg-extension/stable 1.11.0+dfsg-2 amd64
+  Virtual network computing X server extension
+
+tightvnc-java/stable,stable,stable,stable 1.3.10-2 all
+  TightVNC java applet and command line program
+
+tightvncserver/stable 1:1.3.10-3 amd64
+  virtual network computing server software
+
+timidity-daemon/stable,stable,stable,stable 2.14.0-8 all
+  runs TiMidity++ as a system-wide MIDI sequencer
+
+tint2/stable 16.7-1 amd64
+  lightweight taskbar
+
+tk-tktray/stable 1.3.9-3+b1 amd64
+  Freedesktop system tray icon support for Tcl/Tk on X11
+
+tkdesk/stable 2.0-11+b1 amd64
+  Tk/tcl based X11 Desktop/File manager
+
+tkdnd/stable 2.6-1.1+b1 amd64
+  adds native drag & drop capabilities to the Tk toolkit
+
+tomb/stable 2.9+dfsg1-1 amd64
+  crypto undertaker
+
+tootle/stable 1.0-alpha2-1 amd64
+  Mastodon client
+
+totem/stable 3.38.0-2 amd64
+  Simple media player for the GNOME desktop based on GStreamer
+
+trabucco/stable 1.1-1+b1 amd64
+  This is a launcher for people that are nostalgic about katapult
+
+trash-cli/stable,stable,stable,stable 0.17.1.14-5 all
+  command line trashcan utility
+
+trayer/stable 1.1.8-2+b1 amd64
+  Lightweight GTK2-based systray for UNIX desktop
+
+tt-rss/stable,stable,stable,stable 21~git20210204.b4cbc79+dfsg-1 all
+  Tiny Tiny RSS - web-based news feed (RSS/Atom) aggregator
+
+ttf-bitstream-vera/stable,stable,stable,stable,now 1.10-8.1 all [installed,automatic]
+  The Bitstream Vera family of free TrueType fonts
+
+tuxfootball/stable 0.3.1-7 amd64
+  great 2D soccer (sometimes called football) game
+
+ukui-control-center/stable 3.0.2-2 amd64
+  utilities to configure the UKUI desktop
+
+ukui-desktopserver/stable 1.0.0-1+b1 amd64
+  desktop settings service process
+
+ukui-greeter/stable 3.0.1-1 amd64
+  Lightdm greeter for UKUI
+
+ukui-menus/stable 1.1.4-1+b2 amd64
+  implementation of the freedesktop menu specification for UKUI
+
+ukui-notification-daemon/stable 1.0.1-1 amd64
+  daemon to display passive popup notifications
+
+ukui-panel/stable 3.0.3-1 amd64
+  ukui desktop panel
+
+ukui-power-manager/stable 3.0.0-1 amd64
+  power management tool for the UKUI desktop
+
+ukui-power-manager-common/stable,stable,stable,stable 3.0.0-1 all
+  power management tool for the UKUI desktop (common files)
+
+ukui-screensaver/stable 3.0.1-1 amd64
+  Screensaver for UKUI desktop environment
+
+ukui-session-manager/stable 3.0.2-1.1 amd64
+  Session manager of the UKUI desktop environment
+
+ukui-settings-daemon/stable 3.0.3-1 amd64
+  daemon handling the UKUI session settings
+
+ukui-settings-daemon-common/stable,stable,stable,stable 3.0.3-1 all
+  daemon handling the UKUI session settings (common files)
+
+ukui-sidebar/stable 3.0.1-1 amd64
+  parallels toolbox for UKUI
+
+ukui-system-monitor/stable 1.0.4-1 amd64
+  Monitor for UKUI desktop environment
+
+ukui-themes/stable,stable,stable,stable 1.4.1-1 all
+  Official themes for the UKUI desktop
+
+ukui-wallpapers/stable,stable,stable,stable 20.04.3-1.1 all
+  Wallpapers for UKUI desktop environment
+
+ukui-window-switch/stable 3.0.0-1 amd64
+  Front of the window switch
+
+unity-scopes-runner/stable,stable,stable,stable 7.1.4+19.04.20190319-5 all
+  desktop runner for misceallenous scopes
+
+unshield/stable 1.4.2-1 amd64
+  extracts CAB files from InstallShield installers
+
+upgrade-system/stable,stable,stable,stable 1.8.2.2 all
+  command for upgrading and sanitizing a Debian system
+
+upower/stable,now 0.99.11-2 amd64 [installed,automatic]
+  abstraction for power management
+
+upower-doc/stable,stable,stable,stable 0.99.11-2 all
+  abstraction for power management - documentation
+
+usbauth-notifier/stable 1.0.4-1 amd64
+  Notifier for USB Firewall to use with desktop environments
+
+utox/stable 0.18.1-1 amd64
+  lightest and fluffiest Tox client
+
+vagalume/stable 0.8.6-3 amd64
+  GTK+-based client for Last.fm-compatible radio services
+
+vala-panel/stable 0.5.0-1 amd64
+  Desktop panel written in Vala and GTK+ 3
+
+vala-panel-common/stable,stable,stable,stable 0.5.0-1 all
+  Vala Panel - common files
+
+vala-panel-plugins-base/stable 0.5.0-1 amd64
+  Plugins for vala-panel - non-X11 plugins
+
+vala-panel-plugins-wnck/stable 0.5.0-1 amd64
+  Plugins for vala-panel - X11 plugins
+
+variety/stable,stable,stable,stable 0.8.5-1 all
+  Wallpaper changer, downloader and manager
+
+vdesk/stable 1.2-5+b1 amd64
+  manages virtual desktops for minimal window managers
+
+vim-gui-common/stable,stable,stable,stable 2:8.2.2434-3+deb11u1 all
+  Vi IMproved - Common GUI files
+
+vinagre/stable 3.22.0-8.1 amd64
+  remote desktop client for the GNOME Desktop
+
+vino/stable 3.22.0-6 amd64
+  VNC server for GNOME
+
+virt-manager/stable,stable,stable,stable 1:3.2.0-3 all
+  desktop application for managing virtual machines
+
+virtualbox-ext-pack/bullseye-fasttrack 6.1.28-1~fto11+1 all [residual-config]
+  extra capabilities for VirtualBox, downloader.
+
+vorta/stable,stable,stable,stable 0.7.5-1 all
+  Desktop Client for Borg Backup
+
+vtwm/stable 5.4.7-5+b1 amd64
+  Virtual Tab Window Manager
+
+w9wm/stable 0.4.2-8+b1 amd64
+  enhanced window manager based on 9wm
+
+wbar/stable 2.3.4-10 amd64
+  light and fast launch bar
+
+webcamoid/stable 8.6.1+dfsg-2.1 amd64
+  full featured webcam capture application
+
+webcamoid-data/stable,stable,stable,stable 8.6.1+dfsg-2.1 all
+  icons and locale files for webcamoid
+
+webcamoid-plugins/stable 8.6.1+dfsg-2.1 amd64
+  full featured webcam capture application - plugins
+
+webdis/stable 0.1.9+dfsg-1 amd64
+  simple web server providing an HTTP interface to Redis
+
+windowlab/stable 1.40-3+b1 amd64
+  small and simple Amiga-like window manager
+
+windows-el/stable,stable,stable,stable 2.55-1 all
+  window manager for GNU Emacs
+
+wine-binfmt/stable,stable,stable,stable,now 5.0.3-3 all [installed]
+  Register Wine as the interpreter for Windows executables
+
+wm-icons/stable,stable,stable,stable 0.4.0-11 all
+  Themed icon set that is Window Manager agnostic
+
+wmctrl/stable 1.07-7+b1 amd64
+  control an EWMH/NetWM compatible X Window Manager
+
+wmdocker/stable,now 1.5-2 amd64 [installed,automatic]
+  System tray for KDE3/GNOME2 docklet applications
+
+wmshutdown/stable 1.6-1 amd64
+  dockapp to shutdown or reboot your machine
+
+wmstickynotes/stable 0.7-2+b1 amd64
+  Window Maker dockapp to create sticky notes on desktop
+
+wmsystemtray/stable 1.4+git20150508-2+b1 amd64
+  Freedesktop.org system tray as a Window Maker dock app
+
+wofi/stable 1.2.4-1 amd64
+  application launcher for wlroots based wayland compositors
+
+x11-apps/stable,now 7.7+8 amd64 [installed,automatic]
+  X applications
+
+x2godesktopsharing/stable 3.2.0.0-2+b1 amd64
+  Share X11 desktops with other users via X2Go
+
+x2goserver-desktopsharing/stable,stable,stable,stable 4.1.0.3-5 all
+  Share X11 desktops with other users via X2Go
+
+x2goserver-fmbindings/stable,stable,stable,stable 4.1.0.3-5 all
+  X2Go Server (file manager bindings)
+
+x2goserver-x2goagent/stable 4.1.0.3-5 amd64
+  X2Go Server's X2Go Agent
+
+x2goserver-xsession/stable,stable,stable,stable 4.1.0.3-5 all
+  X2Go Server (Xsession runner)
+
+x2gothinclient-common/stable,stable,stable,stable 1.5.0.1-6 all
+  X2Go thin client environment (common files)
+
+x2gothinclient-minidesktop/stable,stable,stable,stable 1.5.0.1-6 all
+  Minimal desktop for X2Go Thin Client chroot (based on MATE)
+
+xapps-common/stable,stable,stable,stable 2.0.7-1 all
+  Files that are common across Xapp desktop applications
+
+xapps-doc/stable,stable,stable,stable 2.0.7-1 all
+  Libxapp documentation
+
+xarchiver/stable,now 1:0.5.4.17-2 amd64 [installed]
+  GTK+ frontend for most used compression formats
+
+xcowsay/stable 1.5.1-1 amd64
+  Graphical configurable talking cow
+
+xdesktopwaves/stable 1.3-4+b1 amd64
+  Simulation of water waves on the X Window System
+
+xdg-dbus-proxy-tests/stable 0.1.2-2 amd64
+  filtering D-Bus proxy - as-installed tests
+
+xdg-desktop-portal/stable,now 1.8.1-1 amd64 [installed,automatic]
+  desktop integration portal for Flatpak and Snap
+
+xdg-desktop-portal-dev/stable,stable,stable,stable 1.8.1-1 all
+  desktop integration portal - development files
+
+xdg-desktop-portal-gtk/stable,now 1.8.0-1 amd64 [installed,automatic]
+  GTK+/GNOME portal backend for xdg-desktop-portal
+
+xdg-desktop-portal-kde/stable 5.20.5-1 amd64
+  backend implementation for xdg-desktop-portal using Qt
+
+xdg-desktop-portal-tests/stable 1.8.1-1 amd64
+  desktop integration portal - automated tests
+
+xdg-desktop-portal-wlr/stable 0.1.0-3 amd64
+  xdg-desktop-portal backend for wlroots
+
+xdg-user-dirs/stable,now 0.17-2 amd64 [installed,automatic]
+  tool to manage well known user directories
+
+xdg-user-dirs-gtk/stable 0.10-3 amd64
+  tool to manage well known user directories (Gtk extension)
+
+xdg-utils/stable,stable,stable,stable,now 1.1.3-4.1 all [installed,automatic]
+  desktop integration utilities from freedesktop.org
+
+xdg-utils-cxx/stable 1.0.1-2+b1 amd64
+  Implementation of the Free Desktop Standards in C++
+
+xfburn/stable,now 0.6.2-1 amd64 [installed,automatic]
+  CD-burner application for Xfce Desktop Environment
+
+xfce4/stable,stable,stable,stable,now 4.16 all [installed]
+  Meta-package for the Xfce Lightweight Desktop Environment
+
+xfce4-appfinder/stable,now 4.16.1-1 amd64 [installed,automatic]
+  Application finder for the Xfce4 desktop environment
+
+xfce4-cpugraph-plugin/stable,now 1.2.1-1 amd64 [installed]
+  CPU load graph plugin for the Xfce4 panel
+
+xfce4-diskperf-plugin/stable,now 2.6.3-1 amd64 [installed,automatic]
+  disk performance display plugin for the Xfce4 panel
+
+xfce4-goodies/stable,now 4.14.0 amd64 [installed]
+  enhancements for the Xfce4 Desktop Environment
+
+xfce4-helpers/stable,now 4.16.0-1 amd64 [installed,automatic]
+  helpers for the Xfce4 desktop environment
+
+xfce4-notifyd/stable,now 0.6.2-1 amd64 [installed,automatic]
+  simple, visually-appealing notification daemon for Xfce
+
+xfce4-panel/stable,now 4.16.2-1 amd64 [installed,automatic]
+  panel for Xfce4 desktop environment
+
+xfce4-places-plugin/stable,now 1.8.1-1 amd64 [installed,automatic]
+  quick access to folders, documents and removable media
+
+xfce4-power-manager/stable,now 4.16.0-1 amd64 [installed,automatic]
+  power manager for Xfce desktop
+
+xfce4-power-manager-data/stable,stable,stable,stable,now 4.16.0-1 all [installed,automatic]
+  power manager for Xfce desktop, arch-indep files
+
+xfce4-power-manager-plugins/stable,now 4.16.0-1 amd64 [installed,automatic]
+  power manager plugins for Xfce panel
+
+xfce4-screenshooter/stable,now 1.9.8-1 amd64 [installed,automatic]
+  screenshots utility for Xfce
+
+xfce4-session/stable,now 4.16.0-1 amd64 [installed,automatic]
+  Xfce4 Session Manager
+
+xfce4-statusnotifier-plugin/stable 0.2.3-1 amd64
+  plugin to display status notifiers in the Xfce4 panel
+
+xfce4-taskmanager/stable,now 1.4.0-1 amd64 [installed,automatic]
+  process manager for the Xfce4 Desktop Environment
+
+xfce4-terminal/stable,now 0.8.10-1 amd64 [installed,automatic]
+  Xfce terminal emulator
+
+xfce4-whiskermenu-plugin/stable,now 2.5.3-1 amd64 [installed,automatic]
+  Alternate menu plugin for the Xfce desktop environment
+
+xfdesktop4/stable,now 4.16.0-1 amd64 [installed,automatic]
+  Xfce desktop background, icons and root menu manager
+
+xfdesktop4-data/stable,stable,stable,stable,now 4.16.0-1 all [installed,automatic]
+  Xfce desktop background, icons and root menu (common files)
+
+xfe/stable 1.43.2-3 amd64
+  lightweight file manager for X11
+
+xfe-i18n/stable,stable,stable,stable 1.43.2-3 all
+  lightweight file manager for X11 (i18n support)
+
+xfe-themes/stable,stable,stable,stable 1.43.2-3 all
+  lightweight file manager for X11 (themes)
+
+xfwm4/stable,now 4.16.1-1 amd64 [installed,automatic]
+  window manager of the Xfce project
+
+xiccd/stable,now 0.3.0-1 amd64 [installed,automatic]
+  X color management daemon
+
+xiphos/stable 4.2.1+dfsg1-5 amd64
+  environment for Bible reading, study, and research
+
+xiphos-data/stable,stable,stable,stable 4.2.1+dfsg1-5 all
+  data files for Xiphos Bible study software
+
+xjig/stable 2.4-14.2 amd64
+  X11 jigsaw puzzle
+
+xkb-data/stable,stable,stable,stable,now 2.29-2 all [installed,automatic]
+  X Keyboard Extension (XKB) configuration data
+
+xmedcon/stable 0.16.3+dfsg-1 amd64
+  Medical Image (DICOM, ECAT, ...) conversion tool (GUI)
+
+xmobar/stable 0.36-2 amd64
+  lightweight status bar for X11 window managers
+
+xorg/stable,now 1:7.7+22 amd64 [installed,automatic]
+  X.Org X Window System
+
+xorgxrdp/stable 1:0.2.12-1 amd64
+  Remote Desktop Protocol (RDP) modules for X.org
+
+xrdesktop/stable,stable,stable,stable 0.15.1-5 all
+  XR desktop interaction library -- settings application
+
+xrdp/stable 0.9.12-1.1 amd64
+  Remote Desktop Protocol (RDP) server
+
+xrestop/stable 0.4+git20130926-3 amd64
+  X11 server resource usage monitor
+
+xserver-xorg-video-nouveau/stable,now 1:1.0.17-1 amd64 [installed,automatic]
+  X.Org X server -- Nouveau display driver
+
+xserver-xorg-video-nvidia/stable 460.91.03-1 amd64
+  NVIDIA binary Xorg driver
+
+xserver-xorg-video-nvidia-tesla-450/stable 450.142.00-1 amd64
+  NVIDIA binary Xorg driver (Tesla 450 version)
+
+xserver-xorg-video-nvidia-tesla-460/stable 460.91.03-1 amd64
+  NVIDIA binary Xorg driver (Tesla 460 version)
+
+xserver-xorg-video-openchrome/stable 1:0.6.0-4 amd64
+  X.Org X server -- OpenChrome display driver
+
+xsettings-kde/stable 0.9-2+b2 amd64
+  XSettings daemon for KDE
+
+xsettingsd/stable 1.0.2-1 amd64
+  Provides settings to X11 applications
+
+xsnow/stable 1:3.1.1-1 amd64
+  brings Christmas to your desktop
+
+xssproxy/stable 1.0.0-1+b1 amd64
+  Forward freedesktop.org Idle Inhibition Service calls to Xss
+
+xteddy/stable 2.2-5 amd64
+  cuddly teddy bear (or other image) for your X desktop
+
+xtide/stable 2.15.2-1 amd64
+  provides tide and current predictions
+
+xtide-data/stable,stable,stable,stable 20191229-1 all
+  Harmonics data for xtide
+
+xtide-data-nonfree/stable,stable,stable,stable 20100529-1 all
+  Harmonics data for xtide (Canada, Netherlands, Germany and UK)
+
+xtightvncviewer/stable 1:1.3.10-3 amd64
+  virtual network computing client software for X
+
+xtrans-dev/stable,stable,stable,stable,now 1.4.0-1 all [installed,automatic]
+  X transport library (development files)
+
+xwrited/stable 3-1 amd64
+  display write and wall messages as desktop notifications
+
+yelp/stable,now 3.38.3-1 amd64 [installed,automatic]
+  Help browser for GNOME
+
+yubioath-desktop/stable 5.0.4+post1-1 amd64
+  Graphical interface for displaying OATH codes with a Yubikey
+
+zsh-theme-powerlevel9k/stable,stable,stable,stable 0.6.7-2 all
+  powerlevel9k is a theme for zsh which uses powerline fonts
+
