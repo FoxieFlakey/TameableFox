@@ -1,0 +1,65 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.geometry.sheep",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 19, 2],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-4, -13, -20], "size": [8, 16, 6], "inflate": 1.75, "pivot": [0, -6, 0], "rotation": [-90, 0, 0], "uv": [23, 17]}
+					]
+				},
+				{
+					"name": "head",
+					"pivot": [0, 18, -8],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-7, 10, -12], "size": [13, 14, 6], "inflate": 0.6, "uv": [5, 0]}
+					]
+				},
+				{
+					"name": "leg0",
+					"pivot": [3, 12, 7],
+					"mirror": true,
+					"cubes": [
+						{"origin": [1, 0, 5], "size": [4, 6, 4], "inflate": 0.5, "uv": [48, 52]}
+					]
+				},
+				{
+					"name": "leg1",
+					"pivot": [-3, 12, 7],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-5, 0, 5], "size": [4, 6, 4], "inflate": 0.5, "uv": [17, 52]}
+					]
+				},
+				{
+					"name": "leg2",
+					"pivot": [3, 12, -5],
+					"mirror": true,
+					"cubes": [
+						{"origin": [1, 0, -7], "size": [4, 6, 4], "inflate": 0.5, "uv": [19, 52]}
+					]
+				},
+				{
+					"name": "leg3",
+					"pivot": [-3, 12, -5],
+					"mirror": true,
+					"cubes": [
+						{"origin": [-5, 0, -7], "size": [4, 6, 4], "inflate": 0.5, "uv": [48, 51]}
+					]
+				}
+			]
+		}
+	]
+}

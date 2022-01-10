@@ -18,6 +18,7 @@ repositories {
   // for more information about repositories.
   maven { url "https://maven.shedaniel.me/" }
   maven { url "https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/" }
+  maven { url "https://maven.terraformersmc.com/" }
 }
 
 dependencies {
@@ -40,6 +41,10 @@ dependencies {
   // GeckoLib 
   modApi "software.bernie.geckolib:geckolib-fabric-1.18:${project.geckolib_version}"
   include "software.bernie.geckolib:geckolib-fabric-1.18:${project.geckolib_version}"
+  
+  // Mod menu API
+  modApi "com.terraformersmc:modmenu:${project.modmenu_version}" 
+  include "com.terraformersmc:modmenu:${project.modmenu_version}" 
 }
 
 processResources {

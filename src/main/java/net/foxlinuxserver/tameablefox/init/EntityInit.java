@@ -10,10 +10,14 @@ import org.apache.logging.log4j.Logger;
 
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
+import net.fabricmc.fabric.api.client.rendering.v1.EntityRendererRegistry;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricDefaultAttributeRegistry;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
 import net.foxlinuxserver.tameablefox.TameableFox;
 import net.foxlinuxserver.tameablefox.entity.fox.EntityFox;
+import net.foxlinuxserver.tameablefox.entity.fox.RendererFox;
+import net.foxlinuxserver.tameablefox.entity.random_sheep.EntityRandomSheep;
+import net.foxlinuxserver.tameablefox.entity.random_sheep.RendererRandomSheep;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityDimensions;
 import net.minecraft.entity.EntityType;
@@ -31,16 +35,25 @@ public class EntityInit {
   
   private record EntityData<T extends Entity>(EntityType<T> entityType, 
                                               Runnable rendererRegisterer,
-                                              DefaultAttributeContainer.Builder attribute,
+                                              DefaultAttributeContainer.Builder attribute, 
                                               String id) {}
   
   public static final EntityType<EntityFox> ENTITY_FOX = EntityInit.add("fox", 
                FoxEntity.createFoxAttributes(),
-               () -> {} /* EntityRendererRegistry.register(EntityInit.ENTITY_FOX, RendererFox::new) */,
+               () -> EntityRendererRegistry.register(EntityInit.ENTITY_FOX, RendererFox::new),
                FabricEntityTypeBuilder.<EntityFox>create()
                                       .spawnGroup(SpawnGroup.CREATURE)
                                       .dimensions(EntityDimensions.fixed(0.6f, 0.7f)) 
                                       .entityFactory(EntityFox::new)
+                                      .build());
+  
+  public static final EntityType<EntityRandomSheep> ENTITY_RANDOM_SHEEP = EntityInit.add("random_sheep", 
+               FoxEntity.createFoxAttributes(),
+               () -> EntityRendererRegistry.register(EntityInit.ENTITY_RANDOM_SHEEP, RendererRandomSheep::new),
+               FabricEntityTypeBuilder.<EntityRandomSheep>create()
+                                      .spawnGroup(SpawnGroup.CREATURE)
+                                      .dimensions(EntityDimensions.fixed(0.6f, 0.7f)) 
+                                      .entityFactory(EntityRandomSheep::new)
                                       .build());
   
   public static <T extends Entity> EntityType<T> add(String name, 
@@ -58,6 +71,8 @@ public class EntityInit {
     for (int i = 0; i < entities.size(); i++) {
       EntityData<?> entity = entities.get(i);
       Identifier id = new Identifier(TameableFox.MOD_ID, entity.id);
+      
+      // For registering entity default attributes
       
       // If entity.attribute is non null that mean it must be LivingEntity
       // otherwise if it not LivingEntity and have attribute its a bug or
@@ -81,8 +96,8 @@ public class EntityInit {
   public static void registerClient() {
     LOGGER.info("Registering entity renderer");
     for (EntityData<?> entity : entities) {
-      entity.rendererRegisterer();
-      //EntityRendererRegistry.register(entity.entityType, entity.rendererRegisterer);
+      entity.rendererRegisterer().run(); 
+      //EntityRendererRegistry.register(entity.entityType, entity.entityRendererFactory);
     }
     LOGGER.info("Done!");
   }

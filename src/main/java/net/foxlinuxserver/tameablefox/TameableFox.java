@@ -1,13 +1,12 @@
 package net.foxlinuxserver.tameablefox;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import net.fabricmc.api.ModInitializer;
 import net.foxlinuxserver.tameablefox.init.BlockInit;
 import net.foxlinuxserver.tameablefox.init.EntityInit;
 import net.foxlinuxserver.tameablefox.init.ItemInit;
-
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
 import software.bernie.geckolib3.GeckoLib;
 
 // Common initializer

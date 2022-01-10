@@ -3,25 +3,39 @@ package net.foxlinuxserver.tameablefox.entity.fox;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.foxlinuxserver.tameablefox.TameableFox;
+import net.foxlinuxserver.tameablefox.entity.fox.EntityFox.FoxType;
 import net.minecraft.util.Identifier;
 import software.bernie.geckolib3.model.AnimatedGeoModel;
 
 @Environment(EnvType.CLIENT)
 public class ModelFox extends AnimatedGeoModel<EntityFox> {
+  private static final Identifier ANIMATION = new Identifier(TameableFox.MOD_ID, "animations/fox.animation.json");
+  private static final Identifier MODEL = new Identifier(TameableFox.MOD_ID, "geo/fox.geo.json");
+  private static final Identifier TEXTURE_ARCTIC_FOX = new Identifier(TameableFox.MOD_ID, "textures/entity/arctic_fox.png");
+  private static final Identifier TEXTURE_RED_FOX = new Identifier(TameableFox.MOD_ID, "textures/entity/fox.png");
+  
+  private static final Identifier DERP_ANIMATION = new Identifier(TameableFox.MOD_ID, "animations/fox.animation.json");
+  private static final Identifier DERP_MODEL = new Identifier(TameableFox.MOD_ID, "geo/fox_derp.geo.json");
+  private static final Identifier DERP_TEXTURE_ARCTIC_FOX = new Identifier(TameableFox.MOD_ID, "textures/entity/arctic_fox_derp.png");
+  private static final Identifier DERP_TEXTURE_RED_FOX = new Identifier(TameableFox.MOD_ID, "textures/entity/fox_derp.png");
+  
   @Override
-	public Identifier getAnimationFileLocation(EntityFox entity) {
-	  return new Identifier(TameableFox.MOD_ID, "animations/fox.animation.json");
-	}
+  public Identifier getAnimationFileLocation(EntityFox entity) {
+    return entity.isDerpy() ? DERP_ANIMATION : ANIMATION;
+  }
   
-	@Override
-	public Identifier getModelLocation(EntityFox entity) {
- 	  return new Identifier(TameableFox.MOD_ID, "geo/fox.geo.json");
-	}
+  @Override
+  public Identifier getModelLocation(EntityFox entity) {
+    return entity.isDerpy() ? DERP_MODEL : MODEL;
+  }
   
-	@Override
-	public Identifier getTextureLocation(EntityFox entity) {
-	  return entity.foxType == EntityFox.FoxType.RED ? 
-                          new Identifier(TameableFox.MOD_ID, "textures/entity/fox.png") :
-                          new Identifier(TameableFox.MOD_ID, "textures/entity/arctic_fox.png"); 
-	} 
+  @Override
+  public Identifier getTextureLocation(EntityFox entity) {
+    switch (entity.getFoxType().value) {
+      case FoxType.ARCTIC_VALUE: return entity.isDerpy() ? DERP_TEXTURE_ARCTIC_FOX : TEXTURE_ARCTIC_FOX;
+      case FoxType.RED_VALUE: return entity.isDerpy() ? DERP_TEXTURE_RED_FOX: TEXTURE_RED_FOX;
+      
+      default: return entity.isDerpy() ? DERP_TEXTURE_RED_FOX: TEXTURE_RED_FOX;
+    }
+  }  
 }

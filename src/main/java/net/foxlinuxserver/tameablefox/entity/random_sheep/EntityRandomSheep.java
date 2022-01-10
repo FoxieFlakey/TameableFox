@@ -1,4 +1,4 @@
-package net.foxlinuxserver.tameablefox.entity.fox;
+package net.foxlinuxserver.tameablefox.entity.random_sheep;
 
 import net.foxlinuxserver.tameablefox.init.EntityInit;
 import net.foxlinuxserver.tameablefox.util.Util;
@@ -19,9 +19,6 @@ import net.minecraft.entity.ai.goal.TrackOwnerAttackerGoal;
 import net.minecraft.entity.ai.goal.UntamedActiveTargetGoal;
 import net.minecraft.entity.ai.goal.WanderAroundFarGoal;
 import net.minecraft.entity.ai.goal.WanderAroundGoal;
-import net.minecraft.entity.data.DataTracker;
-import net.minecraft.entity.data.TrackedData;
-import net.minecraft.entity.data.TrackedDataHandlerRegistry;
 import net.minecraft.entity.mob.AbstractSkeletonEntity;
 import net.minecraft.entity.mob.MobEntity;
 import net.minecraft.entity.passive.PassiveEntity;
@@ -31,7 +28,6 @@ import net.minecraft.entity.passive.TurtleEntity;
 import net.minecraft.entity.passive.WolfEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.nbt.NbtCompound;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.tag.ItemTags;
 import net.minecraft.world.World;
@@ -43,43 +39,17 @@ import software.bernie.geckolib3.core.event.predicate.AnimationEvent;
 import software.bernie.geckolib3.core.manager.AnimationData;
 import software.bernie.geckolib3.core.manager.AnimationFactory;
 
-public class EntityFox extends TameableEntity implements IAnimatable {
+public class EntityRandomSheep extends TameableEntity implements IAnimatable {
   private final AnimationFactory ANIMATION_FACTORY = new AnimationFactory(this);
   
-  private static final TrackedData<Integer> TRACKER_FOX_TYPE = 
-                             DataTracker.registerData(EntityFox.class, 
-                                                      TrackedDataHandlerRegistry.INTEGER);
-  private static final TrackedData<Boolean> TRACKER_FOX_DERPY = 
-                             DataTracker.registerData(EntityFox.class, 
-                                                      TrackedDataHandlerRegistry.BOOLEAN);
-  
-  public enum FoxType {
-    RED(FoxType.RED_VALUE),
-    ARCTIC(FoxType.ARCTIC_VALUE);
-    
-    public static final int RED_VALUE = 1;
-    public static final int ARCTIC_VALUE = 2;
-    
-    public final int value;
-    private FoxType(int value) {this.value = value;}
-    
-    public static FoxType fromInteger(int integer) {
-      switch (integer) {
-        case FoxType.RED_VALUE:             return FoxType.RED;
-        case FoxType.ARCTIC_VALUE:          return FoxType.ARCTIC;
-        default:                            return FoxType.RED; 
-      } 
-    }
-  } 
-  
-  public EntityFox(EntityType<? extends TameableEntity> entityType, World world) {
+  public EntityRandomSheep(EntityType<? extends TameableEntity> entityType, World world) {
     super(entityType, world);
   }
   
   // No child creation
   @Override
   public PassiveEntity createChild(ServerWorld world, PassiveEntity entity) {
-    return new EntityFox(EntityInit.ENTITY_FOX, world);
+    return new EntityRandomSheep(EntityInit.ENTITY_RANDOM_SHEEP, world);
   }
   
   @Override
@@ -119,35 +89,6 @@ public class EntityFox extends TameableEntity implements IAnimatable {
     this.targetSelector.add(7, new ActiveTargetGoal<AbstractSkeletonEntity>((MobEntity)this, AbstractSkeletonEntity.class, false));
   }
   
-  public FoxType getFoxType() {
-    return FoxType.fromInteger(this.dataTracker.get(TRACKER_FOX_TYPE));
-  }
-  
-  public boolean isDerpy() {
-    return this.dataTracker.get(TRACKER_FOX_DERPY);
-  }
-  
-  @Override
-  public void initDataTracker() {
-    super.initDataTracker();
-    this.dataTracker.startTracking(TRACKER_FOX_TYPE, FoxType.RED.value);
-    this.dataTracker.startTracking(TRACKER_FOX_DERPY, false);
-  }
-  
-  @Override
-  public void writeCustomDataToNbt(NbtCompound compound) {
-    super.writeCustomDataToNbt(compound); 
-    compound.putInt("Type", this.dataTracker.get(TRACKER_FOX_TYPE));
-    compound.putBoolean("Derpy", this.dataTracker.get(TRACKER_FOX_DERPY));
-  }
-  
-  @Override
-  public void readCustomDataFromNbt(NbtCompound compound) {
-    super.readCustomDataFromNbt(compound); 
-    this.dataTracker.set(TRACKER_FOX_TYPE, compound.getInt("Type"));
-    this.dataTracker.set(TRACKER_FOX_DERPY, compound.getBoolean("Derpy"));
-  }
-  
   @Override
   public boolean isBreedingItem(ItemStack stack) {
     return stack.isIn(ItemTags.FOX_FOOD); 
@@ -155,14 +96,14 @@ public class EntityFox extends TameableEntity implements IAnimatable {
   
   private <E extends IAnimatable> PlayState animationController(AnimationEvent<E> event) {
     if (this.navigation.isIdle()) {
-      event.getController().setAnimation(new AnimationBuilder().addAnimation("animation.fox.idle"));
+      event.getController().setAnimation(new AnimationBuilder().addAnimation("animation.random_sheep.idle"));
     }
     return PlayState.CONTINUE;
   }
   
   @Override
   public void registerControllers(AnimationData data) {
-    data.addAnimationController(new AnimationController<EntityFox>(this, "controller", 0, this::animationController));
+    data.addAnimationController(new AnimationController<EntityRandomSheep>(this, "controller", 0, this::animationController));
   }
   
   @Override

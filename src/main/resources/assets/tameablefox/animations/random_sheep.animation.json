@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.fox.idle": {
+		"animation.random_sheep.idle": {
 			"loop": true,
 			"animation_length": 1,
 			"bones": {
@@ -12,7 +12,7 @@
 				}
 			}
 		},
-		"animation.fox.walking": {
+		"animation.random_sheep.walking": {
 			"loop": true,
 			"animation_length": 3.75,
 			"bones": {

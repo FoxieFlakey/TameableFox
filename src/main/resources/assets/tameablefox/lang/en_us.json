@@ -1,5 +1,15 @@
 {
   "item.tameablefox.hello_tea": "Hello Tea",
   "item.tameablefox.hello_fuchs": "Hello Fuchs",
-  "itemGroup.tameablefox.tameablefox_group": "Tameable Fox"
+  
+  "entity.tameablefox.fox": "Fox",
+  "entity.tameablefox.random_sheep": "Sheep v2.0.0",
+  
+  "itemGroup.tameablefox.tameablefox_group": "Tameable Fox",
+  
+  "text.tameablefox.settings.title": "Tameable Fox settings",
+  "text.tameablefox.settings.general": "General",
+  "text.tameablefox.settings.mixin": "Mixin",
+  "text.tameablefox.settings.mixin.mixin_patch": "Mixin Patch",
+  "text.tameablefox.settings.general.derpy_fox": "Derpy Fox"
 }
