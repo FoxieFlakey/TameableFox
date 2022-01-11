@@ -16,8 +16,8 @@ import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
 import net.foxlinuxserver.tameablefox.TameableFox;
 import net.foxlinuxserver.tameablefox.entity.fox.EntityFox;
 import net.foxlinuxserver.tameablefox.entity.fox.RendererFox;
-import net.foxlinuxserver.tameablefox.entity.random_sheep.EntityRandomSheep;
-import net.foxlinuxserver.tameablefox.entity.random_sheep.RendererRandomSheep;
+import net.foxlinuxserver.tameablefox.entity.random_sheep.EntityCursedSheep;
+import net.foxlinuxserver.tameablefox.entity.random_sheep.RendererCursedSheep;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityDimensions;
 import net.minecraft.entity.EntityType;
@@ -47,13 +47,13 @@ public class EntityInit {
                                       .entityFactory(EntityFox::new)
                                       .build());
   
-  public static final EntityType<EntityRandomSheep> ENTITY_RANDOM_SHEEP = EntityInit.add("random_sheep", 
+  public static final EntityType<EntityCursedSheep> ENTITY_CURSED_SHEEP = EntityInit.add("cursed_sheep", 
                FoxEntity.createFoxAttributes(),
-               () -> EntityRendererRegistry.register(EntityInit.ENTITY_RANDOM_SHEEP, RendererRandomSheep::new),
-               FabricEntityTypeBuilder.<EntityRandomSheep>create()
+               () -> EntityRendererRegistry.register(EntityInit.ENTITY_CURSED_SHEEP, RendererCursedSheep::new),
+               FabricEntityTypeBuilder.<EntityCursedSheep>create()
                                       .spawnGroup(SpawnGroup.CREATURE)
                                       .dimensions(EntityDimensions.fixed(0.6f, 0.7f)) 
-                                      .entityFactory(EntityRandomSheep::new)
+                                      .entityFactory(EntityCursedSheep::new)
                                       .build());
   
   public static <T extends Entity> EntityType<T> add(String name, 
@@ -63,6 +63,7 @@ public class EntityInit {
     if (entityExistence.get(name) != null)
       throw new IllegalArgumentException("Entity with id of '" + name + "' already exist"); 
     entities.add(new EntityData<>(entity, rendererRegisterer, attribute, name));
+    
     return entity;
   }
   

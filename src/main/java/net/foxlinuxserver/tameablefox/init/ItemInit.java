@@ -11,6 +11,7 @@ import org.apache.logging.log4j.Logger;
 import net.foxlinuxserver.tameablefox.TameableFox;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
+import net.minecraft.item.SpawnEggItem;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
@@ -22,6 +23,16 @@ public class ItemInit {
   
   //public static final Item ITEM_HELLO_TEA = BlockInit.BLOCK_HELLO_TEA.asItem();
   //public static final Item ITEM_HELLO_FUCHS = BlockInit.BLOCK_HELLO_FUCHS.asItem();
+  public static final Item ITEM_FOX_SPAWN_EGG = add("fox_egg", 
+                                      new SpawnEggItem(EntityInit.ENTITY_FOX, 
+                                                       14005919, 13396256, 
+                                                       new Item.Settings()
+                                                               .group(ItemGroup.MISC)));
+  public static final Item ITEM_CURSED_SHEEP_SPAWN_EGG = add("cursed_sheep_egg", 
+                                      new SpawnEggItem(EntityInit.ENTITY_CURSED_SHEEP, 
+                                                       0xE7E7E7, 0xFFB5B5, 
+                                                       new Item.Settings()
+                                                               .group(ItemGroup.MISC)));
   
   public static Item add(String name, Item item) {
     if (itemExistence.get(name) != null && itemExistence.get(name) == true)

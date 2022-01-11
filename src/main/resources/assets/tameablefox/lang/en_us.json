@@ -1,15 +1,20 @@
 {
+  "entity.tameablefox.fox": "Fox",
+  "entity.tameablefox.cursed_sheep": "Sheep v2.0.0",
+  
   "item.tameablefox.hello_tea": "Hello Tea",
   "item.tameablefox.hello_fuchs": "Hello Fuchs",
-  
-  "entity.tameablefox.fox": "Fox",
-  "entity.tameablefox.random_sheep": "Sheep v2.0.0",
+  "item.tameablefox.cursed_sheep_egg": "Sheep v2.0.0 Spawn Egg",
+  "item.tameablefox.fox_egg": "Fox Spawn Egg",
   
   "itemGroup.tameablefox.tameablefox_group": "Tameable Fox",
   
   "text.tameablefox.settings.title": "Tameable Fox settings",
-  "text.tameablefox.settings.general": "General",
+  
   "text.tameablefox.settings.mixin": "Mixin",
   "text.tameablefox.settings.mixin.mixin_patch": "Mixin Patch",
-  "text.tameablefox.settings.general.derpy_fox": "Derpy Fox"
+  
+  "text.tameablefox.settings.general": "General",
+  "text.tameablefox.settings.general.derpy_fox": "Derpy Fox",
+  "text.tameablefox.settings.general.cursed_sheep": "Cursed Sheep"
 }

@@ -14,7 +14,7 @@ public class TameableFox implements ModInitializer {
   private static final Logger LOGGER = LogManager.getLogger(TameableFox.class.getSimpleName());
   public static final String MOD_ID = "tameablefox";
   
-  // Written using vim for sake more RAM lol
+  // Written using vim for sake more RAM lol (no longer valid)
   @Override
   public void onInitialize() {
     LOGGER.info("Initializing GeckoLib");

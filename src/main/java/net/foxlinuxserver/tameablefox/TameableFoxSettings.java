@@ -1,15 +1,21 @@
 package net.foxlinuxserver.tameablefox;
 
+import com.terraformersmc.modmenu.api.ConfigScreenFactory;
+import com.terraformersmc.modmenu.api.ModMenuApi;
+
 import me.shedaniel.clothconfig2.api.ConfigBuilder;
 import me.shedaniel.clothconfig2.api.ConfigCategory;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.text.TranslatableText;
 
-public class TameableFoxSettings implements ModMenu {
+public class TameableFoxSettings implements ModMenuApi {
   // Enables spawning of derpy foxes (when disabled no derpy foxes spawned naturally
   // except breeding)
   private static boolean isDerpyFoxEnabled = true;
+  
+  // Enables spawning of cursed sheeps 
+  private static boolean isCursedSheepEnabled = true;
   
   // Enable mixin patch to vanilla foxes (not recommended turning off after
   // creating world with this on)
@@ -17,6 +23,10 @@ public class TameableFoxSettings implements ModMenu {
   
   public static void setDerpyFox(boolean val) {isDerpyFoxEnabled = val;} 
   public static boolean isDerpyFox() {return isDerpyFoxEnabled;} 
+  
+  public static void setCursedSheep(boolean val) {isCursedSheepEnabled = val;} 
+  public static boolean isCursedSheep() {return isCursedSheepEnabled;}
+   
   public static void setMixinPatch(boolean val) {isMixinPatchEnabled = val;} 
   public static boolean isMixinPatch() {return isMixinPatchEnabled;} 
   
@@ -25,6 +35,13 @@ public class TameableFoxSettings implements ModMenu {
                                           .startBooleanToggle(new TranslatableText("text.tameablefox.settings.general.derpy_fox"), 
                                                               TameableFoxSettings.isDerpyFox())
                                           .setSaveConsumer(TameableFoxSettings::setDerpyFox)
+                                          .setDefaultValue(true)
+                                          .build()); 
+    
+    categoryBuilder.addEntry(configBuilder.entryBuilder()
+                                          .startBooleanToggle(new TranslatableText("text.tameablefox.settings.general.cursed_sheep"), 
+                                                              TameableFoxSettings.isCursedSheep()) 
+                                          .setSaveConsumer(TameableFoxSettings::setCursedSheep)
                                           .setDefaultValue(true)
                                           .build());
   }
@@ -58,6 +75,6 @@ public class TameableFoxSettings implements ModMenu {
   
   @Override
 	public ConfigScreenFactory<?> getModConfigScreenFactory() {
-		return TameableFoxSettings::getConfigScreen;
+    return TameableFoxSettings::getConfigScreen;
 	}
 }

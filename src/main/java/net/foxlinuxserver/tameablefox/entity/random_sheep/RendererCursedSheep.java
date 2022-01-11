@@ -6,8 +6,8 @@ import net.minecraft.client.render.entity.EntityRendererFactory;
 import software.bernie.geckolib3.renderers.geo.GeoEntityRenderer;
 
 @Environment(EnvType.CLIENT)
-public class RendererRandomSheep extends GeoEntityRenderer<EntityRandomSheep> {
-  public RendererRandomSheep(EntityRendererFactory.Context ctx) {
-		super(ctx, new ModelRandomSheep()); 
+public class RendererCursedSheep extends GeoEntityRenderer<EntityCursedSheep> {
+  public RendererCursedSheep(EntityRendererFactory.Context ctx) {
+		super(ctx, new ModelCursedSheep()); 
   } 
 }

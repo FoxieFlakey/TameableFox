@@ -26,6 +26,9 @@
     ],
     "server": [
       "net.foxlinuxserver.tameablefox.entrypoint.ServerEntryPoint"
+    ],
+    "modmenu": [
+      "net.foxlinuxserver.tameablefox.TameableFoxSettings" 
     ]
   },
   "mixins": [
