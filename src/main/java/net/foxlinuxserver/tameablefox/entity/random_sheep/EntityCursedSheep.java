@@ -78,9 +78,6 @@ public class EntityCursedSheep extends AnimalEntity implements IAnimatable {
   }
   
   private <E extends IAnimatable> PlayState animationController(AnimationEvent<E> event) {
-    if (this.navigation.isIdle()) {
-      event.getController().setAnimation(new AnimationBuilder().addAnimation("animation.cursed_sheep.idle"));
-    }
     return PlayState.CONTINUE;
   }
   

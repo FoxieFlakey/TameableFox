@@ -3,7 +3,6 @@ package net.foxlinuxserver.tameablefox.entity.fox;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.foxlinuxserver.tameablefox.TameableFox;
-import net.foxlinuxserver.tameablefox.entity.fox.EntityFox.FoxType;
 import net.minecraft.util.Identifier;
 import software.bernie.geckolib3.model.AnimatedGeoModel;
 
@@ -31,9 +30,9 @@ public class ModelFox extends AnimatedGeoModel<EntityFox> {
   
   @Override
   public Identifier getTextureLocation(EntityFox entity) {
-    switch (entity.getFoxType().value) {
-      case FoxType.ARCTIC_VALUE: return entity.isDerpy() ? DERP_TEXTURE_ARCTIC_FOX : TEXTURE_ARCTIC_FOX;
-      case FoxType.RED_VALUE: return entity.isDerpy() ? DERP_TEXTURE_RED_FOX: TEXTURE_RED_FOX;
+    switch (entity.getFoxType()) {
+      case SNOW: return entity.isDerpy() ? DERP_TEXTURE_ARCTIC_FOX : TEXTURE_ARCTIC_FOX;
+      case RED: return entity.isDerpy() ? DERP_TEXTURE_RED_FOX: TEXTURE_RED_FOX;
       
       default: return entity.isDerpy() ? DERP_TEXTURE_RED_FOX: TEXTURE_RED_FOX;
     }

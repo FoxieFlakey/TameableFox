@@ -1,5 +1,11 @@
 package net.foxlinuxserver.tameablefox.entity.fox;
 
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import net.foxlinuxserver.tameablefox.init.EntityInit;
 import net.foxlinuxserver.tameablefox.util.Util;
 import net.minecraft.entity.EntityType;
@@ -34,6 +40,8 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NbtCompound;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.tag.ItemTags;
+import net.minecraft.util.ActionResult;
+import net.minecraft.util.Hand;
 import net.minecraft.world.World;
 import software.bernie.geckolib3.core.IAnimatable;
 import software.bernie.geckolib3.core.PlayState;
@@ -45,30 +53,46 @@ import software.bernie.geckolib3.core.manager.AnimationFactory;
 
 public class EntityFox extends TameableEntity implements IAnimatable {
   private final AnimationFactory ANIMATION_FACTORY = new AnimationFactory(this);
+  private static final Logger LOGGER = LogManager.getLogger(EntityFox.class);
   
-  private static final TrackedData<Integer> TRACKER_FOX_TYPE = 
+  private static final TrackedData<String> TRACKER_FOX_TYPE = 
                              DataTracker.registerData(EntityFox.class, 
-                                                      TrackedDataHandlerRegistry.INTEGER);
+                                                      TrackedDataHandlerRegistry.STRING);
   private static final TrackedData<Boolean> TRACKER_FOX_DERPY = 
                              DataTracker.registerData(EntityFox.class, 
                                                       TrackedDataHandlerRegistry.BOOLEAN);
+  private static final TrackedData<Boolean> TRACKER_FOX_SLEEPING = 
+                             DataTracker.registerData(EntityFox.class, 
+                                                      TrackedDataHandlerRegistry.BOOLEAN);
+  
+  // Animations
+  private static final AnimationBuilder ANIMATION_SLEEPING = new AnimationBuilder()
+                                .addAnimation("animation.fox.sleep", true);
+  private static final AnimationBuilder ANIMATION_NOT_SLEEPING = new AnimationBuilder()
+                                .addAnimation("animation.fox.setup", true);
+  private static final AnimationBuilder ANIMATION_WALK = new AnimationBuilder()
+                                .addAnimation("animation.fox.walk", true);
+  private static final AnimationBuilder ANIMATION_SIT = new AnimationBuilder()
+                                .addAnimation("animation.fox.sit", true);
+  private static final AnimationBuilder ANIMATION_BABY = new AnimationBuilder()
+                                .addAnimation("animation.fox.baby", true);
   
   public enum FoxType {
-    RED(FoxType.RED_VALUE),
-    ARCTIC(FoxType.ARCTIC_VALUE);
+    RED("red"),
+    SNOW("snow");
     
-    public static final int RED_VALUE = 1;
-    public static final int ARCTIC_VALUE = 2;
+    public final String value;
+    private FoxType(String value) {this.value = value;}
     
-    public final int value;
-    private FoxType(int value) {this.value = value;}
+    private static final Map<String, FoxType> lookup = new HashMap<>();
     
-    public static FoxType fromInteger(int integer) {
-      switch (integer) {
-        case FoxType.RED_VALUE:             return FoxType.RED;
-        case FoxType.ARCTIC_VALUE:          return FoxType.ARCTIC;
-        default:                            return FoxType.RED; 
-      } 
+    static {
+      for (FoxType t : FoxType.values()) 
+        lookup.put(t.value, t); 
+    }
+    
+    public static FoxType fromString(String str) {
+      return lookup.getOrDefault(str, FoxType.RED);
     }
   } 
   
@@ -119,8 +143,45 @@ public class EntityFox extends TameableEntity implements IAnimatable {
     this.targetSelector.add(7, new ActiveTargetGoal<AbstractSkeletonEntity>((MobEntity)this, AbstractSkeletonEntity.class, false));
   }
   
+  @Override
+  public ActionResult interactMob(PlayerEntity player, Hand hand) { 
+    ItemStack items = player.getStackInHand(hand);
+    
+    if (!this.isTamed()) {
+      if (this.isTamingItem(items)) {
+        // Tame if the fox havent tamed
+        if (!player.getAbilities().creativeMode) {
+          items.decrement(1);
+        }
+        
+        this.setTamed(true);
+        LOGGER.info("Tamed a fox!");
+        return ActionResult.SUCCESS;
+      } 
+      
+      return super.interactMob(player, hand); 
+    } else {
+      if (items.isFood() && this.getHealth() < this.getMaxHealth()) {
+        // Try heal 
+        if (!player.getAbilities().creativeMode) {
+          items.decrement(1);
+        }
+        
+        float prev = this.getHealth();
+        this.heal(items.getItem().getFoodComponent().getHunger());
+        LOGGER.info(String.format("Healed a tamed fox! (%f to %f)"), prev, this.getHealth());
+        return ActionResult.SUCCESS;
+      } else {
+        // Set the tamed fox to sit 
+        this.setSitting(!this.isSitting());
+        LOGGER.info("Setting fox to " + this.isSitting());
+        return ActionResult.SUCCESS;
+      }
+    }
+  }
+  
   public FoxType getFoxType() {
-    return FoxType.fromInteger(this.dataTracker.get(TRACKER_FOX_TYPE));
+    return FoxType.fromString(this.dataTracker.get(TRACKER_FOX_TYPE));
   }
   
   public boolean isDerpy() {
@@ -128,41 +189,96 @@ public class EntityFox extends TameableEntity implements IAnimatable {
   }
   
   @Override
+  public boolean isSleeping() {
+    return this.dataTracker.get(TRACKER_FOX_SLEEPING);
+  }
+  
+  public void setSleeping(boolean val) {
+    this.dataTracker.set(TRACKER_FOX_SLEEPING, val);
+  }
+  
+  @Override
   public void initDataTracker() {
     super.initDataTracker();
     this.dataTracker.startTracking(TRACKER_FOX_TYPE, FoxType.RED.value);
     this.dataTracker.startTracking(TRACKER_FOX_DERPY, false);
+    this.dataTracker.startTracking(TRACKER_FOX_SLEEPING, false);
   }
   
   @Override
   public void writeCustomDataToNbt(NbtCompound compound) {
     super.writeCustomDataToNbt(compound); 
-    compound.putInt("Type", this.dataTracker.get(TRACKER_FOX_TYPE));
+    compound.putString("Type", this.dataTracker.get(TRACKER_FOX_TYPE));
     compound.putBoolean("Derpy", this.dataTracker.get(TRACKER_FOX_DERPY));
+    compound.putBoolean("Sleeping", this.dataTracker.get(TRACKER_FOX_SLEEPING));
   }
   
   @Override
   public void readCustomDataFromNbt(NbtCompound compound) {
     super.readCustomDataFromNbt(compound); 
-    this.dataTracker.set(TRACKER_FOX_TYPE, compound.getInt("Type"));
+    this.dataTracker.set(TRACKER_FOX_TYPE, compound.getString("Type"));
     this.dataTracker.set(TRACKER_FOX_DERPY, compound.getBoolean("Derpy"));
+    this.dataTracker.set(TRACKER_FOX_SLEEPING, compound.getBoolean("Sleeping"));
   }
+  
+  /*@Override
+  public boolean isSitting() {
+    return this.isInSittingPose();
+  }
+  
+  @Override
+  public void setSitting(boolean var) {
+    this.setInSittingPose(var);
+  }*/
   
   @Override
   public boolean isBreedingItem(ItemStack stack) {
     return stack.isIn(ItemTags.FOX_FOOD); 
   }
   
-  private <E extends IAnimatable> PlayState animationController(AnimationEvent<E> event) {
-    if (this.navigation.isIdle()) {
-      event.getController().setAnimation(new AnimationBuilder().addAnimation("animation.fox.idle"));
+  public boolean isTamingItem(ItemStack stack) {
+    return this.isBreedingItem(stack);
+  }
+  
+  private <E extends IAnimatable> PlayState walkingAnimation(AnimationEvent<E> event) {
+    if (event.isMoving()) {
+      event.getController().setAnimation(ANIMATION_WALK);
+      return PlayState.CONTINUE;
+    } else {
+      return PlayState.STOP;
     }
+  }
+  
+  private <E extends IAnimatable> PlayState sleepingController(AnimationEvent<E> event) {
+    if (this.isSleeping()) {
+      event.getController().setAnimation(ANIMATION_SLEEPING);
+      return PlayState.CONTINUE;
+    } else {
+      event.getController().setAnimation(ANIMATION_NOT_SLEEPING);
+      return PlayState.CONTINUE;
+    } 
+  }
+  
+  private <E extends IAnimatable> PlayState sittingController(AnimationEvent<E> event) {
+    if (this.isSitting()) {
+      event.getController().setAnimation(ANIMATION_SIT);
+      return PlayState.CONTINUE;
+    } else {
+      return PlayState.STOP;
+    }
+  }
+  
+  private <E extends IAnimatable> PlayState babyCheckController(AnimationEvent<E> event) {
+    //event.getController().setAnimation(ANIMATION_BABY);
     return PlayState.CONTINUE;
   }
   
   @Override
   public void registerControllers(AnimationData data) {
-    data.addAnimationController(new AnimationController<EntityFox>(this, "controller", 0, this::animationController));
+    data.addAnimationController(new AnimationController<EntityFox>(this, "baby_check", 0, this::babyCheckController));
+    data.addAnimationController(new AnimationController<EntityFox>(this, "sitting", 0, this::sittingController));
+    data.addAnimationController(new AnimationController<EntityFox>(this, "sleeping", 0, this::sleepingController));
+    data.addAnimationController(new AnimationController<EntityFox>(this, "walking", 0, this::walkingAnimation));
   }
   
   @Override

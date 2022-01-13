@@ -1,27 +1,98 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.random_sheep.idle": {
+    "animation.cursed_sheep.walk": {
+			"anim_time_update": "query.modified_distance_moved",
 			"loop": true,
-			"animation_length": 1,
 			"bones": {
+				"leg0": {
+					"rotation": ["math.cos(query.anim_time*38.17)*80.0", 0, 0]
+				},
+				"leg1": {
+					"rotation": ["math.cos(query.anim_time*38.17)*-80.0", 0, 0]
+				},
+				"leg2": {
+					"rotation": ["math.cos(query.anim_time*38.17)*-80.0", 0, 0]
+				},
+				"leg3": {
+					"rotation": ["math.cos(query.anim_time*38.17)*80.0", 0, 0]
+				}
+			}
+		}, 
+		"animation.cursed_sheep.wiggle": {
+			"loop": true,
+			"animation_length": 198.04167,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 20.0 * 53.7) * 5.0 -this", 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": ["math.clamp(-5.0 * (query.anim_time / 2.0), -5.0, 0)", 0, "math.clamp(25.0 * (query.anim_time / 2.0), 0, 25.0)"]
+					},
+					"position": {
+						"vector": [0, -0.8, 0]
+					}
+				},
+				"leg0": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"leg1": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"tail": {
+					"rotation": {
+						"vector": [0, "math.cos(query.life_time * 20.0 * 53.7) * 10.0 -this", 0]
+					}
+				}
+			}
+		}, 
+		"animation.cursed_sheep.setup": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": ["-this", 0, 0]
+					}
+				},
 				"head_sleeping": {
 					"scale": {
 						"vector": [0, 0, 0]
 					}
 				}
 			}
-		},
-		"animation.random_sheep.walking": {
-			"loop": true,
-			"animation_length": 3.75,
-			"bones": {
-				"leg1": {
-					"rotation": {
-						"vector": ["math.cos(query.anim_time * 512) * 32", 0, 0]
-					}
-				}
-			}
-		}
-	}
+		} 
+  },
+	"geckolib_format_version": 2
 }
